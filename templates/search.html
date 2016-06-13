@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Am I God</title>
+	</head>
+	<body>
+		<a href="/"><h5>back</h5></a>
+		<h3>Search result for {{ blog_name }} </h3>
+		{% if detail %}
+		<h1>{{ detail.title }}</h1>
+		<a href="{{ detail.url }}" target="_blank">link</a>
+		<h3>Total # of posts: {{ detail.posts }}</h3>
+		<h3>Not safe for work? {{ detail.is_nsfw }} </h3>
+		<h3>Description</h3>
+		<p> {{ detail.description }} </p>
+		{% else %}
+		<h1>No Results.</h1>
+		{% endif %}
+	</body>
+</html>
