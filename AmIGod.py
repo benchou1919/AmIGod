@@ -18,6 +18,6 @@ def search():
 	return render_template('search.html', blog_name=blog_url, info=info, posts=posts), 200
 
 if __name__ == "__main__":
-	app.run(port=8080)
 	app.debug = True
+	app.run(port=8080)
 
