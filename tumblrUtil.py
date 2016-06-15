@@ -185,44 +185,103 @@ class TumblrPost(object):
 		self.blog_name = raw_dictionary['blog_name']
 		self.timestamp = raw_dictionary['timestamp'] # seconds since epoch
 		self.format = raw_dictionary['format'] # either HTML or Markdown
-		self.notes = raw_dictionary['notes']
+		if 'notes' in raw_dictionary.keys():
+			self.notes = raw_dictionary['notes']
+		else:
+			self.notes = None
 		#
 		if self.type == "text":
-			self.title = raw_dictionary['title']
-			self.body = raw_dictionary['body']
+			self.title = None
+			self.body = None
+			if 'title' in raw_dictionary.keys():
+				self.title = raw_dictionary['title']
+			if 'body' in raw_dictionary.keys():
+				self.body = raw_dictionary['body']
 		elif self.type == "photo":
-			self.photos = raw_dictionary['photos']
-			self.caption = raw_dictionary['caption']
+			self.photos = None
+			self.caption = None
+			if 'photos' in raw_dictionary.keys():
+				self.photos = raw_dictionary['photos']
+			if 'caption' in raw_dictionary.keys():
+				self.caption = raw_dictionary['caption']
 		elif self.type == "quote":
-			self.text = raw_dictionary['text']
-			self.source = raw_dictionary['source']
+			self.text = None
+			self.source = None
+			if 'text' in raw_dictionary.keys():
+				self.text = raw_dictionary['text']
+			if 'source' in raw_dictionary.keys():
+				self.source = raw_dictionary['source']
 		elif self.type == "link":
-			self.title = raw_dictionary['title']
-			self.url = raw_dictionary['url']
-			self.author = raw_dictionary['author']
-			self.publisher = raw_dictionary['publisher']
-			self.photos = raw_dictionary['photos']
-			self.description = raw_dictionary['description']
+			self.title = None
+			self.url = None
+			self.author = None
+			self.publisher = None
+			self.photos = None
+			self.description = None
+			if 'title' in raw_dictionary.keys():
+				self.title = raw_dictionary['title']
+			if 'url' in raw_dictionary.keys():
+				self.url = raw_dictionary['url']
+			if 'author' in raw_dictionary.keys():
+				self.author = raw_dictionary['author']
+			if 'publisher' in raw_dictionary.keys():
+				self.publisher = raw_dictionary['publisher']
+			if 'photos' in raw_dictionary.keys():
+				self.photos = raw_dictionary['photos']
+			if 'description' in raw_dictionary.keys():
+				self.description = raw_dictionary['description']
 		elif self.type == "chat":
-			self.title = raw_dictionary['title']
-			self.body = raw_dictionary['body']
-			self.dialogue = raw_dictionary['dialogue']
+			self.title = None
+			self.body = None
+			self.dialogue = None
+			if 'title' in raw_dictionary.keys():
+				self.title = raw_dictionary['title']
+			if 'body' in raw_dictionary.keys():
+				self.body = raw_dictionary['body']
+			if 'dialogue' in raw_dictionary.keys():
+				self.dialogue = raw_dictionary['dialogue']
 		elif self.type == "audio":
-			self.caption = raw_dictionary['caption']
-			self.player = raw_dictionary['player']
-			self.plays = raw_dictionary['plays']
-			self.artist = raw_dictionary['artist']
-			self.album = raw_dictionary['album']
-			self.track_name = raw_dictionary['track_name']
-			self.year = raw_dictionary['year']
+			self.caption = None
+			self.player = None
+			self.plays = None
+			self.artist = None
+			self.album = None
+			self.track_name = None
+			self.year = None
+			if 'caption' in raw_dictionary.keys():
+				self.caption = raw_dictionary['caption']
+			if 'player' in raw_dictionary.keys():
+				self.player = raw_dictionary['player']
+			if 'plays' in raw_dictionary.keys():
+				self.plays = raw_dictionary['plays']
+			if 'artist' in raw_dictionary.keys():
+				self.artist = raw_dictionary['artist']
+			if 'album' in raw_dictionary.keys():
+				self.album = raw_dictionary['album']
+			if 'track_name' in raw_dictionary.keys():
+				self.track_name = raw_dictionary['track_name']
+			if 'year' in raw_dictionary.keys():
+				self.year = raw_dictionary['year']
 		elif self.type == "video":
-			self.caption = raw_dictionary['caption']
-			self.player = raw_dictionary['player']
+			self.caption = None
+			self.player = None
+			if 'caption' in raw_dictionary.keys():
+				self.caption = raw_dictionary['caption']
+			if 'player' in raw_dictionary.keys():
+				self.player = raw_dictionary['player']
 		elif self.type == "answer":
-			self.asking_name = raw_dictionary['asking_name']
-			self.asking_url = raw_dictionary['asking_url']
-			self.question = raw_dictionary['question']
-			self.answer = raw_dictionary['answer']
+			self.asking_name = None
+			self.asking_url = None
+			self.question = None
+			self.answer = None
+			if 'asking_name' in raw_dictionary.keys():
+				self.asking_name = raw_dictionary['asking_name']
+			if 'asking_url' in raw_dictionary.keys():
+				self.asking_url = raw_dictionary['asking_url']
+			if 'question' in raw_dictionary.keys():
+				self.question = raw_dictionary['question']
+			if 'answer' in raw_dictionary.keys():
+				self.answer = raw_dictionary['answer']
 
 	def getId(self):
 		return self.id
