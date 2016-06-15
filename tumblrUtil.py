@@ -1,5 +1,6 @@
 import pytumblr
 import os, pickle, sys
+import json
 
 """
 this class should be the only interface between our program and Tumblr data
@@ -117,13 +118,18 @@ this class stores the information of Tumblr blogs
 """
 class TumblrBlog(object):
 	def __init__(self, raw_dictionary):
+		self.raw = json.dumps(raw_dictionary) # raw data as json string
 		self.name = raw_dictionary['name']
 		self.title = raw_dictionary['title']
 		self.url = raw_dictionary['url']
 		self.total_posts = raw_dictionary['total_posts']
+		self.updated = raw_dictionary['updated']
 		self.is_nsfw = raw_dictionary['is_nsfw']
 		self.description = raw_dictionary['description']
 		self.posts = [] # list of post_id
+		self.ask = raw_dictionary['ask'] # whether allowing questions
+		self.ask_page_title = raw_dictionary['ask_page_title']
+		self.ask_anon = raw_dictionary['ask_anon'] # whether allowing anonynous questions
 	
 	def getName(self):
 		return self.name
@@ -149,19 +155,75 @@ class TumblrBlog(object):
 	def getAllPosts(self):
 		return self.posts
 
+	def canAsk(self):
+		"""
+		return whether this blog allows questions
+		"""
+		return self.ask
+	
+	def getAskPageTitle(self):
+		return self.ask_page_title
+
+	def canAskAnon(self):
+		"""
+		return whether this blog allows anonymous questions
+		"""
+		return self.ask_anon
+
 
 """
 this class stores the information of Tumblr posts
 """
 class TumblrPost(object):
 	def __init__(self, raw_dictionary):
+		self.raw = json.dumps(raw_dictionary) # raw data as json string
 		self.id = raw_dictionary['id']
 		self.url = raw_dictionary['post_url']
 		self.tags = raw_dictionary['tags']
 		self.type = raw_dictionary['type']
 		self.total_notes = raw_dictionary['note_count']
 		self.blog_name = raw_dictionary['blog_name']
-	
+		self.timestamp = raw_dictionary['timestamp'] # seconds since epoch
+		self.format = raw_dictionary['format'] # either HTML or Markdown
+		self.notes = raw_dictionary['notes']
+		#
+		if self.type == "text":
+			self.title = raw_dictionary['title']
+			self.body = raw_dictionary['body']
+		elif self.type == "photo":
+			self.photos = raw_dictionary['photos']
+			self.caption = raw_dictionary['caption']
+		elif self.type == "quote":
+			self.text = raw_dictionary['text']
+			self.source = raw_dictionary['source']
+		elif self.type == "link":
+			self.title = raw_dictionary['title']
+			self.url = raw_dictionary['url']
+			self.author = raw_dictionary['author']
+			self.publisher = raw_dictionary['publisher']
+			self.photos = raw_dictionary['photos']
+			self.description = raw_dictionary['description']
+		elif self.type == "chat":
+			self.title = raw_dictionary['title']
+			self.body = raw_dictionary['body']
+			self.dialogue = raw_dictionary['dialogue']
+		elif self.type == "audio":
+			self.caption = raw_dictionary['caption']
+			self.player = raw_dictionary['player']
+			self.plays = raw_dictionary['plays']
+			self.artist = raw_dictionary['artist']
+			self.album = raw_dictionary['album']
+			self.track_name = raw_dictionary['track_name']
+			self.year = raw_dictionary['year']
+		elif self.type == "video":
+			self.caption = raw_dictionary['caption']
+			self.player = raw_dictionary['player']
+		elif self.type == "answer":
+			self.asking_name = raw_dictionary['asking_name']
+			self.asking_url = raw_dictionary['asking_url']
+			self.question = raw_dictionary['question']
+			self.answer = raw_dictionary['answer']
+
 	def getId(self):
 		return self.id
 	
@@ -179,5 +241,14 @@ class TumblrPost(object):
 
 	def getBlogName(self):
 		return self.blog_name
+
+	def getTimestamp(self):
+		return self.timestamp
+
+	def getFormat(self):
+		return self.format
+
+	def getNotes(self):
+		return self.notes
 
 
