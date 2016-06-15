@@ -38,6 +38,12 @@ class TumblrAgent(object):
 		"""
 		self.__write_cache(self.__data)
 
+	def __str__(self):
+		s = "%d blogs, %d posts\n" % (len(self.__data['blogs']), len(self.__data['posts']))
+		s += "The blogs are:\n"
+		s += str(self.getAllBlogs()) + "\n"
+		return s
+
 	def __read_cache(self):
 		"""
 		to read the cached data and return
@@ -91,6 +97,19 @@ class TumblrAgent(object):
 
 	def getPostCount(self):
 		return len(self.__data['posts'])
+
+	def getAllBlogs(self):
+		return self.__data['blogs'].keys()
+
+	def getAllPosts(self):
+		return self.__data['posts'].keys()
+
+	def deleteBlogData(self, blog_name):
+		if blog_name in self.__data['blogs']:
+			# remove all the posts of this blog
+			for pid in self.__data['blogs'][blog_name].getAllPosts():
+				del self.__data['posts'][pid]
+			del self.__data['blogs'][blog_name]
 
 
 """
