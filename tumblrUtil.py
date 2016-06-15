@@ -62,7 +62,7 @@ class TumblrAgent(object):
 			self.__data['blogs'][blog_name].addPost(p.getId())
 		print >> sys.stderr, "processed %d posts for this blog: %s" % (len(raw['posts']), blog_name)
 		# check whether there are still posts to retrieve
-		while len(raw['posts']) >= 20:
+		while len(raw['posts']) >= 20 and my_offset < 200:
 			my_offset += len(raw['posts'])
 			raw = self.__client.posts(blog_name, limit=20, offset=my_offset, reblog_info=True, notes_info=True)
 			for raw_p in raw['posts']:
