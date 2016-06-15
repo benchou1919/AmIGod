@@ -242,4 +242,13 @@ class TumblrPost(object):
 	def getBlogName(self):
 		return self.blog_name
 
+	def getTimestamp(self):
+		return self.timestamp
+
+	def getFormat(self):
+		return self.format
+
+	def getNotes(self):
+		return self.notes
+
 
