@@ -11,14 +11,14 @@ client = pytumblr.TumblrRestClient(
 
 if __name__ == "__main__":
     b_list = []
-    with open(sys.argv[1]) as f:
-        for line in f:
-            b_list.append(line.strip())
+    final_list = []
+    with open(sys.argv[1], "r") as f:
+        b_list = list(set([line.strip() for line in f]))
     for bn in b_list:
         res = client.blog_info(bn)
-        print bn,
         if u'blog' not in res.keys():
-            print "False"
-            print "="*50
+            print >> sys.stderr, "%s not a blog." % (bn)
         else:
-            print "True"
+            final_list.append(bn)
+    with open(sys.argv[1], "w") as f:
+        f.write("\n".join(final_list))
