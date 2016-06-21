@@ -50,14 +50,32 @@ class TumblrAgent(object):
 		to read the cached data and return
 		"""
 		if os.path.exists(type(self).CACHE_FILE_PATH):
-			return pickle.load(open(type(self).CACHE_FILE_PATH, "r"))
+			data = None
+			with open(type(self).CACHE_FILE_PATH, "r") as f:
+				data = json.loads(f.read())
+			# transform data
+			#     transform json strings to TumblrBlog and TumblrPost objects
+			if data:
+				for bn in data['blogs'].keys():
+					data['blogs'][bn] = TumblrBlog(json.loads(data['blogs'][bn]))
+				for pid in data['posts'].keys():
+					data['posts'][pid] = TumblrPost(json.loads(data['posts'][pid]))
+			return data
 		return None
 
 	def __write_cache(self, data):
 		"""
 		to write the given data to cache
 		"""
-		pickle.dump(data, open(type(self).CACHE_FILE_PATH, "w"))
+		# transform data
+		#     transform TumblrBlog objects into strings
+		#     transform TumblrPost objects into strings
+		for bn in data['blogs'].keys():
+			data['blogs'][bn] = data['blogs'][bn].raw
+		for pid in data['posts'].keys():
+			data['posts'][pid] = data['posts'][pid].raw
+		with open(type(self).CACHE_FILE_PATH, "w") as f:
+			f.write(json.dumps(data))
 
 	def __get_data_from_tumblr(self, blog_name):
 		my_offset = 0
