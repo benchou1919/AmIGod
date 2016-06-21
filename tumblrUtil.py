@@ -57,7 +57,9 @@ class TumblrAgent(object):
 			#     transform json strings to TumblrBlog and TumblrPost objects
 			if data:
 				for bn in data['blogs'].keys():
-					data['blogs'][bn] = TumblrBlog(json.loads(data['blogs'][bn]))
+					tmp_object = json.loads(data['blogs'][bn])
+					data['blogs'][bn] = TumblrBlog(tmp_object)
+					data['blogs'][bn].posts = tmp_object['posts']
 				for pid in data['posts'].keys():
 					data['posts'][pid] = TumblrPost(json.loads(data['posts'][pid]))
 			return data
@@ -71,7 +73,9 @@ class TumblrAgent(object):
 		#     transform TumblrBlog objects into strings
 		#     transform TumblrPost objects into strings
 		for bn in data['blogs'].keys():
-			data['blogs'][bn] = data['blogs'][bn].raw
+			tmp_object = json.loads(data['blogs'][bn].raw)
+			tmp_object['posts'] = data['blogs'][bn].posts
+			data['blogs'][bn] = json.dumps(tmp_object)
 		for pid in data['posts'].keys():
 			data['posts'][pid] = data['posts'][pid].raw
 		with open(type(self).CACHE_FILE_PATH, "w") as f:
