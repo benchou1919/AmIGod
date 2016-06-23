@@ -96,7 +96,7 @@ class TumblrAgent(object):
 			raw = self.__client.posts(blog_name, limit=20, offset=my_offset, reblog_info=True, notes_info=True)
 			for raw_p in raw['posts']:
 				p = TumblrPost(raw_p)
-				self.__data['posts'][p.getId()] = p
+				self.__data['posts'][str(p.getId())] = p
 				self.__data['blogs'][blog_name].addPost(p.getId())
 			print >> sys.stderr, "processed %d posts for this blog: %s" % (len(raw['posts']), blog_name)
 
@@ -111,6 +111,7 @@ class TumblrAgent(object):
 		if blog_name not in self.__data['blogs']:
 			self.__get_data_from_tumblr(blog_name)
 		# 2) check if the post exists
+		post_id = str(post_id)
 		if post_id in self.__data['posts']:
 			return self.__data['posts'][post_id]
 		return None
