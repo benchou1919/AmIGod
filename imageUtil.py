@@ -197,6 +197,29 @@ def parser(query):
     imageTag = search(query, **params)
     return imageTag
 
+def OCR(url):
+    # parse url
+    path = url.split('/')
+    filename = path[len(path)-1]
+    print " [ImageUtil.OCR] Retrieve", filename
+
+    # fetch url
+    import urllib
+    urllib.urlretrieve(url, filename)
+
+    # do OCR
+    from subprocess import call
+    call(["tesseract", filename, "result"])
+
+    # read OCR's result
+    result = open('result.txt', 'r').read().split()
+
+    # rm temporary file
+    os.remove('result.txt')
+    os.remove(filename)
+
+    return result
+
 if __name__ == "__main__":
     query = sys.argv[1]
     tags = parser(query)
