@@ -31,6 +31,7 @@
 __all__ = ['search']
 
 import os
+import re
 import sys
 import time
 
@@ -123,7 +124,7 @@ def search(query, tld='com', lang='en', num=10, start=0, stop=None, pause=2):
             url = url_search % vars()
         else:
             url = url_search_num % vars()
-    
+
     # Loop until we reach the maximum result, if any (otherwise, loop forever).
     # Request the Google Search results page.
     html = get_page(url)
@@ -131,15 +132,18 @@ def search(query, tld='com', lang='en', num=10, start=0, stop=None, pause=2):
     soup = BeautifulSoup(html, "lxml")
 
     anchors = soup.find(id='myTabContent').findAll('a')
+    scores = [re.findall("[.\d]+", str(span))[0] for span in soup.find(id='myTabContent').findAll('span')]
 
     imageTag = []
 
+    counter = 0
     for a in anchors:
-            # Get the URL from the anchor tag.
+        # Get the URL from the anchor tag.
         try:
             for link in a:
                 #print "%s" %link
-                imageTag.append(link)
+                imageTag.append((link, scores[counter]))
+                counter += 1
 
         except KeyError:
             continue
@@ -189,7 +193,6 @@ def parser(query):
     imageTag = search(query, **params)
     return imageTag
 
-# When run as a script...
 if __name__ == "__main__":
     query = sys.argv[1]
     tags = parser(query)
