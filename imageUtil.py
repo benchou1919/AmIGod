@@ -131,7 +131,11 @@ def search(query, tld='com', lang='en', num=10, start=0, stop=None, pause=2):
         # Parse the response and process every anchored URL.
     soup = BeautifulSoup(html, "lxml")
 
-    anchors = soup.find(id='myTabContent').findAll('a')
+    anchors = None
+    if soup.find(id='myTabContent'):
+        anchors = soup.find(id='myTabContent').findAll('a')
+    if not anchors:
+        return []
     scores = [re.findall("[.\d]+", str(span))[0] for span in soup.find(id='myTabContent').findAll('span')]
 
     imageTag = []
