@@ -211,7 +211,8 @@ def OCR(url):
     # do OCR
     from subprocess import call
     if os.path.isfile(filename):
-        call(["tesseract", filename, "result"])
+        with open('result.txt', 'w') as f:
+            call(["pytesseract", filename], stdout=f)
     else:
         return []
 
