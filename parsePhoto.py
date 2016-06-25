@@ -30,9 +30,13 @@ if __name__ == "__main__":
 		# 	continue
 		b = ta.getBlogByName(bn)
 		pid_list = b.getAllPosts()
+		count = 0
 		for pid in pid_list:
 			p = ta.getPostById(bn, pid)
 			if p.getType() == 'photo':
+				count += 1
+				if count < int(sys.argv[3]) or count > int(sys.argv[4]):
+					break
 				# if bn == 'skypestripper' and int(pid) >= 145286179484:
 				# 	continue
 				output_file.write('b=' + str(bn) + '\n')
