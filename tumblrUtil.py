@@ -2,6 +2,27 @@ import pytumblr
 import os, pickle, sys
 import json
 
+CONFIG = {
+	# api key
+	'TUMBLR_CONSUMER_KEY':"ytrXGiUjY2pZ9zggTPomZbXAwQD5xfveSj73h3bI76LwUkhYRk",
+	'TUMBLR_CONSUMER_SECRET':"PpHRSKUKqBMNp4bjchW8EkxQNcQvyVyDYDWiz7gROzVERsOYAs",
+	# OAuth
+	'ACCESS_TOKEN':"sVF038jN4AjBN1sUJ9RiqE0PUKnQDcgVBCOvEkiblXwSROiEIO",
+	'ACCESS_SECRET':"NXYoBsNQBW3b6yqNS1VuxKixMoktAADZfPGJ72wIZOSx62P5OO"
+}
+
+def getPostFromTumblr(blog_name, post_id):
+	global CONFIG
+	client = pytumblr.TumblrRestClient(
+		CONFIG['TUMBLR_CONSUMER_KEY']
+	)
+	response = client.posts(str(blog_name), id=int(post_id))
+	if response['total_posts'] == 0:
+		return None
+	return TumblrPost(response['posts'][0])
+
+
+
 """
 this class should be the only interface between our program and Tumblr data
 """
