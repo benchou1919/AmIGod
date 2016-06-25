@@ -2,7 +2,7 @@ import sys, os
 import pytumblr
 import json
 from tumblrUtil import TumblrAgent as TA
-# from vocabUtil import VocabAgent as VA
+from vocabUtil import VocabAgent as VA
 from imageUtil import parser, OCR
 
 def legalImageType(url):
@@ -14,7 +14,7 @@ def legalImageType(url):
 
 if __name__ == "__main__":
 
-	output_file = open('photoText', 'a')
+	output_file = open('EMresult', 'a')
 
 	# use TumblrAgent
 	ta = TA()
