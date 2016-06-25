@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
 	# use TumblrAgent
 	ta = TA()
-	for bn in ta.getAllBlogs():
+	for bn in ta.getAllBlogs()[sys.argv[1]:sys.argv[2]]:
 		# if not unuseBlogName(bn):
 		# 	continue
 		b = ta.getBlogByName(bn)
@@ -37,18 +37,18 @@ if __name__ == "__main__":
 				# 	continue
 				output_file.write('b=' + str(bn) + '\n')
 				output_file.write('p=' + str(pid) + '\n')
-				ocrData = []
+				# ocrData = []
 				parserData = []
 				for photo in p.photos:
 					photoUrl = photo['original_size']['url']
 					if legalImageType(photoUrl):
-						ocrData += OCR(photoUrl)
+						# ocrData += OCR(photoUrl)
 						parserData += parser(photoUrl)
 				print bn, pid
-				print str(ocrData)
+				# print str(ocrData)
 				print str(parserData)
 				print '\n'
-				output_file.write('OCR=' + str(ocrData) + '\n')
+				# output_file.write('OCR=' + str(ocrData) + '\n')
 				output_file.write('caffe=' + str(parserData) + '\n')
 
 	output_file.close()
