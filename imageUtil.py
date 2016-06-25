@@ -31,6 +31,7 @@
 __all__ = ['search']
 
 import os
+import os.path
 import re
 import sys
 import time
@@ -209,7 +210,10 @@ def OCR(url):
 
     # do OCR
     from subprocess import call
-    call(["tesseract", filename, "result"])
+    if os.path.isfile(filename):
+        call(["tesseract", filename, "result"])
+    else:
+        return []
 
     # read OCR's result
     result = open('result.txt', 'r').read().split()
