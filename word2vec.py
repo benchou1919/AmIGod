@@ -1,6 +1,7 @@
 from tumblrUtil import TumblrAgent as TA 
 import sys
 import numpy as np
+import math
 
 def loadModel(number):
     model = {}
@@ -20,6 +21,21 @@ def loadModel(number):
 
     return model
 
+def cosineDistance(v1, v2):
+    eucV1 = math.sqrt(sum(x**2 for x in v1))
+    eucV2 = math.sqrt(sum(x**2 for x in v2))
+    return np.dot(v1, v2) / (eucV1 * eucV2) 
+
+
+def loadVecs(names):
+    vecs = []
+    f = open('w2v_for_blogs.txt','r')
+    for i, line in enumerate(f):
+        v = line.strip().split()
+        v = [float(x) for x in v]
+        vecs.append((names[i], v))
+    return vecs
+    
 
 if __name__ == '__main__':
     ta = TA()
@@ -49,3 +65,34 @@ if __name__ == '__main__':
         w.write("\n")
             # count += len(post.getTags())
         print count
+
+    vecs = loadVecs(blognames)
+    topK = 10
+    while True:
+        queryName = raw_input()
+        if queryName == "EXIT":
+            break
+        blog = ta.getBlogByName(queryName)
+        postIds = blog.getAllPosts()
+        v = np.zeros(300)
+        for Id in postIds:
+            post = ta.getPostById(blog.getName(), Id)
+            for tag in post.getTags():
+                if tag in model:
+                    v += model[tag]
+
+        # Now I have the vector
+        dists = []
+        for bv in vecs:
+            dists.append((bv[0], cosineDistance(bv[1], v)))
+        dists.sort(key=lambda tup: tup[1], reverse=True)
+        for i in range(topK):
+            print dist[i][0]
+
+
+
+
+
+
+
+
