@@ -12,38 +12,44 @@ def legalImageType(url):
 		return True;
 	return False;
 
+def unuseBlogName(bn):
+	usedBlogNames = ['ayee-erbear', 'afinefashionfrenzy', 'hipsterizeddolls', 'sexy-animegirls', 'hipsterizeddolls', 'thehundreds', 'stfuconservatives','']
+	for blogname in usedBlogNames:
+		if bn == blogname:
+			return False
+	return True
+
 if __name__ == "__main__":
 
-	output_file = open('photoText', 'a')
+	output_file = open('photoText333', 'a')
 
 	# use TumblrAgent
 	ta = TA()
-	for bn in ta.getAllBlogs():
-		if bn == 'ayee-erbear' or bn == 'afinefashionfrenzy' or bn == 'hipsterizeddolls' or bn == 'sexy-animegirls':
-			continue
+	for bn in ta.getAllBlogs()[int(sys.argv[1]):int(sys.argv[2])]:
+		# if not unuseBlogName(bn):
+		# 	continue
 		b = ta.getBlogByName(bn)
 		pid_list = b.getAllPosts()
 		for pid in pid_list:
 			p = ta.getPostById(bn, pid)
 			if p.getType() == 'photo':
-				if bn == 'stfuconservatives' and int(pid) > 57718974777:
-					continue
+				# if bn == 'skypestripper' and int(pid) >= 145286179484:
+				# 	continue
 				output_file.write('b=' + str(bn) + '\n')
 				output_file.write('p=' + str(pid) + '\n')
-				ocrData = []
+				# ocrData = []
 				parserData = []
 				for photo in p.photos:
 					photoUrl = photo['original_size']['url']
 					if legalImageType(photoUrl):
-						ocrData += OCR(photoUrl)
+						# ocrData += OCR(photoUrl)
 						parserData += parser(photoUrl)
 				print bn, pid
-				print str(ocrData)
+				# print str(ocrData)
 				print str(parserData)
 				print '\n'
-				output_file.write('OCR=' + str(ocrData) + '\n')
+				# output_file.write('OCR=' + str(ocrData) + '\n')
 				output_file.write('caffe=' + str(parserData) + '\n')
-			# print p.blog_name, p.id, p.getType()
 
 	output_file.close()
 	sys.exit(0)
