@@ -87,6 +87,8 @@ class TumblrAgent(object):
 		return None
 
 	def __write_cache(self, data):
+		# disable
+		return
 		"""
 		to write the given data to cache
 		"""
