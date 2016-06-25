@@ -31,6 +31,7 @@
 __all__ = ['search']
 
 import os
+import os.path
 import re
 import sys
 import time
@@ -82,7 +83,16 @@ def get_page(url):
     request = Request(url)
     request.add_header('User-Agent',
                        'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)')
-    cookie_jar.add_cookie_header(request)
+    
+    while True:
+        try:
+            cookie_jar.add_cookie_header(request)
+            break
+        except:
+            time.sleep(1)
+            print url + "Error"
+            continue
+
     response = urlopen(request)
     cookie_jar.extract_cookies(response, request)
     html = response.read()
@@ -131,7 +141,11 @@ def search(query, tld='com', lang='en', num=10, start=0, stop=None, pause=2):
         # Parse the response and process every anchored URL.
     soup = BeautifulSoup(html, "lxml")
 
-    anchors = soup.find(id='myTabContent').findAll('a')
+    anchors = None
+    if soup.find(id='myTabContent'):
+        anchors = soup.find(id='myTabContent').findAll('a')
+    if not anchors:
+        return []
     scores = [re.findall("[.\d]+", str(span))[0] for span in soup.find(id='myTabContent').findAll('span')]
 
     imageTag = []
@@ -192,6 +206,33 @@ def parser(query):
     # Run the query.
     imageTag = search(query, **params)
     return imageTag
+
+def OCR(url):
+    # parse url
+    path = url.split('/')
+    filename = path[len(path)-1]
+    print " [ImageUtil.OCR] Retrieve", filename
+
+    # fetch url
+    import urllib
+    urllib.urlretrieve(url, filename)
+
+    # do OCR
+    from subprocess import call
+    if os.path.isfile(filename):
+        with open('result.txt', 'w') as f:
+            call(["pytesseract", filename], stdout=f)
+    else:
+        return []
+
+    # read OCR's result
+    result = open('result.txt', 'r').read().split()
+
+    # rm temporary file
+    os.remove('result.txt')
+    os.remove(filename)
+
+    return result
 
 if __name__ == "__main__":
     query = sys.argv[1]
