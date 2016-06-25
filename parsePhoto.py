@@ -26,15 +26,15 @@ if __name__ == "__main__":
 	# use TumblrAgent
 	ta = TA()
 	for bn in ta.getAllBlogs():
-		if not unuseBlogName(bn):
-			continue
+		# if not unuseBlogName(bn):
+		# 	continue
 		b = ta.getBlogByName(bn)
 		pid_list = b.getAllPosts()
 		for pid in pid_list:
 			p = ta.getPostById(bn, pid)
 			if p.getType() == 'photo':
-				if bn == 'skypestripper' and int(pid) >= 145286179484:
-					continue
+				# if bn == 'skypestripper' and int(pid) >= 145286179484:
+				# 	continue
 				output_file.write('b=' + str(bn) + '\n')
 				output_file.write('p=' + str(pid) + '\n')
 				ocrData = []

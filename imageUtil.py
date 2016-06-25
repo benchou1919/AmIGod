@@ -83,7 +83,16 @@ def get_page(url):
     request = Request(url)
     request.add_header('User-Agent',
                        'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)')
-    cookie_jar.add_cookie_header(request)
+    
+    while True:
+        try:
+            cookie_jar.add_cookie_header(request)
+            break
+        except:
+            time.sleep(1)
+            print url + "Error"
+            continue
+
     response = urlopen(request)
     cookie_jar.extract_cookies(response, request)
     html = response.read()
