@@ -21,11 +21,11 @@ def unuseBlogName(bn):
 
 if __name__ == "__main__":
 
-	output_file = open('photoText', 'a')
+	output_file = open('photoText333', 'a')
 
 	# use TumblrAgent
 	ta = TA()
-	for bn in ta.getAllBlogs()[sys.argv[1]:sys.argv[2]]:
+	for bn in ta.getAllBlogs()[int(sys.argv[1]):int(sys.argv[2])]:
 		# if not unuseBlogName(bn):
 		# 	continue
 		b = ta.getBlogByName(bn)
