@@ -59,18 +59,24 @@ if __name__ == '__main__':
         for postId in postIds:
             post = ta.getPostById(blog.getName(), postId)
             tags = post.getTags()
+            ### tags ###
             for tag in tags:
                 if tag in model:
                     count += 1
                     v += model[tag]
+            ### other terms ###
+            otherTerms = VA.extractTermsFromPost(post)
+            for term in otherTerms:
+                if term in model:
+                    count += 1
+                    v += model[term]
+
         vecs.append((name, v))
         for element in v:
             w.write(str(element) + " ")
         w.write("\n")
-            # count += len(post.getTags())
         print count
 
-    # vecs = loadVecs(blognames)
     topK = 10
     while True:
         queryName = raw_input()
