@@ -20,6 +20,12 @@ class VocabAgent(object):
 	@staticmethod
 	def extractTermsFromPost(tumblrPost):
 		terms = []
+
+		# add tags into terms
+		for tag in tumblrPost.getTags():
+			terms += VocabAgent.sanitize(VocabAgent.stripHTML(tag)).split()
+		
+		# add information according to the type of the post
 		if tumblrPost.getType() == 'text':
 			terms += VocabAgent.sanitize(VocabAgent.stripHTML(tumblrPost.title)).split()
 			terms += VocabAgent.sanitize(VocabAgent.stripHTML(tumblrPost.body)).split()
