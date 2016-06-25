@@ -21,7 +21,7 @@ def unuseBlogName(bn):
 
 if __name__ == "__main__":
 
-	output_file = open('photoText333', 'a')
+	output_file = open('photoText', 'a')
 
 	# use TumblrAgent
 	ta = TA()
