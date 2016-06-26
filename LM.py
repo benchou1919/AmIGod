@@ -113,7 +113,7 @@ if __name__ == "__main__":
 		for key, value in sorted(blogProbability.iteritems(), key=lambda (k,v): (v,k)):
 			rankingDict.append((key, value))
 		output_file.write(str(testBn) + '\n')
-		for i in range(len(rankingDict)-1, -1, -1):
+		for i in range(len(rankingDict)-1, len(rankingDict)-7, -1):
 			if rankingDict[i][0] == testBn:
 				continue
 			else:
