@@ -1,0 +1,2115 @@
+b=fuckyeahhoverhands
+
+p=45311428245
+caffe=[(u'swimsuit', '1.27633'), (u'clothing', '1.18110'), (u'garment', '1.07135'), (u'consumer goods', '1.03086'), (u'commodity', '0.97659'), (u'bikini', '0.41050'), (u'swimming trunks', '0.18135'), (u'bathing cap', '0.08693'), (u'sunscreen', '0.05908'), (u'maillot', '0.04016')]
+b=fuckyeahhoverhands
+
+p=45234138980
+caffe=[(u'clothing', '0.74067'), (u'consumer goods', '0.66311'), (u'commodity', '0.63563'), (u'covering', '0.63343'), (u'garment', '0.46817'), (u'wig', '0.12564'), (u'pajama', '0.08035'), (u'bow tie', '0.05662'), (u'maraca', '0.05172'), (u'jersey', '0.04500')]
+b=fuckyeahhoverhands
+
+p=45155161244
+caffe=[(u'clothing', '0.74367'), (u'consumer goods', '0.67985'), (u'commodity', '0.64685'), (u'covering', '0.62405'), (u'garment', '0.60485'), (u'neck brace', '0.17481'), (u'miniskirt', '0.09800'), (u'brassiere', '0.08486'), (u'wig', '0.05756'), (u'punching bag', '0.05081')]
+b=fuckyeahhoverhands
+
+p=45079975087
+caffe=[(u'clothing', '0.34312'), (u'consumer goods', '0.33526'), (u'covering', '0.32481'), (u'commodity', '0.31927'), (u'garment', '0.29233'), (u'barbershop', '0.09287'), (u'sweatshirt', '0.08117'), (u'plunger', '0.04903'), (u'ping-pong ball', '0.04873'), (u'punching bag', '0.04862')]
+b=fuckyeahhoverhands
+
+p=44989559464
+caffe=[(u'clothing', '0.87643'), (u'swimsuit', '0.85116'), (u'garment', '0.82201'), (u'consumer goods', '0.77176'), (u'commodity', '0.73148'), (u'swimming trunks', '0.45910'), (u'sarong', '0.03719'), (u'sunscreen', '0.02414'), (u'bikini', '0.02317'), (u'sunglasses', '0.02301')]
+b=fuckyeahhoverhands
+
+p=44906195822
+caffe=[(u'clothing', '0.90593'), (u'garment', '0.86357'), (u'consumer goods', '0.80722'), (u'commodity', '0.77094'), (u'covering', '0.75755'), (u'sweatshirt', '0.14645'), (u'stole', '0.08423'), (u'lab coat', '0.07569'), (u'neck brace', '0.05140'), (u'trench coat', '0.04753')]
+b=fuckyeahhoverhands
+
+p=44830046654
+caffe=[(u'clothing', '0.94621'), (u'consumer goods', '0.84291'), (u'commodity', '0.79839'), (u'covering', '0.77260'), (u'garment', '0.54375'), (u'mortarboard', '0.25726'), (u'academic gown', '0.13290'), (u'military uniform', '0.07792'), (u'suit', '0.04518'), (u'jersey', '0.03707')]
+b=fuckyeahhoverhands
+
+p=44754357105
+caffe=[(u'clothing', '0.53103'), (u'consumer goods', '0.48554'), (u'covering', '0.47794'), (u'commodity', '0.46162'), (u'garment', '0.45428'), (u'miniskirt', '0.12039'), (u'gown', '0.04055'), (u'maraca', '0.03955'), (u'groom', '0.03774'), (u'torch', '0.03508')]
+b=fuckyeahhoverhands
+
+p=44675926597
+caffe=[(u'clothing', '1.24899'), (u'garment', '1.23934'), (u'consumer goods', '1.09659'), (u'commodity', '1.03892'), (u'covering', '0.99577'), (u'suit', '0.49109'), (u'Windsor tie', '0.20531'), (u'bow tie', '0.04439'), (u'academic gown', '0.03176'), (u'neck brace', '0.03143')]
+b=fuckyeahhoverhands
+
+p=41067076915
+caffe=[(u'clothing', '0.47346'), (u'consumer goods', '0.44866'), (u'commodity', '0.42697'), (u'covering', '0.42690'), (u'garment', '0.34921'), (u'volleyball', '0.08519'), (u'neck brace', '0.06805'), (u'barbell', '0.05451'), (u'plunger', '0.03188'), (u'miniskirt', '0.02666')]
+b=fuckyeahhoverhands
+
+p=40974752705
+caffe=[(u'covering', '0.28487'), (u'consumer goods', '0.28189'), (u'commodity', '0.26879'), (u'clothing', '0.26822'), (u'machine', '0.25756'), (u'television', '0.04627'), (u'vending machine', '0.04412'), (u'comic book', '0.04176'), (u'barbershop', '0.04044'), (u'bookshop', '0.02801')]
+b=fuckyeahhoverhands
+
+p=40889543688
+caffe=[(u'anthropoid ape', '1.40442'), (u'ape', '1.37632'), (u'great ape', '1.36882'), (u'gorilla', '1.26131'), (u'primate', '1.18438'), (u'gorilla', '0.44812'), (u'chimpanzee', '0.07866'), (u'ski mask', '0.04984'), (u'abaya', '0.04793'), (u'fur coat', '0.03738')]
+b=fuckyeahhoverhands
+
+p=40810460202
+caffe=[(u'clothing', '0.89142'), (u'consumer goods', '0.78727'), (u'commodity', '0.74629'), (u'covering', '0.70038'), (u'garment', '0.58379'), (u'bathing cap', '0.40732'), (u'sunglass', '0.23383'), (u'bikini', '0.06808'), (u'volleyball', '0.04059'), (u'maillot', '0.03763')]
+b=fuckyeahhoverhands
+
+p=40731037559
+caffe=[(u'jersey', '1.55988'), (u'shirt', '1.53697'), (u'garment', '1.19054'), (u'clothing', '1.14642'), (u'consumer goods', '1.00744'), (u'jersey', '0.99495'), (u'sweatshirt', '0.00435'), (u'bathing cap', '0.00045'), (u'maillot', '0.00019'), (u'academic gown', '0.00001')]
+b=fuckyeahhoverhands
+
+p=40649657494
+caffe=[(u'clothing', '1.03762'), (u'consumer goods', '0.91188'), (u'commodity', '0.86459'), (u'garment', '0.83787'), (u'covering', '0.82294'), (u'bow tie', '0.20486'), (u'groom', '0.18775'), (u'gown', '0.17247'), (u'suit', '0.11576'), (u'bolo tie', '0.03389')]
+b=fuckyeahhoverhands
+
+p=40568808752
+caffe=[(u'clothing', '1.08140'), (u'garment', '1.02744'), (u'consumer goods', '0.94463'), (u'commodity', '0.90260'), (u'covering', '0.89706'), (u'sarong', '0.15500'), (u'stole', '0.12337'), (u'jean', '0.11134'), (u'overskirt', '0.08026'), (u'poncho', '0.07224')]
+b=fuckyeahhoverhands
+
+p=40485230506
+caffe=[(u'clothing', '0.48267'), (u'consumer goods', '0.44080'), (u'covering', '0.43427'), (u'commodity', '0.41853'), (u'garment', '0.33560'), (u'jinrikisha', '0.07958'), (u'kimono', '0.07554'), (u'crash helmet', '0.06084'), (u'cowboy hat', '0.04305'), (u'umbrella', '0.03235')]
+b=fuckyeahhoverhands
+
+p=40389660542
+caffe=[(u'clothing', '0.51671'), (u'consumer goods', '0.48599'), (u'covering', '0.47106'), (u'commodity', '0.46580'), (u'pajama', '0.33097'), (u'pajama', '0.16656'), (u'hoopskirt', '0.03247'), (u'vestment', '0.02284'), (u'boa constrictor', '0.02085'), (u'crossword puzzle', '0.02058')]
+b=fuckyeahhoverhands
+
+p=40301951411
+caffe=[(u'clothing', '0.69628'), (u'garment', '0.62077'), (u'consumer goods', '0.61688'), (u'commodity', '0.58785'), (u'covering', '0.58713'), (u'ballplayer', '0.14619'), (u'jean', '0.11725'), (u'kimono', '0.07828'), (u'gown', '0.05441'), (u'stage', '0.04395')]
+b=fuckyeahhoverhands
+
+p=40222828616
+caffe=[(u'clothing', '0.49706'), (u'covering', '0.46515'), (u'consumer goods', '0.45625'), (u'commodity', '0.43415'), (u'garment', '0.38469'), (u'shoe shop', '0.10953'), (u'crutch', '0.06175'), (u'cowboy hat', '0.05152'), (u'kimono', '0.03776'), (u'stole', '0.03617')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'musical instrument', '0.66115'), (u'wind instrument', '0.48850'), (u'device', '0.44321'), (u'stringed instrument', '0.35634'), (u'woodwind', '0.29335'), (u'sax', '0.09846'), (u'grand piano', '0.08320'), (u'cornet', '0.06247'), (u'accordion', '0.04045'), (u'electric guitar', '0.03834')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'scuba diver', '0.76086'), (u'diver', '0.74969'), (u'explorer', '0.73851'), (u'person', '0.61105'), (u'causal agent', '0.49375'), (u'scuba diver', '0.19317'), (u'parking meter', '0.14626'), (u'seat belt', '0.11283'), (u'killer whale', '0.04840'), (u'limousine', '0.04222')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'grille', '2.01526'), (u'grate', '1.98566'), (u'barrier', '1.27015'), (u'obstruction', '1.23994'), (u'motor vehicle', '1.16097'), (u'grille', '0.99973'), (u'car wheel', '0.00008'), (u'car mirror', '0.00005'), (u'cab', '0.00002'), (u'pickup', '0.00002')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'electronic equipment', '0.96725'), (u'equipment', '0.78046'), (u'radio', '0.46016'), (u'communication system', '0.44217'), (u'cassette player', '0.42093'), (u'radio', '0.32746'), (u'cassette player', '0.16527'), (u'CD player', '0.14446'), (u'tape player', '0.12668'), (u'oscilloscope', '0.05835')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'camera', '1.07250'), (u'photographic equipment', '1.05467'), (u'reflex camera', '1.03752'), (u'equipment', '0.64050'), (u'device', '0.33399'), (u'reflex camera', '0.44318'), (u'loudspeaker', '0.12383'), (u'can opener', '0.05360'), (u'lens cap', '0.04137'), (u'loupe', '0.02862')]
+b=annstreetstudio
+
+p=140801919945
+caffe=[(u'musical instrument', '0.47395'), (u'device', '0.34307'), (u'wind instrument', '0.33913'), (u'container', '0.25781'), (u'stage', '0.21794'), (u'red wine', '0.12234'), (u'stage', '0.10094'), (u'accordion', '0.09235'), (u'perfume', '0.07280'), (u'spotlight', '0.03742')]
+b=annstreetstudio
+
+p=140041103745
+caffe=[(u'tripod', '0.68022'), (u'rack', '0.67023'), (u'support', '0.52191'), (u'device', '0.43521'), (u'musical instrument', '0.33638'), (u'tripod', '0.41234'), (u'rifle', '0.07911'), (u'cornet', '0.05090'), (u'assault rifle', '0.04616'), (u'trombone', '0.03481')]
+b=annstreetstudio
+
+p=131692280005
+caffe=[(u'gown', '1.35816'), (u'dress', '1.33821'), (u"woman's clothing", '1.19043'), (u'clothing', '1.12777'), (u'consumer goods', '0.98648'), (u'gown', '0.48608'), (u'groom', '0.27589'), (u'hoopskirt', '0.08299'), (u'overskirt', '0.07584'), (u'saltshaker', '0.01245')]
+b=annstreetstudio
+
+p=117272772995
+caffe=[(u'structure', '0.95450'), (u'bridge', '0.65454'), (u'geological formation', '0.62127'), (u'obelisk', '0.59022'), (u'viaduct', '0.56293'), (u'cliff', '0.19760'), (u'obelisk', '0.15903'), (u'viaduct', '0.14007'), (u'castle', '0.05460'), (u'suspension bridge', '0.03349')]
+b=annstreetstudio
+
+p=115782759985
+caffe=[(u'covering', '0.33789'), (u'consumer goods', '0.30191'), (u'vessel', '0.29745'), (u'commodity', '0.29221'), (u'clothing', '0.28144'), (u'bathtub', '0.05403'), (u'sunglasses', '0.04738'), (u'stethoscope', '0.04312'), (u'mouse', '0.03765'), (u'Band Aid', '0.03314')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'shower cap', '0.87090'), (u'cap', '0.78678'), (u'clothing', '0.74042'), (u'headdress', '0.69494'), (u'head cabbage', '0.67529'), (u'shower cap', '0.75439'), (u'head cabbage', '0.18896'), (u'artichoke', '0.00835'), (u'wig', '0.00661'), (u'cauliflower', '0.00450')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '0.86958'), (u'garment', '0.78918'), (u'consumer goods', '0.77134'), (u'commodity', '0.74524'), (u'covering', '0.71453'), (u'diaper', '0.42278'), (u'brassiere', '0.13948'), (u'bikini', '0.05861'), (u'swimming trunks', '0.02546'), (u'harmonica', '0.02481')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '0.97547'), (u'consumer goods', '0.85911'), (u'commodity', '0.83128'), (u'wig', '0.78667'), (u'covering', '0.78029'), (u'shower cap', '0.44204'), (u'wig', '0.38806'), (u'hair slide', '0.05754'), (u'bathing cap', '0.03824'), (u'bonnet', '0.03420')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'gown', '1.72394'), (u'dress', '1.69862'), (u"woman's clothing", '1.51009'), (u'clothing', '1.42118'), (u'consumer goods', '1.24046'), (u'gown', '0.68444'), (u'lab coat', '0.12080'), (u'hoopskirt', '0.06913'), (u'overskirt', '0.03881'), (u'pajama', '0.02700')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '1.46855'), (u'gown', '1.37993'), (u'dress', '1.35966'), (u'skirt', '1.32566'), (u'consumer goods', '1.27588'), (u'gown', '0.46140'), (u'overskirt', '0.26997'), (u'hoopskirt', '0.21214'), (u'velvet', '0.00908'), (u'sarong', '0.00586')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '0.72147'), (u'consumer goods', '0.63927'), (u'commodity', '0.61230'), (u'covering', '0.59635'), (u'feather boa', '0.51232'), (u'hair slide', '0.33198'), (u'feather boa', '0.20000'), (u'wig', '0.16258'), (u'bonnet', '0.09097'), (u'shower cap', '0.03861')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '1.50270'), (u'consumer goods', '1.31048'), (u'swimsuit', '1.30515'), (u'garment', '1.24594'), (u'commodity', '1.24350'), (u'bikini', '0.37009'), (u'maillot', '0.15865'), (u'brassiere', '0.10906'), (u'bathing cap', '0.04229'), (u'maillot', '0.03818')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'lipstick', '0.75397'), (u'makeup', '0.74947'), (u'cosmetic', '0.73701'), (u'toiletry', '0.71977'), (u'covering', '0.31995'), (u'lipstick', '0.38448'), (u'ice lolly', '0.13217'), (u'bathtub', '0.09470'), (u'Band Aid', '0.05147'), (u'tub', '0.05058')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'head cabbage', '1.96820'), (u'cabbage', '1.93929'), (u'cruciferous vegetable', '1.78829'), (u'vegetable', '1.40571'), (u'produce', '1.26799'), (u'head cabbage', '0.57507'), (u'velvet', '0.13582'), (u'spindle', '0.03479'), (u'wool', '0.03106'), (u'confectionery', '0.02609')]
+b=annstreetstudio
+
+p=113789792575
+caffe=[(u'clothing', '0.93574'), (u'consumer goods', '0.82085'), (u'commodity', '0.78651'), (u'feather boa', '0.76001'), (u'scarf', '0.73911'), (u'feather boa', '0.31999'), (u'bonnet', '0.18392'), (u'wig', '0.14760'), (u'groom', '0.06231'), (u'shower cap', '0.04772')]
+b=pinkv0dka
+
+p=143356021095
+caffe=[(u'musical instrument', '0.35738'), (u'device', '0.32399'), (u'equipment', '0.29120'), (u'camera', '0.22502'), (u'wind instrument', '0.22367'), (u'dumbbell', '0.07289'), (u'reflex camera', '0.05572'), (u'microphone', '0.03954'), (u'Polaroid camera', '0.03161'), (u'harmonica', '0.02980')]
+b=pinkv0dka
+
+p=143355977410
+caffe=[(u'makeup', '0.98072'), (u'cosmetic', '0.96442'), (u'toiletry', '0.88986'), (u'lipstick', '0.68517'), (u'face powder', '0.42488'), (u'lipstick', '0.33565'), (u'face powder', '0.15020'), (u'thunder snake', '0.03619'), (u'tick', '0.03114'), (u'mouse', '0.02622')]
+b=pinkv0dka
+
+p=143355946160
+caffe=[(u'rule', '0.48574'), (u'measuring stick', '0.47861'), (u'measuring instrument', '0.35889'), (u'device', '0.32540'), (u'slide rule', '0.32310'), (u'rule', '0.35663'), (u'slide rule', '0.06943'), (u'pencil box', '0.04766'), (u'menu', '0.04202'), (u'harmonica', '0.03601')]
+b=pinkv0dka
+
+p=143181554300
+caffe=[(u'clothing', '0.89857'), (u'garment', '0.82770'), (u'consumer goods', '0.79483'), (u'covering', '0.76957'), (u'commodity', '0.76810'), (u'brassiere', '0.33792'), (u'necklace', '0.06258'), (u'Band Aid', '0.05870'), (u'bikini', '0.05311'), (u'swimming trunks', '0.04940')]
+b=pinkv0dka
+
+p=143181512905
+caffe=[(u'protective covering', '0.45477'), (u'covering', '0.42946'), (u'tile roof', '0.42407'), (u'roof', '0.38508'), (u'shoji', '0.34071'), (u'tile roof', '0.21474'), (u'shoji', '0.10236'), (u'prison', '0.07322'), (u'computer keyboard', '0.06781'), (u'window shade', '0.06542')]
+b=pinkv0dka
+
+p=141066826475
+caffe=[(u'bridge', '1.49202'), (u'pier', '1.07682'), (u'steel arch bridge', '1.05101'), (u'structure', '1.00537'), (u'support', '0.79761'), (u'pier', '0.76362'), (u'steel arch bridge', '0.13651'), (u'suspension bridge', '0.02311'), (u'dam', '0.01710'), (u'dock', '0.00992')]
+b=pinkv0dka
+
+p=141066738610
+caffe=[(u'toiletry', '0.75279'), (u'vessel', '0.44693'), (u'container', '0.43513'), (u'lotion', '0.41180'), (u'bottle', '0.35917'), (u'lotion', '0.20493'), (u'perfume', '0.19826'), (u'pill bottle', '0.14947'), (u'measuring cup', '0.13013'), (u'sunscreen', '0.04553')]
+b=pinkv0dka
+
+p=141066643575
+caffe=[(u'snowplow', '0.96504'), (u'self-propelled vehicle', '0.74650'), (u'motor vehicle', '0.72876'), (u'wheeled vehicle', '0.67687'), (u'vehicle', '0.62406'), (u'snowplow', '0.30880'), (u'stage', '0.09219'), (u'traffic light', '0.05308'), (u'spotlight', '0.03053'), (u'torch', '0.02730')]
+b=pinkv0dka
+
+p=136791703470
+caffe=[(u'clothing', '0.47578'), (u'covering', '0.47431'), (u'consumer goods', '0.44172'), (u'commodity', '0.42268'), (u'garment', '0.39939'), (u'cardigan', '0.10282'), (u'crossword puzzle', '0.04826'), (u'iPod', '0.04758'), (u'purse', '0.04660'), (u'wallet', '0.04224')]
+b=pinkv0dka
+
+p=136789410115
+caffe=[(u'puzzle', '0.97232'), (u'game', '0.95616'), (u'jigsaw puzzle', '0.83070'), (u'game equipment', '0.67212'), (u'equipment', '0.52774'), (u'jigsaw puzzle', '0.38696'), (u'crossword puzzle', '0.08175'), (u'toilet tissue', '0.01524'), (u'iron', '0.01493'), (u'sewing machine', '0.01458')]
+b=pinkv0dka
+
+p=136499598065
+caffe=[(u'covering', '0.72782'), (u'clothing', '0.72337'), (u'consumer goods', '0.64275'), (u'commodity', '0.61733'), (u'garment', '0.52558'), (u'stole', '0.09530'), (u'sarong', '0.07471'), (u'sandal', '0.07332'), (u'handkerchief', '0.07316'), (u'quilt', '0.05106')]
+b=pinkv0dka
+
+p=136480728380
+caffe=[(u'clothing', '1.12350'), (u'garment', '1.05752'), (u'consumer goods', '0.98559'), (u'brassiere', '0.95788'), (u'undergarment', '0.94381'), (u'brassiere', '0.62153'), (u'diaper', '0.05160'), (u'maillot', '0.05001'), (u'sarong', '0.03488'), (u'bikini', '0.02815')]
+b=pinkv0dka
+
+p=136480437740
+caffe=[(u'bridge', '1.60392'), (u'suspension bridge', '1.30670'), (u'structure', '1.05929'), (u'pier', '0.60949'), (u'bell cote', '0.51168'), (u'suspension bridge', '0.61271'), (u'bell cote', '0.21920'), (u'pier', '0.08716'), (u'steel arch bridge', '0.05204'), (u'stupa', '0.00689')]
+b=pinkv0dka
+
+p=136480393640
+caffe=[(u'clothing', '0.60353'), (u'commodity', '0.58150'), (u'covering', '0.56640'), (u'consumer goods', '0.54512'), (u'garment', '0.50075'), (u'bath towel', '0.16880'), (u'Band Aid', '0.10752'), (u'brassiere', '0.08053'), (u'walking stick', '0.05414'), (u'Windsor tie', '0.05014')]
+b=pinkv0dka
+
+p=136480306560
+caffe=[(u'scabbard', '0.81801'), (u'sheath', '0.75915'), (u'protective covering', '0.47687'), (u'covering', '0.40028'), (u'implement', '0.39872'), (u'scabbard', '0.53759'), (u'wallet', '0.12177'), (u'buckle', '0.07255'), (u'street sign', '0.05194'), (u'pole', '0.02131')]
+b=pinkv0dka
+
+p=136056881285
+caffe=[(u'switch', '0.39638'), (u'control', '0.38446'), (u'device', '0.32727'), (u'mechanism', '0.29182'), (u'container', '0.24440'), (u'switch', '0.35917'), (u'lighter', '0.24634'), (u'can opener', '0.03416'), (u'paper towel', '0.03254'), (u'soap dispenser', '0.02893')]
+b=pinkv0dka
+
+p=136056588675
+caffe=[(u'clothing', '0.42594'), (u'consumer goods', '0.39449'), (u'covering', '0.39189'), (u'commodity', '0.37604'), (u'garment', '0.29173'), (u'sarong', '0.07332'), (u'apron', '0.07308'), (u'vestment', '0.06075'), (u'chiton', '0.04814'), (u'rock python', '0.04126')]
+b=pinkv0dka
+
+p=136056439675
+caffe=[(u'clothing', '1.02135'), (u'consumer goods', '0.91386'), (u'commodity', '0.87480'), (u'covering', '0.84449'), (u'garment', '0.75881'), (u'gown', '0.22498'), (u'overskirt', '0.13212'), (u'hoopskirt', '0.08561'), (u'miniskirt', '0.07040'), (u'sarong', '0.04688')]
+b=pinkv0dka
+
+p=136056411410
+caffe=[(u'geyser', '2.65232'), (u'spring', '2.61336'), (u'geological formation', '2.33388'), (u'natural elevation', '0.45982'), (u'shore', '0.33549'), (u'geyser', '0.53608'), (u'seashore', '0.15805'), (u'sandbar', '0.06803'), (u'breakwater', '0.03079'), (u'wreck', '0.03027')]
+b=pinkv0dka
+
+p=136055803785
+caffe=[(u'wig', '1.64730'), (u'hairpiece', '1.62310'), (u'attire', '1.51609'), (u'clothing', '1.12704'), (u'consumer goods', '0.98867'), (u'wig', '0.88610'), (u'brassiere', '0.03691'), (u'hair spray', '0.01354'), (u'hand blower', '0.00962'), (u'bath towel', '0.00311')]
+b=slufoot
+
+p=145932716410
+caffe=[(u'clothing', '0.99420'), (u'garment', '0.94284'), (u'covering', '0.89989'), (u'consumer goods', '0.86907'), (u'commodity', '0.82790'), (u'abaya', '0.28522'), (u'cloak', '0.24398'), (u'bonnet', '0.10324'), (u'fur coat', '0.10160'), (u'stole', '0.03292')]
+b=slufoot
+
+p=145922741250
+caffe=[(u'vessel', '0.73438'), (u'structure', '0.71375'), (u'craft', '0.68137'), (u'fountain', '0.56347'), (u'sailing vessel', '0.51186'), (u'fountain', '0.23584'), (u'dam', '0.11680'), (u'tub', '0.07705'), (u'suspension bridge', '0.05848'), (u'yawl', '0.05759')]
+b=slufoot
+
+p=145922011005
+caffe=[(u'canoe', '0.67845'), (u'small boat', '0.65339'), (u'boat', '0.63291'), (u'vessel', '0.58327'), (u'craft', '0.53590'), (u'canoe', '0.21931'), (u'bathing cap', '0.17322'), (u'swimming trunks', '0.09596'), (u'bikini', '0.06769'), (u'paddle', '0.05301')]
+b=slufoot
+
+p=145921289140
+caffe=[(u'fountain', '0.81059'), (u'structure', '0.55167'), (u'vessel', '0.42885'), (u'container', '0.33471'), (u'tub', '0.24526'), (u'fountain', '0.34879'), (u'tub', '0.30649'), (u'bathtub', '0.04467'), (u'patio', '0.03676'), (u'rain barrel', '0.03091')]
+b=slufoot
+
+p=145920648795
+caffe=[(u'clothing', '0.79101'), (u'consumer goods', '0.70050'), (u'commodity', '0.66595'), (u'covering', '0.64495'), (u'garment', '0.55373'), (u'bathing cap', '0.18004'), (u'sunglass', '0.15844'), (u'bikini', '0.11724'), (u'sunglasses', '0.08981'), (u'wig', '0.04194')]
+b=slufoot
+
+p=145920495915
+caffe=[(u'structure', '0.95644'), (u'mobile home', '0.73198'), (u'trailer', '0.72123'), (u'housing', '0.67031'), (u'wheeled vehicle', '0.55921'), (u'mobile home', '0.35363'), (u'patio', '0.28018'), (u'picket fence', '0.07181'), (u'greenhouse', '0.02999'), (u'boathouse', '0.02190')]
+b=slufoot
+
+p=145910418555
+caffe=[(u'clothing', '0.73918'), (u'garment', '0.65846'), (u'consumer goods', '0.65823'), (u'commodity', '0.62406'), (u'covering', '0.60835'), (u'miniskirt', '0.27342'), (u'swing', '0.15326'), (u'maillot', '0.10133'), (u'harp', '0.06106'), (u'sarong', '0.04822')]
+b=slufoot
+
+p=145874197965
+caffe=[(u'structure', '0.41063'), (u'furniture', '0.30773'), (u'furnishing', '0.30411'), (u'wheeled vehicle', '0.27193'), (u'container', '0.26449'), (u'window shade', '0.10128'), (u'patio', '0.08063'), (u'greenhouse', '0.06928'), (u'sliding door', '0.06832'), (u'shoji', '0.06831')]
+b=slufoot
+
+p=145873030400
+caffe=[(u'clothing', '1.15385'), (u'garment', '1.13312'), (u'consumer goods', '1.01785'), (u'commodity', '0.96519'), (u'brassiere', '0.92098'), (u'brassiere', '0.59891'), (u'miniskirt', '0.28860'), (u'maillot', '0.03054'), (u'sarong', '0.02966'), (u'bikini', '0.01438')]
+b=slufoot
+
+p=145872504355
+caffe=[(u'furniture', '0.77576'), (u'furnishing', '0.73984'), (u'studio couch', '0.69457'), (u'convertible', '0.68437'), (u'sofa', '0.67416'), (u'studio couch', '0.29673'), (u'washbasin', '0.17295'), (u'tub', '0.09645'), (u'bathtub', '0.09094'), (u'medicine chest', '0.02878')]
+b=slufoot
+
+p=145847308565
+caffe=[(u'clothing', '1.04054'), (u'garment', '0.98060'), (u'consumer goods', '0.90383'), (u'covering', '0.89012'), (u'commodity', '0.87149'), (u'wool', '0.31481'), (u'poncho', '0.16100'), (u'cardigan', '0.13099'), (u'cloak', '0.12037'), (u'stole', '0.09190')]
+b=slufoot
+
+p=145847304500
+caffe=[(u'covering', '0.43164'), (u'toiletry', '0.41568'), (u'clothing', '0.38156'), (u'makeup', '0.37268'), (u'cosmetic', '0.36648'), (u'Band Aid', '0.15515'), (u'lipstick', '0.12653'), (u'lens cap', '0.05177'), (u'ice lolly', '0.04772'), (u'face powder', '0.04470')]
+b=slufoot
+
+p=145847286095
+caffe=[(u'garment', '0.87224'), (u'clothing', '0.85941'), (u'jean', '0.82672'), (u'trouser', '0.81457'), (u'workwear', '0.81457'), (u'jean', '0.37320'), (u'miniskirt', '0.06515'), (u'swimming trunks', '0.04588'), (u'brassiere', '0.02889'), (u'maillot', '0.02563')]
+b=slufoot
+
+p=145847284285
+caffe=[(u'consumer goods', '0.42003'), (u'clothing', '0.41024'), (u'commodity', '0.40143'), (u'covering', '0.39504'), (u'garment', '0.31814'), (u'miniskirt', '0.05974'), (u'pajama', '0.03682'), (u'laptop', '0.03093'), (u'notebook', '0.02757'), (u'crossword puzzle', '0.02032')]
+b=slufoot
+
+p=145847284285
+caffe=[(u'clothing', '0.53058'), (u'consumer goods', '0.50248'), (u'commodity', '0.49070'), (u'covering', '0.47462'), (u'garment', '0.42307'), (u'hand blower', '0.05242'), (u'spatula', '0.04887'), (u'ice lolly', '0.04008'), (u'brassiere', '0.03643'), (u'drumstick', '0.03313')]
+b=slufoot
+
+p=145847272550
+caffe=[(u'piece of cloth', '0.88764'), (u'piece', '0.86988'), (u'handkerchief', '0.86824'), (u'part', '0.85212'), (u'fabric', '0.84141'), (u'handkerchief', '0.43690'), (u'paper towel', '0.14086'), (u'quilt', '0.07883'), (u'envelope', '0.04476'), (u'shower curtain', '0.03897')]
+b=slufoot
+
+p=145845376570
+caffe=[(u'covering', '0.72268'), (u'clothing', '0.67402'), (u'consumer goods', '0.61237'), (u'commodity', '0.58393'), (u'garment', '0.51911'), (u'sandal', '0.11597'), (u'miniskirt', '0.09028'), (u'Band Aid', '0.08105'), (u'suit', '0.07421'), (u'knee pad', '0.05274')]
+b=slufoot
+
+p=145844108790
+caffe=[(u'clothing', '0.90774'), (u'consumer goods', '0.81547'), (u'commodity', '0.78029'), (u'covering', '0.74563'), (u'garment', '0.70549'), (u'wig', '0.30706'), (u'fur coat', '0.27994'), (u'feather boa', '0.12030'), (u'lipstick', '0.05835'), (u'hand blower', '0.05594')]
+b=slufoot
+
+p=145775785615
+caffe=[(u'envelope', '0.43069'), (u'container', '0.34947'), (u'covering', '0.33624'), (u'binder', '0.33124'), (u'menu', '0.25501'), (u'envelope', '0.51029'), (u'binder', '0.18308'), (u'book jacket', '0.13385'), (u'menu', '0.04264'), (u'notebook', '0.01316')]
+b=slufoot
+
+p=145774961425
+caffe=[(u'covering', '0.43688'), (u'clothing', '0.41376'), (u'consumer goods', '0.38153'), (u'commodity', '0.36335'), (u'garment', '0.27297'), (u'gasmask', '0.11078'), (u'sunglass', '0.10430'), (u'ballplayer', '0.04552'), (u'bathing cap', '0.04479'), (u'sunglasses', '0.03979')]
+b=meowmeowmaru
+
+p=72531653497
+caffe=[(u'furnishing', '0.48125'), (u'furniture', '0.45347'), (u'covering', '0.35275'), (u'wardrobe', '0.33076'), (u'consumer goods', '0.29782'), (u'wardrobe', '0.17035'), (u'shower curtain', '0.07340'), (u'hoopskirt', '0.05664'), (u'toilet tissue', '0.04497'), (u'cockroach', '0.04431')]
+b=meowmeowmaru
+
+p=34337930581
+caffe=[(u'dog', '0.41755'), (u'domestic animal', '0.39004'), (u'canine', '0.37400'), (u'carnivore', '0.31546'), (u'hunting dog', '0.26352'), (u'pug', '0.08129'), (u'carton', '0.06065'), (u'bath towel', '0.04641'), (u'guinea pig', '0.04183'), (u'envelope', '0.03009')]
+b=meowmeowmaru
+
+p=26959115551
+caffe=[(u'cat', '1.64414'), (u'domestic cat', '1.64308'), (u'feline', '1.63597'), (u'tabby', '0.77466'), (u'domestic animal', '0.74206'), (u'tiger cat', '0.37554'), (u'tabby', '0.33068'), (u'Persian cat', '0.10175'), (u'Egyptian cat', '0.09529'), (u'hamster', '0.01881')]
+b=meowmeowmaru
+
+p=25067957350
+caffe=[(u'cat', '1.75729'), (u'domestic cat', '1.73780'), (u'feline', '1.64521'), (u'tabby', '1.00236'), (u'domestic animal', '0.77944'), (u'tabby', '0.62240'), (u'Egyptian cat', '0.21457'), (u'tiger cat', '0.11523'), (u'carton', '0.01543'), (u'bow tie', '0.00837')]
+b=meowmeowmaru
+
+p=24909785283
+caffe=[(u'dog', '0.74954'), (u'domestic animal', '0.72437'), (u'carnivore', '0.69632'), (u'canine', '0.68314'), (u'hunting dog', '0.50313'), (u'black-footed ferret', '0.14677'), (u'Pembroke', '0.07071'), (u'weasel', '0.04482'), (u'skunk', '0.03230'), (u'polecat', '0.02858')]
+b=meowmeowmaru
+
+p=24758922675
+caffe=[(u'dog', '0.40126'), (u'domestic animal', '0.37425'), (u'canine', '0.36204'), (u'working dog', '0.33497'), (u'carnivore', '0.30015'), (u'desk', '0.03701'), (u'desktop computer', '0.03338'), (u'schipperke', '0.02705'), (u'snowplow', '0.02335'), (u'miniature pinscher', '0.02211')]
+b=meowmeowmaru
+
+p=24758922675
+caffe=[(u'container', '0.28483'), (u'box', '0.26955'), (u'device', '0.21415'), (u'implement', '0.21274'), (u'consumer goods', '0.20100'), (u'crate', '0.12098'), (u'carton', '0.07499'), (u'hammer', '0.03094'), (u'dishwasher', '0.02875'), (u'sewing machine', '0.02431')]
+b=meowmeowmaru
+
+p=24758922675
+caffe=[(u'domestic animal', '0.91561'), (u'dog', '0.85828'), (u'canine', '0.79009'), (u'carnivore', '0.76699'), (u'working dog', '0.55081'), (u'Cardigan', '0.25619'), (u'tabby', '0.14394'), (u'Shetland sheepdog', '0.11771'), (u'tiger cat', '0.09460'), (u'Pembroke', '0.07319')]
+b=meowmeowmaru
+
+p=24758922675
+caffe=[(u'dog', '1.04976'), (u'domestic animal', '0.97026'), (u'canine', '0.95035'), (u'carnivore', '0.77179'), (u'working dog', '0.66329'), (u'basenji', '0.17209'), (u'Cardigan', '0.11931'), (u'Shetland sheepdog', '0.06700'), (u'beagle', '0.05825'), (u'Pembroke', '0.04097')]
+b=meowmeowmaru
+
+p=23233264524
+caffe=[(u'cat', '1.72656'), (u'domestic cat', '1.72407'), (u'feline', '1.62401'), (u'tabby', '1.05936'), (u'domestic animal', '0.78980'), (u'tabby', '0.75184'), (u'tiger cat', '0.14697'), (u'Egyptian cat', '0.03214'), (u'carton', '0.01463'), (u'malamute', '0.00834')]
+b=meowmeowmaru
+
+p=23233264524
+caffe=[(u'shoji', '0.52316'), (u'screen', '0.51548'), (u'furnishing', '0.48590'), (u'furniture', '0.47789'), (u'sliding door', '0.44902'), (u'sliding door', '0.35810'), (u'window shade', '0.15131'), (u'shoji', '0.11137'), (u'window screen', '0.08250'), (u'prison', '0.02898')]
+b=meowmeowmaru
+
+p=23233264524
+caffe=[(u'furnishing', '0.37092'), (u'furniture', '0.36283'), (u'covering', '0.28245'), (u'consumer goods', '0.22720'), (u'commodity', '0.22125'), (u'radiator', '0.07359'), (u'sliding door', '0.06599'), (u'four-poster', '0.04994'), (u'paper towel', '0.04654'), (u'window shade', '0.04075')]
+b=meowmeowmaru
+
+p=23233264524
+caffe=[(u'cat', '1.43723'), (u'domestic cat', '1.43229'), (u'feline', '1.35721'), (u'tabby', '0.86410'), (u'domestic animal', '0.82699'), (u'tabby', '0.59272'), (u'tiger cat', '0.12991'), (u'Cardigan', '0.07996'), (u'Egyptian cat', '0.05057'), (u'silky terrier', '0.01223')]
+b=meowmeowmaru
+
+p=23043604254
+caffe=[(u'arthropod', '0.38725'), (u'invertebrate', '0.36418'), (u'insect', '0.31168'), (u'fastener', '0.24426'), (u'restraint', '0.22482'), (u'nail', '0.13440'), (u'screw', '0.04894'), (u'paper towel', '0.04581'), (u'cicada', '0.04427'), (u'thimble', '0.03538')]
+b=meowmeowmaru
+
+p=22530663437
+caffe=[(u'domestic animal', '0.70894'), (u'cat', '0.63280'), (u'domestic cat', '0.63032'), (u'carnivore', '0.60646'), (u'feline', '0.59967'), (u'tabby', '0.26964'), (u'Cardigan', '0.15910'), (u'paper towel', '0.05894'), (u'tiger cat', '0.05090'), (u'mouse', '0.03044')]
+b=meowmeowmaru
+
+p=22530663437
+caffe=[(u'dog', '0.73131'), (u'domestic animal', '0.70145'), (u'canine', '0.66190'), (u'hunting dog', '0.64132'), (u'terrier', '0.61670'), (u'Cardigan', '0.06217'), (u'carton', '0.06100'), (u'Norwich terrier', '0.04907'), (u'Norfolk terrier', '0.04742'), (u'Pembroke', '0.03734')]
+b=meowmeowmaru
+
+p=22530663437
+caffe=[(u'cat', '1.62073'), (u'domestic cat', '1.61362'), (u'feline', '1.58366'), (u'tabby', '0.94667'), (u'domestic animal', '0.76108'), (u'tabby', '0.58361'), (u'tiger cat', '0.26550'), (u'Egyptian cat', '0.03630'), (u'Cardigan', '0.01085'), (u'hammer', '0.00509')]
+b=meowmeowmaru
+
+p=22530663437
+caffe=[(u'dog', '1.01835'), (u'domestic animal', '0.96892'), (u'canine', '0.91475'), (u'hunting dog', '0.86811'), (u'carnivore', '0.77823'), (u'Shih-Tzu', '0.08448'), (u'borzoi', '0.08311'), (u'Old English sheepdog', '0.06121'), (u'Persian cat', '0.04419'), (u'miniature schnauzer', '0.03401')]
+b=meowmeowmaru
+
+p=22268008480
+caffe=[(u'cat', '1.59826'), (u'domestic cat', '1.57760'), (u'feline', '1.49736'), (u'tabby', '0.89903'), (u'domestic animal', '0.72974'), (u'tabby', '0.57167'), (u'Egyptian cat', '0.15379'), (u'tiger cat', '0.11021'), (u'carton', '0.05929'), (u'Persian cat', '0.01839')]
+b=meowmeowmaru
+
+p=22268008480
+caffe=[(u'cat', '1.23798'), (u'feline', '1.18256'), (u'domestic cat', '1.18164'), (u'tabby', '0.64937'), (u'domestic animal', '0.62983'), (u'tabby', '0.39594'), (u'carton', '0.14221'), (u'tiger cat', '0.12525'), (u'Egyptian cat', '0.07795'), (u'lynx', '0.04999')]
+b=rapcoloringbook
+
+p=143433469515
+caffe=[(u'arthropod', '0.77288'), (u'insect', '0.75737'), (u'invertebrate', '0.68278'), (u'orthopterous insect', '0.48328'), (u'grasshopper', '0.36025'), (u'grasshopper', '0.15314'), (u'mantis', '0.06567'), (u'African chameleon', '0.06395'), (u'pineapple', '0.04860'), (u'confectionery', '0.03602')]
+b=rapcoloringbook
+
+p=142902625200
+caffe=[(u'measuring instrument', '0.73723'), (u'timepiece', '0.67107'), (u'instrument', '0.58007'), (u'device', '0.43586'), (u'stopwatch', '0.41644'), (u'stopwatch', '0.18203'), (u'envelope', '0.10388'), (u'gas pump', '0.07853'), (u'analog clock', '0.07213'), (u'digital clock', '0.05967')]
+b=rapcoloringbook
+
+p=142633297950
+caffe=[(u'clothing', '0.55282'), (u'covering', '0.52635'), (u'consumer goods', '0.48952'), (u'commodity', '0.46443'), (u'diapsid', '0.46092'), (u'military uniform', '0.17729'), (u'kimono', '0.12999'), (u'diamondback', '0.09478'), (u'boa constrictor', '0.04127'), (u'hognose snake', '0.03099')]
+b=rapcoloringbook
+
+p=141347637530
+caffe=[(u'covering', '0.56256'), (u'clothing', '0.53308'), (u'consumer goods', '0.48185'), (u'commodity', '0.45930'), (u'garment', '0.36205'), (u'shield', '0.07196'), (u'sombrero', '0.07086'), (u'vestment', '0.04813'), (u'velvet', '0.04208'), (u'apron', '0.03544')]
+b=rapcoloringbook
+
+p=139945721695
+caffe=[(u'crossword puzzle', '1.47320'), (u'puzzle', '1.36053'), (u'game', '1.33791'), (u'game equipment', '0.91384'), (u'equipment', '0.78160'), (u'crossword puzzle', '0.45442'), (u'cassette', '0.07108'), (u'remote control', '0.05352'), (u'menu', '0.05267'), (u'book jacket', '0.04532')]
+b=rapcoloringbook
+
+p=139945721695
+caffe=[(u'comic book', '0.52146'), (u'magazine', '0.51380'), (u'press', '0.50614'), (u'publication', '0.50614'), (u'print media', '0.49848'), (u'comic book', '0.29998'), (u'jigsaw puzzle', '0.15047'), (u'menu', '0.04280'), (u'envelope', '0.03834'), (u'book jacket', '0.03328')]
+b=rapcoloringbook
+
+p=138765678245
+caffe=[(u'arthropod', '0.38604'), (u'insect', '0.35220'), (u'invertebrate', '0.34915'), (u'covering', '0.22007'), (u'beetle', '0.21543'), (u'sandal', '0.04897'), (u'mousetrap', '0.04687'), (u'safety pin', '0.03506'), (u'radio telescope', '0.03280'), (u'weevil', '0.02901')]
+b=rapcoloringbook
+
+p=138765678245
+caffe=[(u'arthropod', '0.36419'), (u'invertebrate', '0.36147'), (u'insect', '0.32404'), (u'implement', '0.25511'), (u'fastener', '0.22456'), (u'safety pin', '0.06477'), (u'screw', '0.04031'), (u'nail', '0.03498'), (u'lacewing', '0.03431'), (u'fountain pen', '0.02924')]
+b=rapcoloringbook
+
+p=137988151170
+caffe=[(u'furnishing', '0.43601'), (u'theater curtain', '0.36323'), (u'curtain', '0.33812'), (u'covering', '0.32338'), (u'blind', '0.32290'), (u'padlock', '0.13389'), (u'theater curtain', '0.11072'), (u'freight car', '0.07479'), (u'altar', '0.04035'), (u'organ', '0.03366')]
+b=rapcoloringbook
+
+p=137988151170
+caffe=[(u'covering', '0.38000'), (u'clothing', '0.28041'), (u'consumer goods', '0.27551'), (u'commodity', '0.26593'), (u'device', '0.22588'), (u'buckle', '0.16335'), (u'mask', '0.11542'), (u'lighter', '0.06419'), (u'wallet', '0.02516'), (u'harmonica', '0.02380')]
+b=rapcoloringbook
+
+p=137988151170
+caffe=[(u'covering', '0.46013'), (u'clothing', '0.39875'), (u'consumer goods', '0.37411'), (u'commodity', '0.36445'), (u'hosiery', '0.32856'), (u'sock', '0.14175'), (u'ice lolly', '0.05574'), (u'butternut squash', '0.04885'), (u'lighter', '0.04513'), (u'Band Aid', '0.02993')]
+b=rapcoloringbook
+
+p=135794863530
+caffe=[(u'book jacket', '0.49867'), (u'jacket', '0.49135'), (u'wrapping', '0.48402'), (u'geological formation', '0.37628'), (u'covering', '0.32893'), (u'book jacket', '0.36910'), (u'promontory', '0.05891'), (u'seashore', '0.02905'), (u'volcano', '0.02649'), (u'cliff', '0.02203')]
+b=rapcoloringbook
+
+p=135794863530
+caffe=[(u'covering', '0.27872'), (u'clothing', '0.19322'), (u'consumer goods', '0.18542'), (u'commodity', '0.18067'), (u'reptile', '0.17653'), (u'velvet', '0.04932'), (u'paper towel', '0.03798'), (u'doormat', '0.03112'), (u'window screen', '0.02048'), (u'nematode', '0.01983')]
+b=rapcoloringbook
+
+p=135385319790
+caffe=[(u'structure', '0.38289'), (u'scoreboard', '0.37785'), (u'signboard', '0.37230'), (u'board', '0.37230'), (u'sheet', '0.32825'), (u'cassette', '0.16062'), (u'scoreboard', '0.11757'), (u'comic book', '0.04510'), (u'bookshop', '0.04410'), (u'book jacket', '0.03707')]
+b=rapcoloringbook
+
+p=135385319790
+caffe=[(u'book jacket', '0.63764'), (u'jacket', '0.62828'), (u'wrapping', '0.61891'), (u'covering', '0.49543'), (u'comic book', '0.46955'), (u'book jacket', '0.36851'), (u'comic book', '0.21910'), (u'mask', '0.10507'), (u'guillotine', '0.03399'), (u'ski mask', '0.02713')]
+b=rapcoloringbook
+
+p=135385319790
+caffe=[(u'covering', '0.45278'), (u'clothing', '0.35379'), (u'consumer goods', '0.33052'), (u'commodity', '0.31789'), (u'column', '0.31361'), (u'book jacket', '0.14092'), (u'guillotine', '0.10368'), (u'military uniform', '0.07825'), (u'totem pole', '0.07442'), (u'comic book', '0.02126')]
+b=rapcoloringbook
+
+p=135385319790
+caffe=[(u'fabric', '0.43346'), (u'piece of cloth', '0.43129'), (u'piece', '0.42267'), (u'part', '0.41404'), (u'covering', '0.38659'), (u'pillow', '0.14662'), (u'handkerchief', '0.12557'), (u'envelope', '0.10421'), (u'pencil box', '0.09616'), (u'binder', '0.07132')]
+b=rapcoloringbook
+
+p=134863372410
+caffe=[(u'comic book', '1.02961'), (u'magazine', '1.01448'), (u'publication', '0.99936'), (u'press', '0.99936'), (u'work', '0.98423'), (u'comic book', '0.59975'), (u'book jacket', '0.19105'), (u'jigsaw puzzle', '0.02657'), (u'balloon', '0.01982'), (u'Band Aid', '0.01565')]
+b=rapcoloringbook
+
+p=134863372410
+caffe=[(u'comic book', '1.08394'), (u'magazine', '1.06802'), (u'publication', '1.05210'), (u'press', '1.05210'), (u'work', '1.03618'), (u'comic book', '0.61603'), (u'book jacket', '0.28268'), (u'menu', '0.04824'), (u'packet', '0.01781'), (u'envelope', '0.00921')]
+b=rapcoloringbook
+
+p=134534223855
+caffe=[(u'sports equipment', '0.50823'), (u'equipment', '0.46547'), (u'weight', '0.40691'), (u'source of illumination', '0.31753'), (u'barbell', '0.30846'), (u'barbell', '0.16254'), (u'torch', '0.14106'), (u'stage', '0.06887'), (u'candle', '0.05865'), (u'dumbbell', '0.05130')]
+b=molls
+
+p=145369322054
+caffe=[(u'dog', '1.13168'), (u'domestic animal', '1.04345'), (u'canine', '1.01011'), (u'carnivore', '0.81411'), (u'working dog', '0.75080'), (u'French bulldog', '0.28291'), (u'Chihuahua', '0.26083'), (u'Boston bull', '0.07248'), (u'muzzle', '0.05666'), (u'kelpie', '0.04553')]
+b=molls
+
+p=141006920224
+caffe=[(u'dog', '0.35733'), (u'hunting dog', '0.34540'), (u'domestic animal', '0.33504'), (u'canine', '0.32323'), (u'terrier', '0.31736'), (u'book jacket', '0.04090'), (u'jersey', '0.03676'), (u'Norfolk terrier', '0.03015'), (u'ice lolly', '0.02870'), (u'Norwich terrier', '0.02553')]
+b=molls
+
+p=140894388614
+caffe=[(u'envelope', '0.38048'), (u'container', '0.34600'), (u'covering', '0.33219'), (u'implement', '0.24532'), (u'piece of cloth', '0.21591'), (u'envelope', '0.46167'), (u'packet', '0.12423'), (u'book jacket', '0.07778'), (u'letter opener', '0.07772'), (u'Band Aid', '0.05679')]
+b=molls
+
+p=140894175959
+caffe=[(u'envelope', '0.38048'), (u'container', '0.34600'), (u'covering', '0.33219'), (u'implement', '0.24532'), (u'piece of cloth', '0.21591'), (u'envelope', '0.46167'), (u'packet', '0.12423'), (u'book jacket', '0.07778'), (u'letter opener', '0.07772'), (u'Band Aid', '0.05679')]
+b=molls
+
+p=140840559909
+caffe=[(u'clothing', '0.88236'), (u'consumer goods', '0.78636'), (u'garment', '0.75284'), (u'commodity', '0.74792'), (u'covering', '0.72890'), (u'bow tie', '0.33802'), (u'stethoscope', '0.07228'), (u'pajama', '0.06409'), (u'military uniform', '0.04212'), (u'lab coat', '0.03951')]
+b=molls
+
+p=140791173084
+caffe=[(u'dog', '1.18017'), (u'domestic animal', '1.08589'), (u'canine', '1.05434'), (u'carnivore', '0.84947'), (u'working dog', '0.66818'), (u'Chihuahua', '0.44462'), (u'miniature pinscher', '0.31415'), (u'Brabancon griffon', '0.17495'), (u'toy terrier', '0.01236'), (u'Pomeranian', '0.00732')]
+b=molls
+
+p=140429596779
+caffe=[(u'clothing', '0.48010'), (u'covering', '0.44609'), (u'consumer goods', '0.44044'), (u'commodity', '0.42415'), (u'garment', '0.29623'), (u'shower cap', '0.13073'), (u'ice lolly', '0.06223'), (u'bow tie', '0.06190'), (u'Band Aid', '0.05083'), (u'bubble', '0.04934')]
+b=molls
+
+p=140319595219
+caffe=[(u'teddy', '0.62807'), (u'plaything', '0.55916'), (u'dog', '0.55183'), (u'hunting dog', '0.52980'), (u'domestic animal', '0.50864'), (u'teddy', '0.24516'), (u'Airedale', '0.06002'), (u'Irish terrier', '0.04629'), (u'feather boa', '0.02820'), (u'wool', '0.02681')]
+b=molls
+
+p=139998729689
+caffe=[(u'dog', '1.10847'), (u'domestic animal', '1.01274'), (u'canine', '0.98814'), (u'hunting dog', '0.97145'), (u'carnivore', '0.79194'), (u'Chesapeake Bay retriever', '0.17543'), (u'malinois', '0.11654'), (u'American Staffordshire terrier', '0.06629'), (u'bloodhound', '0.06317'), (u'bull mastiff', '0.06127')]
+b=molls
+
+p=139698409679
+caffe=[(u'clothing', '1.05129'), (u'consumer goods', '0.92943'), (u'commodity', '0.88514'), (u'covering', '0.84494'), (u'garment', '0.77197'), (u'pajama', '0.33434'), (u'bow tie', '0.13088'), (u'kimono', '0.05248'), (u'feather boa', '0.05089'), (u'bolo tie', '0.03374')]
+b=molls
+
+p=139451310559
+caffe=[(u'vessel', '0.40893'), (u'container', '0.37298'), (u'bottle', '0.27598'), (u'oscilloscope', '0.20894'), (u'covering', '0.20671'), (u'beaker', '0.11619'), (u'pop bottle', '0.08337'), (u'water bottle', '0.07914'), (u'oscilloscope', '0.06500'), (u'ashcan', '0.04471')]
+b=molls
+
+p=139188853599
+caffe=[(u'chain mail', '0.48441'), (u'dog', '0.42763'), (u'body armor', '0.42015'), (u'armor', '0.39596'), (u'domestic animal', '0.39378'), (u'chain mail', '0.15833'), (u'seat belt', '0.10471'), (u'Italian greyhound', '0.06366'), (u'Chihuahua', '0.04225'), (u'miniature pinscher', '0.03926')]
+b=molls
+
+p=138893002764
+caffe=[(u'clothing', '0.83946'), (u'garment', '0.77807'), (u'consumer goods', '0.74934'), (u'commodity', '0.71158'), (u'necktie', '0.70709'), (u'bow tie', '0.70236'), (u'groom', '0.03395'), (u'ice lolly', '0.02090'), (u'military uniform', '0.01863'), (u'lab coat', '0.01308')]
+b=molls
+
+p=138224344704
+caffe=[(u'clothing', '1.04386'), (u'garment', '0.98899'), (u'consumer goods', '0.90906'), (u'commodity', '0.86280'), (u'covering', '0.85162'), (u'sarong', '0.38465'), (u'feather boa', '0.37095'), (u'shower curtain', '0.02796'), (u'stole', '0.01743'), (u'velvet', '0.01695')]
+b=molls
+
+p=138183492339
+caffe=[(u'pinwheel', '0.39939'), (u'wheel', '0.33328'), (u'machine', '0.32702'), (u'mechanical device', '0.30492'), (u'mechanism', '0.28332'), (u'pinwheel', '0.20030'), (u'shopping cart', '0.10458'), (u'quilt', '0.08161'), (u'umbrella', '0.07763'), (u'macaw', '0.03840')]
+b=molls
+
+p=137521141479
+caffe=[(u'garment', '1.19106'), (u'clothing', '1.16739'), (u'consumer goods', '1.02524'), (u'commodity', '0.97183'), (u'covering', '0.92779'), (u'suit', '0.41087'), (u'bow tie', '0.18539'), (u'jersey', '0.09654'), (u'Windsor tie', '0.05742'), (u'oboe', '0.03429')]
+b=molls
+
+p=137269456294
+caffe=[(u'clothing', '0.67831'), (u'covering', '0.65322'), (u'consumer goods', '0.60701'), (u'commodity', '0.57784'), (u'garment', '0.56185'), (u'book jacket', '0.14861'), (u'bow tie', '0.07965'), (u'sunglasses', '0.06962'), (u'comic book', '0.06178'), (u'pajama', '0.05391')]
+b=molls
+
+p=134684698404
+caffe=[(u'mercantile establishment', '1.38692'), (u'place of business', '1.35548'), (u'shop', '1.32307'), (u'establishment', '1.29217'), (u'toyshop', '0.98018'), (u'toyshop', '0.69429'), (u'shoe shop', '0.04470'), (u'comic book', '0.03995'), (u'confectionery', '0.01846'), (u'feather boa', '0.01532')]
+b=molls
+
+p=134639539384
+caffe=[(u'clothing', '0.71856'), (u'consumer goods', '0.63239'), (u'covering', '0.62210'), (u'garment', '0.61509'), (u'commodity', '0.60687'), (u'stole', '0.22977'), (u'sarong', '0.06104'), (u'flute', '0.05960'), (u'wool', '0.05897'), (u'maypole', '0.05681')]
+b=molls
+
+p=134554568009
+caffe=[(u'wheeled vehicle', '0.31384'), (u'vehicle', '0.29212'), (u'conveyance', '0.27923'), (u'container', '0.27314'), (u'covering', '0.24618'), (u'unicycle', '0.08398'), (u'sliding door', '0.07622'), (u'pay-phone', '0.04200'), (u'swing', '0.04140'), (u'cash machine', '0.03424')]
+b=nbcnews
+
+p=145959242701
+caffe=[(u'covering', '0.35332'), (u'clothing', '0.35032'), (u'musical instrument', '0.33341'), (u'consumer goods', '0.32941'), (u'commodity', '0.31278'), (u'bow', '0.26043'), (u'prison', '0.11637'), (u'lab coat', '0.08811'), (u'vestment', '0.06690'), (u'barbershop', '0.05971')]
+b=nbcnews
+
+p=145959242701
+caffe=[(u'structure', '0.39473'), (u'covering', '0.27180'), (u'clothing', '0.26116'), (u'consumer goods', '0.24139'), (u'commodity', '0.22923'), (u'patio', '0.13371'), (u'groom', '0.06800'), (u'vestment', '0.06537'), (u'restaurant', '0.05783'), (u'maypole', '0.04882')]
+b=nbcnews
+
+p=145959242701
+caffe=[(u'clothing', '0.89850'), (u'consumer goods', '0.80188'), (u'commodity', '0.75819'), (u'covering', '0.74283'), (u'academic gown', '0.74021'), (u'mortarboard', '0.34493'), (u'academic gown', '0.29402'), (u'military uniform', '0.06076'), (u'ballplayer', '0.02613'), (u'knee pad', '0.02568')]
+b=nbcnews
+
+p=145455908926
+caffe=[(u'accordion', '0.60571'), (u'free-reed instrument', '0.58486'), (u'musical instrument', '0.57299'), (u'wind instrument', '0.52903'), (u'keyboard instrument', '0.52507'), (u'accordion', '0.30851'), (u'chain mail', '0.13947'), (u'bow tie', '0.05553'), (u'umbrella', '0.02681'), (u'hair spray', '0.02372')]
+b=nbcnews
+
+p=145455908926
+caffe=[(u'musical instrument', '0.45549'), (u'clothing', '0.32659'), (u'stringed instrument', '0.32298'), (u'equipment', '0.31289'), (u'ball', '0.30453'), (u'ballplayer', '0.08235'), (u'stage', '0.08170'), (u'cello', '0.05974'), (u'parallel bars', '0.04411'), (u'maillot', '0.03543')]
+b=nbcnews
+
+p=145455908926
+caffe=[(u'clothing', '0.86027'), (u'consumer goods', '0.76628'), (u'commodity', '0.72618'), (u'covering', '0.70123'), (u'garment', '0.61221'), (u'bow tie', '0.42070'), (u'academic gown', '0.18576'), (u'mortarboard', '0.04270'), (u'oboe', '0.04037'), (u'suit', '0.04002')]
+b=nbcnews
+
+p=145454344411
+caffe=[(u'arthropod', '0.37599'), (u'invertebrate', '0.33718'), (u'arachnid', '0.28633'), (u'device', '0.25072'), (u'rule', '0.24797'), (u'rule', '0.19705'), (u'tick', '0.07564'), (u'ant', '0.06822'), (u'spider web', '0.04692'), (u'radio telescope', '0.03716')]
+b=nbcnews
+
+p=145454344411
+caffe=[(u'planetarium', '1.77271'), (u'building', '1.17764'), (u'structure', '0.84999'), (u'craft', '0.56336'), (u'vehicle', '0.45785'), (u'planetarium', '0.51073'), (u'submarine', '0.11745'), (u'space shuttle', '0.07660'), (u'airship', '0.03659'), (u'water tower', '0.02472')]
+b=nbcnews
+
+p=145454344411
+caffe=[(u'diapsid', '0.88728'), (u'reptile', '0.87115'), (u'salamander', '0.74420'), (u'amphibian', '0.70436'), (u'spotted salamander', '0.57582'), (u'spotted salamander', '0.14623'), (u'water snake', '0.12765'), (u'Gila monster', '0.10811'), (u'sea snake', '0.07944'), (u'African crocodile', '0.06165')]
+b=nbcnews
+
+p=145212432841
+caffe=[(u'diapsid', '0.61070'), (u'reptile', '0.59459'), (u'crocodilian reptile', '0.57931'), (u'African crocodile', '0.47284'), (u'crocodile', '0.46589'), (u'African crocodile', '0.22267'), (u'cliff', '0.16774'), (u'agama', '0.05492'), (u'paddle', '0.03339'), (u'American alligator', '0.02978')]
+b=nbcnews
+
+p=145212432841
+caffe=[(u'big cat', '1.54382'), (u'feline', '1.53293'), (u'Leonberg', '1.00078'), (u'carnivore', '0.82005'), (u'tiger', '0.71671'), (u'Leonberg', '0.21977'), (u'tiger', '0.19741'), (u'cheetah', '0.10176'), (u'leopard', '0.05731'), (u'tiger cat', '0.05127')]
+b=nbcnews
+
+p=145212432841
+caffe=[(u'cliff dwelling', '0.38125'), (u'dwelling', '0.31533'), (u'structure', '0.30394'), (u'housing', '0.30242'), (u'hunting dog', '0.29815'), (u'chain saw', '0.10674'), (u'cliff dwelling', '0.09220'), (u'Indian elephant', '0.04967'), (u'shovel', '0.04647'), (u'ox', '0.04173')]
+b=nbcnews
+
+p=145212432841
+caffe=[(u'feline', '0.89342'), (u'even-toed ungulate', '0.69464'), (u'bovid', '0.68883'), (u'big cat', '0.68162'), (u'ruminant', '0.67285'), (u'cougar', '0.11916'), (u'lion', '0.10963'), (u'ibex', '0.10672'), (u'ram', '0.06646'), (u'tiger', '0.05456')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'groom', '1.00171'), (u'participant', '0.98700'), (u'associate', '0.97228'), (u'peer', '0.95757'), (u'person', '0.79035'), (u'groom', '0.36105'), (u'bow tie', '0.14736'), (u'gown', '0.12282'), (u'suit', '0.05026'), (u'hair spray', '0.04847')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'wheeled vehicle', '0.31913'), (u'clothing', '0.31590'), (u'vehicle', '0.31183'), (u'conveyance', '0.30724'), (u'covering', '0.28976'), (u'garbage truck', '0.03732'), (u'bathing cap', '0.03322'), (u'recreational vehicle', '0.02678'), (u'stage', '0.02597'), (u'shower cap', '0.02429')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'ball', '0.80916'), (u'game equipment', '0.73216'), (u'croquet ball', '0.67684'), (u'croquet equipment', '0.66690'), (u'sports equipment', '0.59605'), (u'croquet ball', '0.26201'), (u'soccer ball', '0.09794'), (u'cowboy hat', '0.09790'), (u'unicycle', '0.06544'), (u'cowboy boot', '0.05194')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'maze', '0.40154'), (u'structure', '0.30625'), (u'system', '0.29982'), (u'covering', '0.25627'), (u'viaduct', '0.21130'), (u'maze', '0.12956'), (u'military uniform', '0.07373'), (u'assault rifle', '0.05860'), (u'coho', '0.05216'), (u'viaduct', '0.05194')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'craft', '1.07097'), (u'vehicle', '0.82483'), (u'conveyance', '0.79200'), (u'vessel', '0.73749'), (u'aircraft', '0.57831'), (u'airliner', '0.20539'), (u'pier', '0.08333'), (u'speedboat', '0.07333'), (u'wing', '0.05709'), (u'planetarium', '0.04446')]
+b=nbcnews
+
+p=144652134666
+caffe=[(u'fireboat', '3.24309'), (u'boat', '2.37146'), (u'vessel', '2.27284'), (u'craft', '2.06988'), (u'vehicle', '1.29714'), (u'fireboat', '0.78957'), (u'drilling platform', '0.15704'), (u'liner', '0.02955'), (u'crane', '0.00718'), (u'pirate', '0.00417')]
+b=nbcnews
+
+p=144624659621
+caffe=[(u'furniture', '0.46167'), (u'furnishing', '0.44335'), (u'machine', '0.33232'), (u'personal computer', '0.31067'), (u'digital computer', '0.30472'), (u'medicine chest', '0.18761'), (u'television', '0.10165'), (u'home theater', '0.10149'), (u'screen', '0.09610'), (u'monitor', '0.07487')]
+b=egotripland
+
+p=134397863802
+caffe=[(u'menu', '0.45945'), (u'fare', '0.45270'), (u'mercantile establishment', '0.43431'), (u'place of business', '0.42446'), (u'prayer rug', '0.42005'), (u'menu', '0.13896'), (u'prayer rug', '0.12009'), (u'shoe shop', '0.08219'), (u'tobacco shop', '0.07774'), (u'comic book', '0.06621')]
+b=egotripland
+
+p=98202363352
+caffe=[(u'covering', '0.40826'), (u'container', '0.28028'), (u'consumer goods', '0.25363'), (u'commodity', '0.24486'), (u'clothing', '0.24330'), (u'book jacket', '0.12806'), (u'ski mask', '0.07261'), (u'comic book', '0.05364'), (u'hamper', '0.04310'), (u'sandal', '0.03324')]
+b=egotripland
+
+p=85878766987
+caffe=[(u'slot', '0.72508'), (u'slot machine', '0.70468'), (u'machine', '0.47852'), (u'furniture', '0.33741'), (u'furnishing', '0.33034'), (u'slot', '0.19417'), (u'water bottle', '0.05217'), (u'paper towel', '0.05181'), (u'rocking chair', '0.04478'), (u'cradle', '0.03010')]
+b=egotripland
+
+p=85878152052
+caffe=[(u'jersey', '1.55016'), (u'shirt', '1.52739'), (u'garment', '1.19334'), (u'clothing', '1.15086'), (u'consumer goods', '1.01126'), (u'jersey', '0.98817'), (u'sweatshirt', '0.00892'), (u'maillot', '0.00225'), (u'bulletproof vest', '0.00024'), (u'maillot', '0.00013')]
+b=egotripland
+
+p=85878152052
+caffe=[(u'jersey', '1.52549'), (u'shirt', '1.50308'), (u'garment', '1.20623'), (u'clothing', '1.17735'), (u'consumer goods', '1.03432'), (u'jersey', '0.97260'), (u'maillot', '0.01660'), (u'sweatshirt', '0.00494'), (u'maillot', '0.00147'), (u'bathing cap', '0.00044')]
+b=egotripland
+
+p=66486732958
+caffe=[(u'stringed instrument', '0.91401'), (u'musical instrument', '0.85952'), (u"jack-o'-lantern", '0.82291'), (u'lantern', '0.81082'), (u'lamp', '0.73662'), (u'cello', '0.17487'), (u"jack-o'-lantern", '0.17266'), (u'electric guitar', '0.11810'), (u'banjo', '0.07374'), (u'theater curtain', '0.05949')]
+b=egotripland
+
+p=49792555518
+caffe=[(u'structure', '0.54591'), (u'shop', '0.51470'), (u'mercantile establishment', '0.51427'), (u'place of business', '0.50261'), (u'establishment', '0.49237'), (u'cowboy boot', '0.24634'), (u'library', '0.16048'), (u'bookshop', '0.13191'), (u'shoe shop', '0.11825'), (u'bookcase', '0.08623')]
+b=egotripland
+
+p=49792555518
+caffe=[(u'device', '0.36172'), (u'equipment', '0.35768'), (u'electronic equipment', '0.32165'), (u'machine', '0.25545'), (u'vehicle', '0.22994'), (u'radio', '0.06596'), (u'rifle', '0.06182'), (u'joystick', '0.05981'), (u'assault rifle', '0.05116'), (u"carpenter's kit", '0.04347')]
+b=egotripland
+
+p=49792555518
+caffe=[(u'furniture', '0.29616'), (u'furnishing', '0.28297'), (u'consumer goods', '0.28211'), (u'commodity', '0.26774'), (u'home appliance', '0.25400'), (u'desk', '0.14957'), (u'desktop computer', '0.06169'), (u'shoe shop', '0.05383'), (u'iron', '0.04560'), (u'vacuum', '0.04334')]
+b=egotripland
+
+p=49791826171
+caffe=[(u'birdhouse', '0.68560'), (u'shelter', '0.65377'), (u'protective covering', '0.49371'), (u'covering', '0.45339'), (u'ocarina', '0.33403'), (u'birdhouse', '0.40170'), (u'ocarina', '0.11295'), (u'chime', '0.06161'), (u'mask', '0.03777'), (u'monastery', '0.02669')]
+b=egotripland
+
+p=49790153608
+caffe=[(u'tennis ball', '1.87856'), (u'ball', '1.45142'), (u'game equipment', '1.30944'), (u'equipment', '0.91339'), (u'racket', '0.24148'), (u'tennis ball', '0.57656'), (u'racket', '0.06137'), (u'pick', '0.05304'), (u'maraca', '0.03476'), (u'bottlecap', '0.03174')]
+b=egotripland
+
+p=49782944600
+caffe=[(u'toiletry', '0.45524'), (u'container', '0.28896'), (u'device', '0.26885'), (u'vessel', '0.24729'), (u'equipment', '0.24588'), (u'perfume', '0.08614'), (u'pill bottle', '0.06777'), (u'lotion', '0.06391'), (u'sunscreen', '0.05451'), (u'face powder', '0.03351')]
+b=egotripland
+
+p=49782730435
+caffe=[(u'jigsaw puzzle', '0.83217'), (u'puzzle', '0.74343'), (u'game', '0.73107'), (u'game equipment', '0.53241'), (u'equipment', '0.45872'), (u'jigsaw puzzle', '0.38881'), (u'whistle', '0.09384'), (u'power drill', '0.08572'), (u'chain saw', '0.07981'), (u'digital clock', '0.04494')]
+b=egotripland
+
+p=49268207686
+caffe=[(u'dogsled', '0.53768'), (u'sled', '0.47909'), (u'even-toed ungulate', '0.45009'), (u'ungulate', '0.43714'), (u'Arabian camel', '0.36812'), (u'plow', '0.18553'), (u'dogsled', '0.16282'), (u'Arabian camel', '0.10922'), (u'ox', '0.10399'), (u'ant', '0.06866')]
+b=egotripland
+
+p=49266063193
+caffe=[(u'covering', '0.28035'), (u'structure', '0.27031'), (u'brass', '0.26491'), (u'container', '0.26235'), (u'memorial', '0.22964'), (u'doormat', '0.10808'), (u'street sign', '0.08690'), (u'brass', '0.05191'), (u'book jacket', '0.04458'), (u'tray', '0.02463')]
+b=egotripland
+
+p=49265925695
+caffe=[(u'theater', '0.65083'), (u'home theater', '0.52392'), (u'motor vehicle', '0.48053'), (u'building', '0.46398'), (u'self-propelled vehicle', '0.46157'), (u'home theater', '0.26321'), (u'cinema', '0.10727'), (u'studio couch', '0.08830'), (u'limousine', '0.06332'), (u'racer', '0.03299')]
+b=egotripland
+
+p=49265764983
+caffe=[(u'mercantile establishment', '0.26988'), (u'structure', '0.26574'), (u'place of business', '0.26376'), (u'shop', '0.25969'), (u'establishment', '0.25734'), (u'toyshop', '0.09078'), (u'comic book', '0.05443'), (u'china cabinet', '0.04192'), (u'teddy', '0.03383'), (u'television', '0.02783')]
+b=egotripland
+
+p=49262932019
+caffe=[(u'wheeled vehicle', '0.91009'), (u'vehicle', '0.75745'), (u'conveyance', '0.70123'), (u'self-propelled vehicle', '0.65766'), (u'container', '0.62014'), (u'tricycle', '0.17344'), (u'cannon', '0.10445'), (u'tractor', '0.07530'), (u'Model T', '0.07486'), (u'half track', '0.05991')]
+b=egotripland
+
+p=49262878261
+caffe=[(u'clothing', '0.48880'), (u'covering', '0.48617'), (u'consumer goods', '0.44690'), (u'commodity', '0.42426'), (u'garment', '0.40391'), (u'bulletproof vest', '0.10402'), (u'military uniform', '0.09416'), (u'street sign', '0.07512'), (u'comic book', '0.05673'), (u'gas pump', '0.05315')]
+b=egotripland
+
+p=49204358166
+caffe=[(u'structure', '0.60892'), (u'place of worship', '0.47258'), (u'building', '0.41054'), (u'obelisk', '0.36718'), (u'mosque', '0.35060'), (u'obelisk', '0.09544'), (u'mosque', '0.08684'), (u'megalith', '0.04563'), (u'stupa', '0.03559'), (u'fountain', '0.03267')]
+b=okieedokieee
+
+p=68118336966
+caffe=[(u'clothing', '0.70663'), (u'consumer goods', '0.63038'), (u'swimsuit', '0.61096'), (u'commodity', '0.59719'), (u'garment', '0.58110'), (u'balance beam', '0.19745'), (u'bikini', '0.11495'), (u'maillot', '0.09401'), (u'maillot', '0.07005'), (u'tricycle', '0.06299')]
+b=okieedokieee
+
+p=67719133740
+caffe=[(u'great grey owl', '0.72797'), (u'owl', '0.71728'), (u'cleaning implement', '0.64773'), (u'swab', '0.62287'), (u'bird of prey', '0.62232'), (u'swab', '0.52216'), (u'great grey owl', '0.15107'), (u'fountain', '0.10837'), (u'lakeside', '0.04078'), (u'white stork', '0.02606')]
+b=okieedokieee
+
+p=67436404880
+caffe=[(u'studio couch', '0.96646'), (u'convertible', '0.95227'), (u'sofa', '0.93807'), (u'furniture', '0.81513'), (u'furnishing', '0.78863'), (u'studio couch', '0.42607'), (u'mosquito net', '0.11680'), (u'quilt', '0.09737'), (u'West Highland white terrier', '0.04916'), (u'Maltese dog', '0.03471')]
+b=okieedokieee
+
+p=67427365331
+caffe=[(u'geological formation', '0.99765'), (u'vessel', '0.82787'), (u'craft', '0.79037'), (u'natural elevation', '0.66882'), (u'whale', '0.62819'), (u'seashore', '0.16163'), (u'promontory', '0.14349'), (u'grey whale', '0.10281'), (u'killer whale', '0.07243'), (u'sandbar', '0.06354')]
+b=okieedokieee
+
+p=67327887215
+caffe=[(u'clothing', '0.65630'), (u'covering', '0.58447'), (u'consumer goods', '0.58385'), (u'commodity', '0.56852'), (u'garment', '0.55192'), (u'diaper', '0.35929'), (u'plastic bag', '0.17485'), (u'wool', '0.03818'), (u'quilt', '0.03061'), (u'head cabbage', '0.02692')]
+b=okieedokieee
+
+p=67327698804
+caffe=[(u'mercantile establishment', '0.45678'), (u'place of business', '0.44643'), (u'shop', '0.44436'), (u'establishment', '0.43394'), (u'structure', '0.40843'), (u'shoe shop', '0.28130'), (u'crate', '0.07278'), (u'cassette', '0.06755'), (u'sunglasses', '0.02657'), (u'butcher shop', '0.02464')]
+b=okieedokieee
+
+p=67201258302
+caffe=[(u'mosquito net', '1.06909'), (u'screen', '0.96670'), (u'protective covering', '0.79315'), (u'covering', '0.62037'), (u'furnishing', '0.39867'), (u'mosquito net', '0.32359'), (u'shower curtain', '0.28062'), (u'greenhouse', '0.05472'), (u'walking stick', '0.03721'), (u'window shade', '0.03716')]
+b=okieedokieee
+
+p=67201089847
+caffe=[(u'clothing', '0.57448'), (u'consumer goods', '0.53114'), (u'commodity', '0.50827'), (u'covering', '0.49642'), (u'garment', '0.46266'), (u'maillot', '0.08564'), (u'maillot', '0.06320'), (u'crossword puzzle', '0.06177'), (u'bikini', '0.05482'), (u'paintbrush', '0.04269')]
+b=okieedokieee
+
+p=67200926871
+caffe=[(u'quilt', '1.25354'), (u'bedclothes', '1.23513'), (u'cloth covering', '1.05654'), (u'covering', '0.64448'), (u'furnishing', '0.37557'), (u'quilt', '0.86307'), (u'pillow', '0.02403'), (u'fountain', '0.00723'), (u'studio couch', '0.00617'), (u'four-poster', '0.00588')]
+b=okieedokieee
+
+p=67122274735
+caffe=[(u'fabric', '0.55707'), (u'wool', '0.47894'), (u'covering', '0.45837'), (u'clothing', '0.44626'), (u'consumer goods', '0.40004'), (u'wool', '0.42608'), (u'coil', '0.11683'), (u'confectionery', '0.05115'), (u'handkerchief', '0.02652'), (u'sombrero', '0.02311')]
+b=okieedokieee
+
+p=67122238716
+caffe=[(u'electronic equipment', '0.87519'), (u'equipment', '0.69824'), (u'iPod', '0.59531'), (u'stereo', '0.58656'), (u'reproducer', '0.57782'), (u'iPod', '0.32924'), (u'digital clock', '0.08641'), (u'cassette player', '0.06898'), (u'radio', '0.06836'), (u'cellular telephone', '0.04714')]
+b=okieedokieee
+
+p=66987285750
+caffe=[(u'pot', '0.93073'), (u'produce', '0.42954'), (u'food', '0.40734'), (u'container', '0.39658'), (u'solid', '0.39335'), (u'pot', '0.48286'), (u'pineapple', '0.09846'), (u'greenhouse', '0.04139'), (u'walking stick', '0.01997'), (u'corn', '0.01535')]
+b=okieedokieee
+
+p=66987248450
+caffe=[(u'geological formation', '0.61704'), (u'natural elevation', '0.37966'), (u'dog', '0.32329'), (u'shore', '0.30477'), (u'domestic animal', '0.29647'), (u'sandbar', '0.10530'), (u'seashore', '0.09835'), (u'lakeside', '0.07504'), (u'breakwater', '0.07204'), (u'swimming trunks', '0.05477')]
+b=okieedokieee
+
+p=66987142200
+caffe=[(u'screw', '1.02865'), (u'fastener', '0.86053'), (u'restraint', '0.77966'), (u'device', '0.38231'), (u'weight', '0.27401'), (u'screw', '0.40811'), (u'dumbbell', '0.17639'), (u'switch', '0.07958'), (u'necklace', '0.03805'), (u'hair slide', '0.03199')]
+b=okieedokieee
+
+p=66987083183
+caffe=[(u'clothing', '0.47244'), (u'covering', '0.44454'), (u'consumer goods', '0.44304'), (u'commodity', '0.42179'), (u'musical instrument', '0.37653'), (u'microphone', '0.12688'), (u'stage', '0.05465'), (u'brassiere', '0.05010'), (u'flute', '0.04027'), (u'barbell', '0.03501')]
+b=okieedokieee
+
+p=66987058056
+caffe=[(u'hen', '1.17408'), (u'bird', '0.63593'), (u'cock', '0.39876'), (u'dog', '0.36851'), (u'hunting dog', '0.35643'), (u'hen', '0.43048'), (u'marmoset', '0.12786'), (u'Yorkshire terrier', '0.03512'), (u'mitten', '0.03189'), (u'toy poodle', '0.02976')]
+b=okieedokieee
+
+p=66987002133
+caffe=[(u'primate', '0.45447'), (u'anthropoid ape', '0.28651'), (u'ape', '0.28078'), (u'structure', '0.27102'), (u'monkey', '0.26365'), (u'greenhouse', '0.09842'), (u'marmot', '0.04992'), (u'gorilla', '0.04780'), (u'siamang', '0.03188'), (u'patas', '0.03079')]
+b=okieedokieee
+
+p=66986945623
+caffe=[(u'vessel', '0.45435'), (u'craft', '0.44485'), (u'vehicle', '0.34071'), (u'ship', '0.32629'), (u'conveyance', '0.31734'), (u'washbasin', '0.06930'), (u'liner', '0.04449'), (u'dock', '0.04159'), (u'tub', '0.03835'), (u'aircraft carrier', '0.03817')]
+b=okieedokieee
+
+p=66921440738
+caffe=[(u'covering', '0.37601'), (u'clothing', '0.35213'), (u'consumer goods', '0.34515'), (u'commodity', '0.33774'), (u'device', '0.27389'), (u'oxygen mask', '0.22652'), (u'loupe', '0.09748'), (u'stethoscope', '0.08101'), (u'sunglasses', '0.06201'), (u'sunglass', '0.04292')]
+b=okieedokieee
+
+p=66674336632
+caffe=[(u'fastener', '0.31863'), (u'restraint', '0.29847'), (u'device', '0.25810'), (u'implement', '0.24670'), (u'covering', '0.24562'), (u'syringe', '0.15268'), (u'buckle', '0.09954'), (u'knot', '0.08031'), (u'banded gecko', '0.04969'), (u'corkscrew', '0.03814')]
+b=co-mag
+
+p=75574716554
+caffe=[(u'clothing', '0.65239'), (u'covering', '0.63293'), (u'consumer goods', '0.60905'), (u'commodity', '0.58915'), (u'garment', '0.48565'), (u'shower curtain', '0.13082'), (u'sarong', '0.11866'), (u'pajama', '0.04963'), (u'gown', '0.04486'), (u'perfume', '0.03255')]
+b=co-mag
+
+p=74191711893
+caffe=[(u'geological formation', '1.12321'), (u'natural elevation', '0.68104'), (u'structure', '0.64829'), (u'megalith', '0.58737'), (u'cliff', '0.54534'), (u'cliff', '0.22990'), (u'megalith', '0.15136'), (u'promontory', '0.11643'), (u'alp', '0.11506'), (u'radio telescope', '0.07127')]
+b=co-mag
+
+p=74082096334
+caffe=[(u'radiator', '0.35922'), (u'mechanism', '0.33938'), (u'covering', '0.25579'), (u'device', '0.25229'), (u'clothing', '0.19814'), (u'radiator', '0.21682'), (u'chain', '0.06866'), (u"potter's wheel", '0.06642'), (u'fur coat', '0.05861'), (u'coil', '0.04563')]
+b=co-mag
+
+p=74047539355
+caffe=[(u'piano', '0.63254'), (u'musical instrument', '0.62085'), (u'stringed instrument', '0.59753'), (u'keyboard instrument', '0.57857'), (u'percussion instrument', '0.57395'), (u'grand piano', '0.28993'), (u'projector', '0.14602'), (u'caldron', '0.07211'), (u'flute', '0.04899'), (u'drumstick', '0.02571')]
+b=co-mag
+
+p=73971470860
+caffe=[(u'wreck', '1.64924'), (u'ship', '1.59466'), (u'vessel', '1.35235'), (u'craft', '1.23539'), (u'vehicle', '0.81367'), (u'wreck', '0.81175'), (u'pirate', '0.09572'), (u'submarine', '0.02205'), (u'conch', '0.01623'), (u'pencil sharpener', '0.00730')]
+b=co-mag
+
+p=73855397186
+caffe=[(u'megalith', '2.10635'), (u'memorial', '1.77142'), (u'structure', '0.97905'), (u'hay', '0.17711'), (u'barrier', '0.17486'), (u'megalith', '0.59318'), (u'obelisk', '0.03594'), (u'stone wall', '0.02429'), (u'chainlink fence', '0.02279'), (u'viaduct', '0.02078')]
+b=co-mag
+
+p=73741152130
+caffe=[(u'garment', '0.77838'), (u'clothing', '0.77815'), (u'consumer goods', '0.70120'), (u'commodity', '0.66420'), (u'covering', '0.65954'), (u'jersey', '0.39495'), (u'bulletproof vest', '0.15615'), (u'zucchini', '0.07736'), (u'crutch', '0.07092'), (u'dumbbell', '0.03250')]
+b=co-mag
+
+p=73734378274
+caffe=[(u'food', '0.51257'), (u'substance', '0.49302'), (u'nutriment', '0.43126'), (u'matter', '0.42274'), (u'course', '0.35634'), (u'diaper', '0.12336'), (u'trifle', '0.07699'), (u'dough', '0.05564'), (u'plate', '0.04261'), (u'ice cream', '0.03949')]
+b=co-mag
+
+p=70106153949
+caffe=[(u'geological formation', '1.15803'), (u'mountain', '0.90829'), (u'alp', '0.85748'), (u'natural elevation', '0.82493'), (u'valley', '0.48847'), (u'alp', '0.32554'), (u'valley', '0.11792'), (u'mountain tent', '0.07086'), (u'wreck', '0.05168'), (u'solar dish', '0.02441')]
+b=co-mag
+
+p=63810238280
+caffe=[(u'clothing', '0.62244'), (u'covering', '0.55708'), (u'garment', '0.55533'), (u'consumer goods', '0.55426'), (u'commodity', '0.53200'), (u'jean', '0.19525'), (u'ballplayer', '0.10570'), (u'umbrella', '0.05236'), (u'bathing cap', '0.03077'), (u'sunglasses', '0.02416')]
+b=co-mag
+
+p=63174668239
+caffe=[(u'structure', '0.58231'), (u'mercantile establishment', '0.35047'), (u'building', '0.34770'), (u'place of business', '0.34252'), (u'establishment', '0.33544'), (u'altar', '0.07804'), (u'restaurant', '0.07190'), (u'church', '0.06492'), (u'toyshop', '0.04953'), (u'grocery store', '0.04524')]
+b=co-mag
+
+p=61608923733
+caffe=[(u'clothing', '0.74533'), (u'covering', '0.67083'), (u'consumer goods', '0.65693'), (u'garment', '0.63605'), (u'commodity', '0.62452'), (u'umbrella', '0.10587'), (u'sarong', '0.10265'), (u'stole', '0.08142'), (u'cowboy hat', '0.04708'), (u'cowboy boot', '0.03778')]
+b=co-mag
+
+p=61421445969
+caffe=[(u'dog', '0.40189'), (u'domestic animal', '0.37506'), (u'canine', '0.35962'), (u'working dog', '0.35258'), (u'schipperke', '0.34272'), (u'schipperke', '0.15904'), (u'umbrella', '0.06037'), (u'quilt', '0.04313'), (u'swimming trunks', '0.03893'), (u'West Highland white terrier', '0.02808')]
+b=co-mag
+
+p=60282442561
+caffe=[(u'ice lolly', '0.38991'), (u'frozen dessert', '0.35767'), (u'dessert', '0.33524'), (u'course', '0.31642'), (u'nutriment', '0.28345'), (u'ice lolly', '0.30262'), (u'harmonica', '0.15335'), (u'ping-pong ball', '0.05739'), (u'bubble', '0.05145'), (u'maraca', '0.04849')]
+b=co-mag
+
+p=57534454840
+caffe=[(u'primate', '0.49172'), (u'monkey', '0.42189'), (u'placental', '0.34414'), (u'carnivore', '0.33553'), (u'Old World monkey', '0.31741'), (u'red fox', '0.04650'), (u'weasel', '0.03493'), (u'proboscis monkey', '0.02546'), (u'guenon', '0.02337'), (u'cougar', '0.02327')]
+b=co-mag
+
+p=57441499483
+caffe=[(u'musical instrument', '0.38699'), (u'wind instrument', '0.31455'), (u'device', '0.30726'), (u'dog', '0.26835'), (u'domestic animal', '0.24880'), (u'microphone', '0.18817'), (u'harmonica', '0.07470'), (u'cornet', '0.05218'), (u'hair spray', '0.04867'), (u'oxygen mask', '0.03498')]
+b=co-mag
+
+p=57347600386
+caffe=[(u'weapon', '0.85704'), (u'vehicle', '0.78909'), (u'conveyance', '0.75367'), (u'missile', '0.64536'), (u'rocket', '0.63588'), (u'missile', '0.43216'), (u'projectile', '0.37518'), (u'warplane', '0.07259'), (u'wing', '0.02454'), (u'flagpole', '0.01235')]
+b=co-mag
+
+p=57260480627
+caffe=[(u'musical instrument', '0.57788'), (u'wind instrument', '0.44036'), (u'device', '0.38006'), (u'woodwind', '0.32149'), (u'beating-reed instrument', '0.28620'), (u'flute', '0.07297'), (u'oboe', '0.06294'), (u'harmonica', '0.04358'), (u'violin', '0.04166'), (u'microphone', '0.03703')]
+b=co-mag
+
+p=57171479546
+caffe=[(u'vehicle', '0.35676'), (u'conveyance', '0.34024'), (u'wheeled vehicle', '0.29613'), (u'container', '0.27608'), (u'implement', '0.21105'), (u'barrow', '0.18013'), (u'park bench', '0.10354'), (u'swing', '0.06847'), (u'tub', '0.06163'), (u'paddle', '0.05435')]
+b=co-mag
+
+p=57079044923
+caffe=[(u'sorrel', '0.55454'), (u'horse', '0.54640'), (u'swimsuit', '0.52516'), (u'clothing', '0.49462'), (u'equine', '0.48660'), (u'volleyball', '0.15630'), (u'swimming trunks', '0.14725'), (u'sorrel', '0.11713'), (u'bikini', '0.06500'), (u'sandbar', '0.04845')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'web site', '0.41317'), (u'envelope', '0.38104'), (u'computer', '0.36367'), (u'machine', '0.32659'), (u'container', '0.29460'), (u'envelope', '0.46747'), (u'web site', '0.09234'), (u'rule', '0.08102'), (u'screw', '0.03763'), (u'binder', '0.02223')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'web site', '0.52869'), (u'computer', '0.43040'), (u'machine', '0.37498'), (u'envelope', '0.34633'), (u'container', '0.26563'), (u'envelope', '0.42788'), (u'web site', '0.12329'), (u'rule', '0.03763'), (u'menu', '0.01772'), (u'binder', '0.01575')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'web site', '0.53128'), (u'computer', '0.44217'), (u'envelope', '0.40793'), (u'machine', '0.38953'), (u'container', '0.30847'), (u'envelope', '0.50662'), (u'web site', '0.12229'), (u'rule', '0.04938'), (u'binder', '0.02861'), (u'screw', '0.01344')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'device', '0.28531'), (u'envelope', '0.28469'), (u'web site', '0.27570'), (u'computer', '0.27403'), (u'container', '0.25809'), (u'envelope', '0.34226'), (u'rule', '0.06709'), (u'web site', '0.06022'), (u'screw', '0.05097'), (u'binder', '0.03192')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'envelope', '0.48061'), (u'web site', '0.40290'), (u'container', '0.34024'), (u'computer', '0.33915'), (u'machine', '0.30739'), (u'envelope', '0.61087'), (u'web site', '0.08715'), (u'rule', '0.02408'), (u'binder', '0.01574'), (u'screw', '0.01418')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'envelope', '0.56759'), (u'container', '0.37750'), (u'web site', '0.28506'), (u'covering', '0.28009'), (u'box', '0.26822'), (u'envelope', '0.72919'), (u'web site', '0.05397'), (u'rule', '0.02058'), (u'menu', '0.01949'), (u'binder', '0.01745')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'device', '0.26789'), (u'covering', '0.22324'), (u'container', '0.22148'), (u'envelope', '0.21277'), (u'implement', '0.20967'), (u'envelope', '0.24998'), (u'rule', '0.07458'), (u'screw', '0.04842'), (u'web site', '0.04269'), (u'corkscrew', '0.02402')]
+b=actorswithactionfigures
+
+p=144654011295
+caffe=[(u'envelope', '0.46154'), (u'web site', '0.38601'), (u'container', '0.33317'), (u'computer', '0.32836'), (u'machine', '0.30064'), (u'envelope', '0.58341'), (u'web site', '0.08279'), (u'rule', '0.02601'), (u'menu', '0.02524'), (u'binder', '0.01775')]
+b=actorswithactionfigures
+
+p=144586510015
+caffe=[(u'comic book', '0.80438'), (u'magazine', '0.79257'), (u'press', '0.78075'), (u'publication', '0.78075'), (u'print media', '0.76894'), (u'comic book', '0.48882'), (u'mask', '0.19174'), (u'jigsaw puzzle', '0.07059'), (u'shoe shop', '0.01523'), (u'king snake', '0.01426')]
+b=actorswithactionfigures
+
+p=144586510015
+caffe=[(u'nematode', '0.31501'), (u'covering', '0.28884'), (u'worm', '0.27915'), (u'comic book', '0.22230'), (u'magazine', '0.21903'), (u'comic book', '0.12495'), (u'chain', '0.08990'), (u'nematode', '0.08882'), (u'jigsaw puzzle', '0.08182'), (u'safety pin', '0.03266')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'piece of cloth', '0.43101'), (u'fabric', '0.42410'), (u'piece', '0.42238'), (u'handkerchief', '0.42236'), (u'container', '0.41634'), (u'wallet', '0.33875'), (u'envelope', '0.24364'), (u'handkerchief', '0.18031'), (u'binder', '0.08073'), (u'pencil box', '0.04951')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'handkerchief', '0.95082'), (u'piece of cloth', '0.94776'), (u'piece', '0.92880'), (u'part', '0.90983'), (u'fabric', '0.89505'), (u'handkerchief', '0.46435'), (u'envelope', '0.18572'), (u'bib', '0.07124'), (u'wallet', '0.06061'), (u'comic book', '0.02446')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'piece of cloth', '0.55141'), (u'piece', '0.54038'), (u'part', '0.52935'), (u'fabric', '0.52699'), (u'handkerchief', '0.50042'), (u'envelope', '0.40471'), (u'handkerchief', '0.20181'), (u'wallet', '0.08015'), (u'pencil box', '0.03750'), (u'bib', '0.03683')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'sporting dog', '0.40436'), (u'hunting dog', '0.40289'), (u'dog', '0.38069'), (u'clothing', '0.37579'), (u'spaniel', '0.36929'), (u'Sussex spaniel', '0.10624'), (u'fur coat', '0.06271'), (u'military uniform', '0.06142'), (u'comic book', '0.04720'), (u'book jacket', '0.02856')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'covering', '0.39035'), (u'clothing', '0.34105'), (u'consumer goods', '0.31861'), (u'commodity', '0.30375'), (u'musical instrument', '0.23007'), (u'book jacket', '0.10044'), (u'comic book', '0.09775'), (u'mask', '0.03175'), (u'vestment', '0.02699'), (u'mortarboard', '0.02246')]
+b=actorswithactionfigures
+
+p=144110290445
+caffe=[(u'clothing', '0.59322'), (u'covering', '0.54696'), (u'consumer goods', '0.53173'), (u'commodity', '0.50598'), (u'garment', '0.45462'), (u'kimono', '0.10843'), (u'wig', '0.07908'), (u'comic book', '0.07635'), (u'book jacket', '0.07124'), (u'jersey', '0.02403')]
+b=actorswithactionfigures
+
+p=144098709995
+caffe=[(u'vessel', '0.43188'), (u'container', '0.34671'), (u'covering', '0.29252'), (u'furniture', '0.26598'), (u'clothing', '0.26450'), (u'vase', '0.25061'), (u'pinwheel', '0.10277'), (u'cradle', '0.05814'), (u'coffeepot', '0.03686'), (u'crib', '0.03679')]
+b=actorswithactionfigures
+
+p=138501589800
+caffe=[(u'clothing', '0.37456'), (u'covering', '0.37232'), (u'musical instrument', '0.36687'), (u'consumer goods', '0.35505'), (u'commodity', '0.33849'), (u'lipstick', '0.07430'), (u'drumstick', '0.06317'), (u'harmonica', '0.06139'), (u'feather boa', '0.04189'), (u'maraca', '0.03835')]
+b=actorswithactionfigures
+
+p=137576502570
+caffe=[(u'covering', '0.50559'), (u'clothing', '0.46778'), (u'consumer goods', '0.46568'), (u'commodity', '0.44335'), (u'garment', '0.31984'), (u'running shoe', '0.06973'), (u'football helmet', '0.05702'), (u'iron', '0.05542'), (u'lab coat', '0.04248'), (u'oxygen mask', '0.03838')]
+b=actorswithactionfigures
+
+p=137576502570
+caffe=[(u'clothing', '0.54286'), (u'consumer goods', '0.50143'), (u'covering', '0.48455'), (u'commodity', '0.47759'), (u'garment', '0.35770'), (u'bathing cap', '0.10906'), (u'racket', '0.07353'), (u'lab coat', '0.06015'), (u'football helmet', '0.05375'), (u'oxygen mask', '0.03486')]
+b=insatiabletraveler
+
+p=145961940706
+caffe=[(u'big cat', '0.56385'), (u'carnivore', '0.55011'), (u'feline', '0.54204'), (u'placental', '0.48437'), (u'wolf', '0.48058'), (u'coyote', '0.22310'), (u'lion', '0.08099'), (u'cheetah', '0.07242'), (u'hyena', '0.07225'), (u'warthog', '0.05805')]
+b=insatiabletraveler
+
+p=145871457071
+caffe=[(u'big cat', '3.73716'), (u'feline', '3.14557'), (u'cheetah', '3.11541'), (u'leopard', '1.12612'), (u'carnivore', '0.90428'), (u'cheetah', '0.84360'), (u'leopard', '0.14969'), (u'jaguar', '0.00663'), (u'ptarmigan', '0.00001'), (u'snow leopard', '0.00001')]
+b=insatiabletraveler
+
+p=145807212406
+caffe=[(u'even-toed ungulate', '0.97742'), (u'bovid', '0.95239'), (u'ungulate', '0.93776'), (u'ruminant', '0.93030'), (u'ostrich', '0.53512'), (u'ox', '0.28915'), (u'water buffalo', '0.18208'), (u'ostrich', '0.13213'), (u'oxcart', '0.07694'), (u'Tibetan mastiff', '0.03139')]
+b=insatiabletraveler
+
+p=145805195796
+caffe=[(u'vessel', '0.50752'), (u'structure', '0.47799'), (u'patio', '0.43665'), (u'area', '0.43023'), (u'container', '0.37948'), (u'tub', '0.33207'), (u'patio', '0.32868'), (u'bathtub', '0.17415'), (u'sliding door', '0.08154'), (u'greenhouse', '0.01278')]
+b=insatiabletraveler
+
+p=145670575911
+caffe=[(u'church', '1.11807'), (u'roof', '1.00855'), (u'structure', '0.99159'), (u'building', '0.96293'), (u'place of worship', '0.95824'), (u'vault', '0.39259'), (u'church', '0.38629'), (u'altar', '0.15769'), (u'palace', '0.01750'), (u'monastery', '0.01337')]
+b=insatiabletraveler
+
+p=145478692616
+caffe=[(u'carousel', '1.38517'), (u'ride', '1.36482'), (u'mechanical device', '0.93533'), (u'mechanism', '0.84581'), (u'device', '0.40293'), (u'carousel', '0.51458'), (u'unicycle', '0.05800'), (u'drum', '0.05702'), (u'moped', '0.03146'), (u'gong', '0.02742')]
+b=insatiabletraveler
+
+p=145375686556
+caffe=[(u'fountain', '1.64107'), (u'structure', '0.92176'), (u'building', '0.22643'), (u'protective covering', '0.17082'), (u'obelisk', '0.16215'), (u'fountain', '0.71523'), (u'bubble', '0.05538'), (u'altar', '0.04230'), (u'theater curtain', '0.02543'), (u'radio telescope', '0.01599')]
+b=insatiabletraveler
+
+p=145262427931
+caffe=[(u'primate', '0.35040'), (u'covering', '0.34819'), (u'protective covering', '0.24986'), (u'dog', '0.23626'), (u'anthropoid ape', '0.22478'), (u'mask', '0.10278'), (u'colobus', '0.08244'), (u'chimpanzee', '0.04534'), (u'cuirass', '0.04519'), (u'gasmask', '0.04263')]
+b=insatiabletraveler
+
+p=144914376866
+caffe=[(u'dog', '0.29175'), (u'domestic animal', '0.26917'), (u'canine', '0.26325'), (u'hunting dog', '0.25765'), (u'bird', '0.23318'), (u'hen', '0.06016'), (u'shield', '0.04612'), (u'cock', '0.03237'), (u'Gordon setter', '0.02989'), (u'chain saw', '0.02778')]
+b=insatiabletraveler
+
+p=144602457396
+caffe=[(u'spoonbill', '3.64579'), (u'wading bird', '2.70486'), (u'aquatic bird', '2.41570'), (u'bird', '1.69429'), (u'stork', '0.46451'), (u'spoonbill', '0.86050'), (u'white stork', '0.07560'), (u'flamingo', '0.04628'), (u'crane', '0.00694'), (u'black stork', '0.00671')]
+b=insatiabletraveler
+
+p=144518519646
+caffe=[(u'musical instrument', '0.29178'), (u'covering', '0.28769'), (u'clothing', '0.25018'), (u'consumer goods', '0.23377'), (u'garment', '0.22939'), (u'fur coat', '0.09594'), (u'guillotine', '0.05178'), (u'marimba', '0.04759'), (u'chain saw', '0.04296'), (u'Arabian camel', '0.04294')]
+b=insatiabletraveler
+
+p=144461133846
+caffe=[(u'clothing', '0.87934'), (u'consumer goods', '0.77117'), (u'covering', '0.73782'), (u'commodity', '0.73078'), (u'garment', '0.60080'), (u'gown', '0.08923'), (u'poncho', '0.08246'), (u'hoopskirt', '0.06891'), (u'academic gown', '0.06219'), (u'cloak', '0.05744')]
+b=insatiabletraveler
+
+p=144427671471
+caffe=[(u'structure', '0.65221'), (u'building', '0.42862'), (u'residence', '0.35457'), (u'house', '0.34857'), (u'dwelling', '0.32978'), (u'tile roof', '0.11329'), (u'chainlink fence', '0.10496'), (u'palace', '0.09245'), (u'shopping cart', '0.06886'), (u'prison', '0.04820')]
+b=insatiabletraveler
+
+p=144364920741
+caffe=[(u'structure', '0.77156'), (u'carousel', '0.63773'), (u'ride', '0.62836'), (u'building', '0.58818'), (u'mechanical device', '0.44556'), (u'carousel', '0.23060'), (u'restaurant', '0.11393'), (u'church', '0.07204'), (u'altar', '0.05724'), (u'library', '0.05632')]
+b=insatiabletraveler
+
+p=144306317911
+caffe=[(u'structure', '0.83100'), (u'bridge', '0.52556'), (u'vessel', '0.47116'), (u'craft', '0.46889'), (u'building', '0.46097'), (u'pier', '0.18423'), (u'suspension bridge', '0.10357'), (u'palace', '0.09952'), (u'dock', '0.07457'), (u'drilling platform', '0.06714')]
+b=insatiabletraveler
+
+p=144248868356
+caffe=[(u'geological formation', '2.04468'), (u'mountain', '1.46836'), (u'natural elevation', '1.29670'), (u'volcano', '1.25487'), (u'geyser', '1.18111'), (u'volcano', '0.38869'), (u'geyser', '0.21886'), (u'castle', '0.18913'), (u'alp', '0.12832'), (u'stone wall', '0.01531')]
+b=insatiabletraveler
+
+p=144222766361
+caffe=[(u'vault', '0.90811'), (u'roof', '0.90663'), (u'structure', '0.87897'), (u'residence', '0.81586'), (u'building', '0.80780'), (u'monastery', '0.37172'), (u'vault', '0.34829'), (u'prayer rug', '0.10399'), (u'maze', '0.03955'), (u'altar', '0.03941')]
+b=insatiabletraveler
+
+p=144099362441
+caffe=[(u'structure', '0.29857'), (u'prison', '0.26958'), (u'correctional institution', '0.26562'), (u'penal institution', '0.26166'), (u'institution', '0.25770'), (u'prison', '0.18144'), (u'chainlink fence', '0.06693'), (u'cougar', '0.06523'), (u'padlock', '0.05454'), (u'orangutan', '0.03923')]
+b=insatiabletraveler
+
+p=144043464941
+caffe=[(u'elephant', '2.09554'), (u'pachyderm', '2.06070'), (u'proboscidean', '2.06070'), (u'African elephant', '1.68456'), (u'tusker', '0.87472'), (u'African elephant', '0.56265'), (u'water buffalo', '0.18333'), (u'tusker', '0.13179'), (u'warthog', '0.03329'), (u'ram', '0.02103')]
+b=insatiabletraveler
+
+p=143989423656
+caffe=[(u'big cat', '3.87294'), (u'feline', '3.24142'), (u'jaguar', '2.21183'), (u'leopard', '1.80051'), (u'carnivore', '0.89329'), (u'jaguar', '0.65552'), (u'leopard', '0.34194'), (u'cheetah', '0.00244'), (u'snow leopard', '0.00004'), (u'eel', '0.00004')]
+b=fuckyeahgirlswithsexyhair
+
+p=116944111551
+caffe=[(u'gown', '1.05366'), (u'dress', '1.03818'), (u"woman's clothing", '0.92338'), (u'clothing', '0.83365'), (u'groom', '0.78414'), (u'gown', '0.38033'), (u'groom', '0.27335'), (u'suspension bridge', '0.09538'), (u'hoopskirt', '0.04308'), (u'plastic bag', '0.03316')]
+b=fuckyeahgirlswithsexyhair
+
+p=116855042807
+caffe=[(u'clothing', '0.70723'), (u'consumer goods', '0.63081'), (u'covering', '0.60571'), (u'commodity', '0.59902'), (u'garment', '0.50269'), (u'bathing cap', '0.12153'), (u'maillot', '0.08355'), (u'bikini', '0.06070'), (u'chain', '0.05926'), (u'maillot', '0.05835')]
+b=fuckyeahgirlswithsexyhair
+
+p=116761241722
+caffe=[(u'covering', '0.76568'), (u'clothing', '0.73654'), (u'garment', '0.66536'), (u'consumer goods', '0.66475'), (u'commodity', '0.63168'), (u'gasmask', '0.21613'), (u'abaya', '0.19705'), (u'mask', '0.10732'), (u'ski mask', '0.04445'), (u'feather boa', '0.03173')]
+b=fuckyeahgirlswithsexyhair
+
+p=116673576195
+caffe=[(u'clothing', '0.68338'), (u'consumer goods', '0.62786'), (u'garment', '0.62078'), (u'fur coat', '0.61813'), (u'commodity', '0.59899'), (u'fur coat', '0.28862'), (u'sunglasses', '0.07623'), (u'hand blower', '0.07500'), (u'seat belt', '0.05135'), (u'hair spray', '0.04198')]
+b=fuckyeahgirlswithsexyhair
+
+p=116588727190
+caffe=[(u'wig', '0.48446'), (u'clothing', '0.48092'), (u'hairpiece', '0.47735'), (u'covering', '0.45975'), (u'attire', '0.45614'), (u'wig', '0.25533'), (u'plastic bag', '0.10124'), (u'cowboy boot', '0.04399'), (u'conch', '0.02816'), (u'sea lion', '0.02761')]
+b=fuckyeahgirlswithsexyhair
+
+p=116499748549
+caffe=[(u'clothing', '1.15308'), (u'consumer goods', '1.00741'), (u'commodity', '0.96272'), (u'covering', '0.93147'), (u'garment', '0.86048'), (u'wig', '0.43631'), (u'fur coat', '0.20355'), (u'jersey', '0.15063'), (u'stole', '0.04680'), (u'sweatshirt', '0.04128')]
+b=fuckyeahgirlswithsexyhair
+
+p=116414002957
+caffe=[(u'Irish setter', '1.88947'), (u'setter', '1.58311'), (u'sporting dog', '1.50362'), (u'hunting dog', '1.08333'), (u'dog', '0.83229'), (u'Irish setter', '0.57770'), (u'wig', '0.18918'), (u'fur coat', '0.12016'), (u'orangutan', '0.03257'), (u'Brittany spaniel', '0.01657')]
+b=fuckyeahgirlswithsexyhair
+
+p=116328457137
+caffe=[(u'fur coat', '1.18024'), (u'garment', '1.09543'), (u'overgarment', '1.05828'), (u'clothing', '1.04323'), (u'coat', '1.02662'), (u'fur coat', '0.54498'), (u'velvet', '0.11232'), (u'cloak', '0.10799'), (u'abaya', '0.04736'), (u'stole', '0.04460')]
+b=fuckyeahgirlswithsexyhair
+
+p=116240798492
+caffe=[(u'clothing', '0.44257'), (u'consumer goods', '0.39662'), (u'covering', '0.38980'), (u'commodity', '0.37878'), (u'garment', '0.32353'), (u'gown', '0.06605'), (u'ear', '0.06318'), (u'harp', '0.05830'), (u'ice lolly', '0.05463'), (u'sarong', '0.04105')]
+b=fuckyeahgirlswithsexyhair
+
+p=116147168966
+caffe=[(u'clothing', '1.17235'), (u'consumer goods', '1.01972'), (u'commodity', '0.97444'), (u'garment', '0.96433'), (u'covering', '0.95608'), (u'stole', '0.43799'), (u'wig', '0.28548'), (u'fur coat', '0.14308'), (u'cardigan', '0.06030'), (u'poncho', '0.02112')]
+b=fuckyeahgirlswithsexyhair
+
+p=116059812657
+caffe=[(u'orangutan', '1.18616'), (u'great ape', '1.08953'), (u'anthropoid ape', '1.01588'), (u'ape', '0.99555'), (u'primate', '0.89362'), (u'orangutan', '0.45727'), (u'sorrel', '0.16639'), (u'bikini', '0.02737'), (u'frilled lizard', '0.02502'), (u'sarong', '0.02098')]
+b=fuckyeahgirlswithsexyhair
+
+p=115972951909
+caffe=[(u'harp', '1.61070'), (u'chordophone', '1.58704'), (u'stringed instrument', '1.16254'), (u'musical instrument', '0.93409'), (u'clothing', '0.58287'), (u'harp', '0.44472'), (u'sarong', '0.09290'), (u'stole', '0.08672'), (u'miniskirt', '0.05738'), (u'fur coat', '0.05458')]
+b=fuckyeahgirlswithsexyhair
+
+p=115884677262
+caffe=[(u'fur coat', '1.92452'), (u'coat', '1.60663'), (u'overgarment', '1.52721'), (u'garment', '1.20687'), (u'clothing', '1.09881'), (u'fur coat', '0.92081'), (u'wig', '0.05951'), (u'cloak', '0.00900'), (u'poncho', '0.00355'), (u'stole', '0.00230')]
+b=fuckyeahgirlswithsexyhair
+
+p=115794834853
+caffe=[(u'clothing', '0.81694'), (u'consumer goods', '0.71447'), (u'garment', '0.71277'), (u'covering', '0.68699'), (u'commodity', '0.68422'), (u'stole', '0.20647'), (u'orangutan', '0.07892'), (u'wig', '0.07618'), (u'cardigan', '0.07539'), (u'poncho', '0.07089')]
+b=fuckyeahgirlswithsexyhair
+
+p=115702803466
+caffe=[(u'fur coat', '1.17865'), (u'clothing', '1.03390'), (u'overgarment', '1.00707'), (u'coat', '0.99651'), (u'garment', '0.94949'), (u'fur coat', '0.54886'), (u'wig', '0.16262'), (u'bonnet', '0.06579'), (u'bath towel', '0.05578'), (u'cloak', '0.04433')]
+b=fuckyeahgirlswithsexyhair
+
+p=115607636836
+caffe=[(u'hunting dog', '0.86123'), (u'dog', '0.77707'), (u'domestic animal', '0.71553'), (u'canine', '0.68885'), (u'carnivore', '0.55873'), (u'wig', '0.27732'), (u'Irish setter', '0.10411'), (u'Lhasa', '0.09525'), (u'orangutan', '0.08494'), (u'silky terrier', '0.07149')]
+b=fuckyeahgirlswithsexyhair
+
+p=115514373814
+caffe=[(u'clothing', '1.12342'), (u'consumer goods', '0.97942'), (u'commodity', '0.93648'), (u'covering', '0.92359'), (u'wig', '0.87129'), (u'wig', '0.45660'), (u'stole', '0.17297'), (u'fur coat', '0.12652'), (u'cloak', '0.05541'), (u'feather boa', '0.04777')]
+b=fuckyeahgirlswithsexyhair
+
+p=115423365437
+caffe=[(u'clothing', '0.79644'), (u'consumer goods', '0.72054'), (u'commodity', '0.69689'), (u'garment', '0.67786'), (u'covering', '0.65910'), (u'bikini', '0.13065'), (u'miniskirt', '0.09612'), (u'tub', '0.08941'), (u'bathtub', '0.07126'), (u'maillot', '0.06542')]
+b=fuckyeahgirlswithsexyhair
+
+p=115330333908
+caffe=[(u'clothing', '0.46492'), (u'covering', '0.44987'), (u'consumer goods', '0.41374'), (u'commodity', '0.40279'), (u'garment', '0.35922'), (u'wool', '0.12484'), (u'velvet', '0.08227'), (u'broom', '0.07306'), (u'wig', '0.05482'), (u'paddle', '0.04847')]
+b=fuckyeahgirlswithsexyhair
+
+p=115241985785
+caffe=[(u'covering', '0.38898'), (u'clothing', '0.37536'), (u'consumer goods', '0.35733'), (u'commodity', '0.34795'), (u'garment', '0.23356'), (u'wig', '0.07317'), (u'Band Aid', '0.06683'), (u'lipstick', '0.04395'), (u'knot', '0.04009'), (u'hair spray', '0.03792')]
+b=shorthairedcuties
+
+p=44060569797
+caffe=[(u'clothing', '0.73985'), (u'covering', '0.68023'), (u'consumer goods', '0.66401'), (u'garment', '0.64797'), (u'commodity', '0.63656'), (u'Band Aid', '0.21727'), (u'suit', '0.18162'), (u'bow tie', '0.13968'), (u'cellular telephone', '0.07451'), (u'wig', '0.06213')]
+b=shorthairedcuties
+
+p=44060569797
+caffe=[(u'piece of cloth', '1.14947'), (u'fabric', '1.12695'), (u'piece', '1.12647'), (u'part', '1.10348'), (u'bath towel', '1.09306'), (u'bath towel', '0.88981'), (u'Band Aid', '0.01870'), (u'lipstick', '0.01082'), (u'sombrero', '0.00815'), (u'wig', '0.00783')]
+b=shorthairedcuties
+
+p=44060569797
+caffe=[(u'clothing', '0.51125'), (u'covering', '0.51091'), (u'consumer goods', '0.46865'), (u'commodity', '0.45052'), (u'garment', '0.44687'), (u'Band Aid', '0.20876'), (u'bow tie', '0.18680'), (u'ping-pong ball', '0.11428'), (u'ice lolly', '0.07944'), (u'suit', '0.06150')]
+b=shorthairedcuties
+
+p=44060569797
+caffe=[(u'clothing', '0.55385'), (u'consumer goods', '0.52431'), (u'covering', '0.51865'), (u'commodity', '0.50196'), (u'neck brace', '0.46731'), (u'neck brace', '0.52884'), (u'Band Aid', '0.03587'), (u'jersey', '0.02495'), (u'stethoscope', '0.02067'), (u'wig', '0.01910')]
+b=shorthairedcuties
+
+p=44060569797
+caffe=[(u'wig', '1.04172'), (u'hairpiece', '1.02642'), (u'attire', '0.96801'), (u'clothing', '0.82404'), (u'consumer goods', '0.73363'), (u'wig', '0.55459'), (u'lipstick', '0.13337'), (u'Band Aid', '0.07459'), (u'fur coat', '0.04704'), (u'lens cap', '0.04209')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'clothing', '0.51299'), (u'covering', '0.47199'), (u'consumer goods', '0.47116'), (u'commodity', '0.45933'), (u'musical instrument', '0.39914'), (u'wig', '0.19341'), (u'oboe', '0.08764'), (u'flute', '0.05852'), (u'Band Aid', '0.03756'), (u'violin', '0.03563')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'musical instrument', '0.53837'), (u'wind instrument', '0.47645'), (u'woodwind', '0.39099'), (u'device', '0.37321'), (u'clothing', '0.35894'), (u'flute', '0.30530'), (u'stethoscope', '0.07681'), (u'oboe', '0.04698'), (u'seat belt', '0.04691'), (u'bow tie', '0.04278')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'lipstick', '0.63110'), (u'makeup', '0.62262'), (u'cosmetic', '0.61226'), (u'toiletry', '0.58991'), (u'clothing', '0.43188'), (u'lipstick', '0.32090'), (u'ice lolly', '0.08965'), (u'bow tie', '0.08939'), (u'whistle', '0.04042'), (u'bubble', '0.03216')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'clothing', '0.54252'), (u'consumer goods', '0.51765'), (u'covering', '0.51359'), (u'commodity', '0.50178'), (u'wig', '0.31919'), (u'wig', '0.15747'), (u'hair spray', '0.11942'), (u'Band Aid', '0.11491'), (u'hand blower', '0.07153'), (u'harmonica', '0.05758')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'clothing', '1.06333'), (u'consumer goods', '0.93880'), (u'commodity', '0.90464'), (u'covering', '0.87466'), (u'pajama', '0.86683'), (u'pajama', '0.44086'), (u'stole', '0.06383'), (u'kimono', '0.05293'), (u'apron', '0.04854'), (u'cardigan', '0.03111')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'covering', '0.62818'), (u'woodwind', '0.58105'), (u'clothing', '0.56736'), (u'beating-reed instrument', '0.54311'), (u'chain mail', '0.53602'), (u'oboe', '0.25834'), (u'wig', '0.20090'), (u'chain mail', '0.17156'), (u'abaya', '0.06329'), (u'lipstick', '0.05593')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'wig', '1.72260'), (u'hairpiece', '1.69730'), (u'attire', '1.58512'), (u'clothing', '1.15336'), (u'consumer goods', '1.00843'), (u'wig', '0.92832'), (u'stole', '0.00814'), (u'bonnet', '0.00622'), (u'neck brace', '0.00607'), (u'jersey', '0.00576')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'covering', '0.41940'), (u'clothing', '0.33019'), (u'consumer goods', '0.32384'), (u'commodity', '0.31726'), (u'device', '0.24584'), (u'nipple', '0.13321'), (u'Band Aid', '0.11161'), (u'lens cap', '0.06333'), (u'seat belt', '0.04292'), (u'microphone', '0.03604')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'clothing', '0.67430'), (u'consumer goods', '0.61325'), (u'commodity', '0.58361'), (u'covering', '0.56873'), (u'garment', '0.55170'), (u'dumbbell', '0.13512'), (u'miniskirt', '0.08510'), (u'diaper', '0.06358'), (u'maillot', '0.05918'), (u'bikini', '0.04397')]
+b=shorthairedcuties
+
+p=44060559124
+caffe=[(u'wig', '1.52457'), (u'hairpiece', '1.50218'), (u'attire', '1.40551'), (u'clothing', '1.02430'), (u'consumer goods', '0.90322'), (u'wig', '0.81888'), (u'lipstick', '0.07028'), (u'hair spray', '0.04573'), (u'face powder', '0.00687'), (u'sunglasses', '0.00595')]
+b=the-con-she-called-love
+
+p=62591973847
+caffe=[(u'brass', '0.77845'), (u'memorial', '0.65380'), (u'menu', '0.54678'), (u'fare', '0.53875'), (u'dishrag', '0.50784'), (u'brass', '0.16505'), (u'dishrag', '0.15191'), (u'menu', '0.14806'), (u'crossword puzzle', '0.12136'), (u'web site', '0.04581')]
+b=the-con-she-called-love
+
+p=62591436401
+caffe=[(u'clothing', '0.76594'), (u'covering', '0.69421'), (u'consumer goods', '0.68303'), (u'garment', '0.65346'), (u'commodity', '0.64807'), (u'sunglass', '0.18355'), (u'jersey', '0.13013'), (u'military uniform', '0.09203'), (u'sunglasses', '0.09117'), (u'trench coat', '0.06231')]
+b=hotdirtysexy
+
+p=145940619658
+caffe=[(u'swimsuit', '1.52499'), (u'clothing', '1.39334'), (u'garment', '1.28288'), (u'consumer goods', '1.21255'), (u'commodity', '1.14744'), (u'bikini', '0.56386'), (u'maillot', '0.08819'), (u'swimming trunks', '0.08592'), (u'maillot', '0.06218'), (u'brassiere', '0.03327')]
+b=hotdirtysexy
+
+p=145940581283
+caffe=[(u'swimsuit', '1.85013'), (u'clothing', '1.52024'), (u'garment', '1.43574'), (u'consumer goods', '1.32164'), (u'commodity', '1.25048'), (u'bikini', '0.78420'), (u'maillot', '0.07814'), (u'swimming trunks', '0.05588'), (u'tub', '0.02264'), (u'maillot', '0.02144')]
+b=hotdirtysexy
+
+p=145940564403
+caffe=[(u'piece of cloth', '0.60665'), (u'commodity', '0.60151'), (u'piece', '0.59451'), (u'fabric', '0.59351'), (u'part', '0.58237'), (u'bath towel', '0.38651'), (u'nipple', '0.32663'), (u'diaper', '0.24067'), (u'crib', '0.01049'), (u'pajama', '0.00662')]
+b=hotdirtysexy
+
+p=145884405833
+caffe=[(u'swimsuit', '1.52900'), (u'clothing', '1.49567'), (u'garment', '1.40409'), (u'consumer goods', '1.30340'), (u'commodity', '1.23361'), (u'bikini', '0.57738'), (u'brassiere', '0.25391'), (u'maillot', '0.10026'), (u'maillot', '0.01607'), (u'miniskirt', '0.00941')]
+b=hotdirtysexy
+
+p=145884372323
+caffe=[(u'odometer', '0.76081'), (u'meter', '0.74963'), (u'measuring instrument', '0.69531'), (u'instrument', '0.53395'), (u'device', '0.40452'), (u'odometer', '0.17252'), (u'book jacket', '0.13037'), (u'jersey', '0.08212'), (u'web site', '0.05627'), (u'digital clock', '0.04633')]
+b=hotdirtysexy
+
+p=145884362093
+caffe=[(u'clothing', '0.63817'), (u'consumer goods', '0.56683'), (u'commodity', '0.53794'), (u'covering', '0.52270'), (u'garment', '0.47990'), (u'bathing cap', '0.16627'), (u'bikini', '0.08431'), (u'brassiere', '0.05516'), (u'albatross', '0.04394'), (u'balance beam', '0.04044')]
+b=hotdirtysexy
+
+p=145884315398
+caffe=[(u'clothing', '1.46127'), (u'swimsuit', '1.43887'), (u'consumer goods', '1.27921'), (u'commodity', '1.21051'), (u'garment', '1.18372'), (u'maillot', '0.27086'), (u'bikini', '0.20076'), (u'maillot', '0.14140'), (u'swimming trunks', '0.08053'), (u'brassiere', '0.05755')]
+b=hotdirtysexy
+
+p=145884298698
+caffe=[(u'swimsuit', '1.52133'), (u'clothing', '1.48026'), (u'garment', '1.33707'), (u'consumer goods', '1.29264'), (u'commodity', '1.22424'), (u'bikini', '0.50193'), (u'maillot', '0.14648'), (u'brassiere', '0.13513'), (u'maillot', '0.04502'), (u'miniskirt', '0.02671')]
+b=hotdirtysexy
+
+p=145876558598
+caffe=[(u'clothing', '1.20723'), (u'consumer goods', '1.06135'), (u'garment', '1.03565'), (u'commodity', '1.01308'), (u'covering', '0.94691'), (u'brassiere', '0.21225'), (u'bikini', '0.16743'), (u'gown', '0.14260'), (u'hoopskirt', '0.08690'), (u'miniskirt', '0.05847')]
+b=hotdirtysexy
+
+p=145876518928
+caffe=[(u'clothing', '1.31329'), (u'consumer goods', '1.16867'), (u'swimsuit', '1.13101'), (u'commodity', '1.10848'), (u'garment', '1.08076'), (u'bikini', '0.21303'), (u'maillot', '0.20617'), (u'maillot', '0.08902'), (u'brassiere', '0.08500'), (u'miniskirt', '0.06160')]
+b=hotdirtysexy
+
+p=145876502073
+caffe=[(u'clothing', '1.32399'), (u'garment', '1.20333'), (u'consumer goods', '1.16563'), (u'swimsuit', '1.14681'), (u'commodity', '1.10451'), (u'brassiere', '0.34011'), (u'bikini', '0.30580'), (u'maillot', '0.13216'), (u'stethoscope', '0.06512'), (u'maillot', '0.03606')]
+b=hotdirtysexy
+
+p=145876382763
+caffe=[(u'primate', '0.30071'), (u'anthropoid ape', '0.29276'), (u'ape', '0.28690'), (u'covering', '0.26733'), (u'consumer goods', '0.26169'), (u'chain', '0.08005'), (u'gorilla', '0.06781'), (u'dumbbell', '0.06052'), (u'bow tie', '0.04554'), (u'iron', '0.04003')]
+b=hotdirtysexy
+
+p=145876366883
+caffe=[(u'clothing', '0.53341'), (u'consumer goods', '0.52565'), (u'commodity', '0.50264'), (u'covering', '0.48212'), (u'garment', '0.46775'), (u'barber chair', '0.11474'), (u'trench coat', '0.08263'), (u'barbershop', '0.07271'), (u'lab coat', '0.04663'), (u'dumbbell', '0.02829')]
+b=hotdirtysexy
+
+p=145736138103
+caffe=[(u'clothing', '0.60489'), (u'consumer goods', '0.54968'), (u'garment', '0.53497'), (u'commodity', '0.52260'), (u'covering', '0.51965'), (u'bikini', '0.13023'), (u'pole', '0.11029'), (u'brassiere', '0.10348'), (u'prison', '0.04521'), (u'crutch', '0.04356')]
+b=hotdirtysexy
+
+p=145736127678
+caffe=[(u'vessel', '0.53981'), (u'container', '0.36931'), (u'covering', '0.36371'), (u'commodity', '0.34736'), (u'bathtub', '0.34117'), (u'bathtub', '0.29351'), (u'tub', '0.12678'), (u'washbasin', '0.04481'), (u'Band Aid', '0.04207'), (u'bath towel', '0.04083')]
+b=hotdirtysexy
+
+p=145736127678
+caffe=[(u'commodity', '0.72421'), (u'piece of cloth', '0.69970'), (u'fabric', '0.68816'), (u'piece', '0.68570'), (u'part', '0.67170'), (u'bath towel', '0.52787'), (u'bikini', '0.06775'), (u'butternut squash', '0.05688'), (u'swimming trunks', '0.05273'), (u'Band Aid', '0.03783')]
+b=hotdirtysexy
+
+p=145736127678
+caffe=[(u'clothing', '0.52203'), (u'commodity', '0.50229'), (u'consumer goods', '0.48630'), (u'covering', '0.47651'), (u'garment', '0.43581'), (u'bathtub', '0.16409'), (u'tub', '0.12767'), (u'diaper', '0.10969'), (u'bath towel', '0.09644'), (u'butternut squash', '0.06176')]
+b=hotdirtysexy
+
+p=145580983478
+caffe=[(u'clothing', '0.84485'), (u'consumer goods', '0.76424'), (u'garment', '0.75575'), (u'commodity', '0.73343'), (u'covering', '0.69551'), (u'brassiere', '0.28866'), (u'maillot', '0.06758'), (u'diaper', '0.06703'), (u'bathtub', '0.04469'), (u'miniskirt', '0.03988')]
+b=hotdirtysexy
+
+p=145533712013
+caffe=[(u'clothing', '1.16457'), (u'consumer goods', '1.01822'), (u'garment', '0.99034'), (u'commodity', '0.97002'), (u'covering', '0.92914'), (u'sarong', '0.46041'), (u'bikini', '0.09378'), (u'maillot', '0.05592'), (u'miniskirt', '0.03955'), (u'brassiere', '0.03193')]
+b=hotdirtysexy
+
+p=145533712013
+caffe=[(u'clothing', '1.20281'), (u'consumer goods', '1.07538'), (u'commodity', '1.01881'), (u'garment', '0.95633'), (u'covering', '0.95077'), (u'maillot', '0.23876'), (u'miniskirt', '0.20143'), (u'maillot', '0.10148'), (u'dumbbell', '0.05518'), (u'brassiere', '0.03270')]
+b=runofplay
+
+p=122179138610
+caffe=[(u'slide rule', '0.53054'), (u'analog computer', '0.52275'), (u'brass', '0.49109'), (u'computer', '0.46084'), (u'memorial', '0.41638'), (u'rule', '0.18190'), (u'slide rule', '0.16250'), (u'brass', '0.10617'), (u'screw', '0.10140'), (u'menu', '0.04701')]
+b=runofplay
+
+p=89544735005
+caffe=[(u'structure', '0.75288'), (u'building', '0.68579'), (u'place of worship', '0.65406'), (u'dome', '0.55539'), (u'roof', '0.52113'), (u'dome', '0.19182'), (u'submarine', '0.10759'), (u'mosque', '0.08625'), (u'stupa', '0.05442'), (u'mountain tent', '0.04724')]
+b=runofplay
+
+p=51803189941
+caffe=[(u'clothing', '1.28095'), (u'consumer goods', '1.12217'), (u'garment', '1.07934'), (u'commodity', '1.06167'), (u'covering', '0.99623'), (u'suit', '0.51891'), (u'academic gown', '0.22964'), (u'bow tie', '0.08089'), (u'Windsor tie', '0.04822'), (u'mortarboard', '0.03112')]
+b=runofplay
+
+p=51803189941
+caffe=[(u'clothing', '0.46753'), (u'consumer goods', '0.44472'), (u'commodity', '0.42364'), (u'covering', '0.41738'), (u'groom', '0.29282'), (u'groom', '0.10102'), (u'restaurant', '0.06397'), (u'sombrero', '0.05859'), (u'wig', '0.03748'), (u'bow tie', '0.03577')]
+b=runofplay
+
+p=51803189941
+caffe=[(u'clothing', '0.74934'), (u'garment', '0.68840'), (u'consumer goods', '0.67114'), (u'covering', '0.66285'), (u'commodity', '0.63976'), (u'suit', '0.19273'), (u'bow tie', '0.10694'), (u'Band Aid', '0.08517'), (u'Windsor tie', '0.07476'), (u'oboe', '0.05523')]
+b=runofplay
+
+p=51803189941
+caffe=[(u'clothing', '0.57008'), (u'consumer goods', '0.50058'), (u'covering', '0.48315'), (u'commodity', '0.48194'), (u'garment', '0.44351'), (u'stole', '0.18627'), (u'mitten', '0.07348'), (u'wool', '0.06676'), (u'Chesapeake Bay retriever', '0.05942'), (u'cardigan', '0.05162')]
+b=runofplay
+
+p=51718385242
+caffe=[(u'container', '0.29624'), (u'covering', '0.28036'), (u'packet', '0.23809'), (u'package', '0.23460'), (u'web site', '0.23023'), (u'packet', '0.23060'), (u'Band Aid', '0.14447'), (u'envelope', '0.05813'), (u'rule', '0.05346'), (u'web site', '0.05033')]
+b=runofplay
+
+p=51718385242
+caffe=[(u'web site', '0.33229'), (u'machine', '0.28127'), (u'covering', '0.27949'), (u'computer', '0.27758'), (u'container', '0.27239'), (u'Band Aid', '0.16947'), (u'packet', '0.15990'), (u'digital clock', '0.08549'), (u'envelope', '0.07771'), (u'web site', '0.07733')]
+b=runofplay
+
+p=51718385242
+caffe=[(u'toiletry', '0.33361'), (u'container', '0.28989'), (u'covering', '0.26424'), (u'implement', '0.24300'), (u'packet', '0.24210'), (u'packet', '0.25251'), (u'rubber eraser', '0.17757'), (u'Band Aid', '0.08241'), (u'sunscreen', '0.05784'), (u'lotion', '0.04278')]
+b=runofplay
+
+p=51718385242
+caffe=[(u'web site', '0.38702'), (u'envelope', '0.32813'), (u'container', '0.32531'), (u'toiletry', '0.32362'), (u'computer', '0.31302'), (u'envelope', '0.39173'), (u'lipstick', '0.09915'), (u'web site', '0.08815'), (u'hair slide', '0.05931'), (u'packet', '0.05617')]
+b=runofplay
+
+p=51639833653
+caffe=[(u'device', '0.36375'), (u'musical instrument', '0.30867'), (u'covering', '0.29111'), (u'equipment', '0.29068'), (u'cellular telephone', '0.27543'), (u'cellular telephone', '0.15459'), (u'microphone', '0.15392'), (u'harmonica', '0.08362'), (u'lens cap', '0.07670'), (u'whistle', '0.03847')]
+b=runofplay
+
+p=51639833653
+caffe=[(u'garment', '1.09150'), (u'clothing', '1.07564'), (u'consumer goods', '0.96563'), (u'commodity', '0.91767'), (u'covering', '0.86765'), (u'Windsor tie', '0.40228'), (u'lab coat', '0.38170'), (u'neck brace', '0.13901'), (u'suit', '0.01244'), (u'bow tie', '0.01041')]
+b=runofplay
+
+p=51639833653
+caffe=[(u'clothing', '0.31201'), (u'covering', '0.30053'), (u'consumer goods', '0.29987'), (u'commodity', '0.28593'), (u'garment', '0.23605'), (u'bow tie', '0.03145'), (u'ice lolly', '0.02726'), (u'groom', '0.02630'), (u'ping-pong ball', '0.02625'), (u'ocarina', '0.02124')]
+b=runofplay
+
+p=33609789432
+caffe=[(u'dogsled', '0.89946'), (u'sled', '0.80470'), (u'dog', '0.62781'), (u'canine', '0.58100'), (u'domestic animal', '0.57392'), (u'dogsled', '0.27763'), (u'puck', '0.07210'), (u'Cardigan', '0.06884'), (u'Boston bull', '0.06734'), (u'ski', '0.04233')]
+b=runofplay
+
+p=20129951616
+caffe=[(u'diapsid', '0.24880'), (u'reptile', '0.24468'), (u'covering', '0.19098'), (u'structure', '0.17559'), (u'lizard', '0.17081'), (u'knot', '0.03250'), (u'alligator lizard', '0.02704'), (u'hay', '0.02649'), (u'bikini', '0.02504'), (u'broom', '0.02167')]
+b=runofplay
+
+p=20010483079
+caffe=[(u'jean', '0.83758'), (u'workwear', '0.82527'), (u'trouser', '0.82527'), (u'apparel', '0.81297'), (u'garment', '0.75983'), (u'jean', '0.37792'), (u'Loafer', '0.16525'), (u'crutch', '0.06679'), (u'cowboy hat', '0.03766'), (u'suit', '0.03043')]
+b=runofplay
+
+p=19959252623
+caffe=[(u'musical instrument', '0.48684'), (u'stringed instrument', '0.46441'), (u'harp', '0.41120'), (u'chordophone', '0.40516'), (u'teddy', '0.34616'), (u'teddy', '0.13537'), (u'harp', '0.11087'), (u'banjo', '0.06470'), (u'fur coat', '0.04582'), (u'bow tie', '0.03043')]
+b=runofplay
+
+p=19408896781
+caffe=[(u"potter's wheel", '0.40109'), (u'wheel', '0.32437'), (u'machine', '0.31827'), (u'mechanical device', '0.28724'), (u'hunting dog', '0.27722'), (u"potter's wheel", '0.17171'), (u'stretcher', '0.10485'), (u'vizsla', '0.08028'), (u'nipple', '0.04527'), (u'steel drum', '0.04250')]
+b=runofplay
+
+p=19347068103
+caffe=[(u'implement', '0.23540'), (u'device', '0.23245'), (u'musical instrument', '0.21666'), (u'covering', '0.17977'), (u'arthropod', '0.17736'), (u'stethoscope', '0.08591'), (u'quill', '0.06233'), (u'chocolate sauce', '0.05563'), (u'cockroach', '0.04652'), (u'violin', '0.04299')]
+b=runofplay
+
+p=19343622037
+caffe=[(u'container', '0.23195'), (u'furnishing', '0.21872'), (u'covering', '0.21794'), (u'furniture', '0.21175'), (u'device', '0.20697'), (u'dishwasher', '0.04442'), (u'wallet', '0.03984'), (u'doormat', '0.03032'), (u'can opener', '0.02943'), (u'window screen', '0.02898')]
+b=thecakebar
+
+p=74279181668
+caffe=[(u'computer', '0.82507'), (u'rule', '0.74713'), (u'measuring stick', '0.73616'), (u'machine', '0.69468'), (u'web site', '0.68818'), (u'rule', '0.56929'), (u'web site', '0.16753'), (u'slide rule', '0.09058'), (u'envelope', '0.04489'), (u'binder', '0.01705')]
+b=facesofthelastseasonofoprah
+
+p=5855105732
+caffe=[(u'clothing', '0.93902'), (u'garment', '0.86099'), (u'consumer goods', '0.83872'), (u'commodity', '0.79821'), (u'covering', '0.75793'), (u'brassiere', '0.43518'), (u'maillot', '0.06888'), (u'maillot', '0.05982'), (u'neck brace', '0.05942'), (u'bikini', '0.04644')]
+b=facesofthelastseasonofoprah
+
+p=5855092753
+caffe=[(u'clothing', '0.50953'), (u'covering', '0.47558'), (u'consumer goods', '0.46766'), (u'commodity', '0.44775'), (u'garment', '0.42663'), (u'brassiere', '0.08109'), (u'sweatshirt', '0.03323'), (u'ping-pong ball', '0.03064'), (u'umbrella', '0.02985'), (u'Band Aid', '0.02870')]
+b=facesofthelastseasonofoprah
+
+p=5822744572
+caffe=[(u'musical instrument', '0.53991'), (u'wind instrument', '0.45593'), (u'covering', '0.35110'), (u'device', '0.35086'), (u'stage', '0.30033'), (u'stage', '0.14345'), (u'panpipe', '0.10994'), (u'microphone', '0.08778'), (u'theater curtain', '0.06880'), (u'drumstick', '0.06216')]
+b=facesofthelastseasonofoprah
+
+p=5822727136
+caffe=[(u'garment', '1.49720'), (u'clothing', '1.40672'), (u'consumer goods', '1.22928'), (u'commodity', '1.16334'), (u'covering', '1.08617'), (u'suit', '0.86488'), (u'Windsor tie', '0.05858'), (u'bow tie', '0.05820'), (u'cleaver', '0.00137'), (u'groom', '0.00113')]
+b=facesofthelastseasonofoprah
+
+p=5822621188
+caffe=[(u'clothing', '0.45061'), (u'consumer goods', '0.42297'), (u'covering', '0.41604'), (u'commodity', '0.40426'), (u'musical instrument', '0.31358'), (u'wig', '0.15193'), (u'microphone', '0.08075'), (u'hair spray', '0.07990'), (u'maraca', '0.07244'), (u'neck brace', '0.04432')]
+b=facesofthelastseasonofoprah
+
+p=5822603164
+caffe=[(u'clothing', '1.07659'), (u'consumer goods', '0.94556'), (u'garment', '0.93699'), (u'commodity', '0.89403'), (u'covering', '0.89378'), (u'abaya', '0.43116'), (u'academic gown', '0.14594'), (u'suit', '0.07242'), (u'mortarboard', '0.06606'), (u'bulletproof vest', '0.03480')]
+b=facesofthelastseasonofoprah
+
+p=5822586556
+caffe=[(u'clothing', '0.43455'), (u'covering', '0.43103'), (u'consumer goods', '0.39705'), (u'commodity', '0.37955'), (u'garment', '0.35067'), (u'ski mask', '0.04802'), (u'cloak', '0.04384'), (u'neck brace', '0.03423'), (u'suit', '0.03159'), (u'abaya', '0.02923')]
+b=facesofthelastseasonofoprah
+
+p=5822439110
+caffe=[(u"jack-o'-lantern", '0.45128'), (u'lantern', '0.44465'), (u'lamp', '0.40921'), (u'source of illumination', '0.40472'), (u'covering', '0.33292'), (u"jack-o'-lantern", '0.09470'), (u'theater curtain', '0.07241'), (u'mask', '0.05415'), (u'butcher shop', '0.03766'), (u'microphone', '0.03322')]
+b=facesofthelastseasonofoprah
+
+p=5822413057
+caffe=[(u'clothing', '0.83644'), (u'covering', '0.77170'), (u'consumer goods', '0.74139'), (u'commodity', '0.70528'), (u'garment', '0.70433'), (u'bow tie', '0.12009'), (u'suit', '0.10828'), (u'theater curtain', '0.07948'), (u'groom', '0.06206'), (u'wig', '0.06152')]
+b=facesofthelastseasonofoprah
+
+p=5822398500
+caffe=[(u'musical instrument', '0.67356'), (u'device', '0.44218'), (u'stringed instrument', '0.41960'), (u'source of illumination', '0.36644'), (u'torch', '0.36464'), (u'torch', '0.19998'), (u'banjo', '0.13560'), (u'maraca', '0.10297'), (u'drumstick', '0.04990'), (u'microphone', '0.03274')]
+b=facesofthelastseasonofoprah
+
+p=5822283022
+caffe=[(u'clothing', '0.47979'), (u'covering', '0.45370'), (u'musical instrument', '0.45100'), (u'consumer goods', '0.44508'), (u'commodity', '0.42483'), (u'drumstick', '0.12912'), (u'wig', '0.10197'), (u'abaya', '0.09356'), (u'stage', '0.06988'), (u'microphone', '0.06115')]
+b=facesofthelastseasonofoprah
+
+p=5793850413
+caffe=[(u'clothing', '0.52754'), (u'musical instrument', '0.52297'), (u'covering', '0.49226'), (u'consumer goods', '0.47849'), (u'wind instrument', '0.47472'), (u'wig', '0.19968'), (u'oboe', '0.15712'), (u'stage', '0.07057'), (u'microphone', '0.05142'), (u'bow tie', '0.03844')]
+b=facesofthelastseasonofoprah
+
+p=5793839345
+caffe=[(u'clothing', '0.61029'), (u'garment', '0.57765'), (u'consumer goods', '0.56005'), (u'commodity', '0.53224'), (u'covering', '0.53069'), (u'bow tie', '0.12531'), (u'suit', '0.10191'), (u'Windsor tie', '0.05839'), (u'trench coat', '0.04056'), (u'neck brace', '0.03470')]
+b=facesofthelastseasonofoprah
+
+p=5793820864
+caffe=[(u'wig', '1.15948'), (u'hairpiece', '1.14245'), (u'attire', '1.07199'), (u'clothing', '0.85403'), (u'consumer goods', '0.76296'), (u'wig', '0.62038'), (u'hand blower', '0.02856'), (u'hair spray', '0.02381'), (u'Lhasa', '0.02075'), (u'sunglasses', '0.01322')]
+b=facesofthelastseasonofoprah
+
+p=5793807632
+caffe=[(u'garment', '1.27484'), (u'clothing', '1.21384'), (u'consumer goods', '1.06821'), (u'commodity', '1.01168'), (u'covering', '0.96535'), (u'suit', '0.63123'), (u'bow tie', '0.07504'), (u'abaya', '0.04924'), (u'Windsor tie', '0.03662'), (u'cloak', '0.02469')]
+b=facesofthelastseasonofoprah
+
+p=5793780083
+caffe=[(u'clothing', '0.37639'), (u'covering', '0.35147'), (u'consumer goods', '0.34838'), (u'commodity', '0.33267'), (u'garment', '0.30196'), (u'flute', '0.06695'), (u'fur coat', '0.06163'), (u'wig', '0.05764'), (u'stage', '0.05191'), (u'racket', '0.04299')]
+b=facesofthelastseasonofoprah
+
+p=5793758215
+caffe=[(u'clothing', '0.69694'), (u'consumer goods', '0.62799'), (u'covering', '0.61783'), (u'garment', '0.61105'), (u'commodity', '0.59588'), (u'bow tie', '0.23641'), (u'abaya', '0.07657'), (u'suit', '0.06094'), (u'Windsor tie', '0.04496'), (u'academic gown', '0.04246')]
+b=facesofthelastseasonofoprah
+
+p=5793745225
+caffe=[(u'clothing', '0.73779'), (u'covering', '0.66714'), (u'consumer goods', '0.66013'), (u'commodity', '0.62985'), (u'garment', '0.52843'), (u'wig', '0.18533'), (u'bow tie', '0.10469'), (u'stage', '0.04503'), (u'Windsor tie', '0.04349'), (u'microphone', '0.04195')]
+b=facesofthelastseasonofoprah
+
+p=5793730002
+caffe=[(u'musical instrument', '0.27399'), (u'musteline mammal', '0.25968'), (u'carnivore', '0.24672'), (u'dog', '0.23018'), (u'wind instrument', '0.21929'), (u'black-footed ferret', '0.06689'), (u'stage', '0.04912'), (u'harmonica', '0.03714'), (u'microphone', '0.02983'), (u'weasel', '0.02301')]
+b=facesofthelastseasonofoprah
+
+p=5793715599
+caffe=[(u'clothing', '0.63377'), (u'covering', '0.57124'), (u'consumer goods', '0.56933'), (u'commodity', '0.54345'), (u'garment', '0.39174'), (u'wig', '0.18836'), (u'maraca', '0.08917'), (u'feather boa', '0.03346'), (u'carousel', '0.03250'), (u'theater curtain', '0.03155')]
+b=mycrownmykingdom
+
+p=141946297901
+caffe=[(u'bridge', '0.92691'), (u'pier', '0.91311'), (u'structure', '0.86682'), (u'support', '0.67825'), (u'steel arch bridge', '0.53636'), (u'pier', '0.65067'), (u'dock', '0.11290'), (u'boathouse', '0.04051'), (u'lakeside', '0.02199'), (u'aircraft carrier', '0.01748')]
+b=mycrownmykingdom
+
+p=141946294511
+caffe=[(u'web site', '0.55357'), (u'computer', '0.46005'), (u'machine', '0.40399'), (u'structure', '0.39710'), (u'device', '0.34435'), (u'web site', '0.13641'), (u'brass', '0.06467'), (u'suspension bridge', '0.05575'), (u'menu', '0.05396'), (u'pier', '0.05207')]
+b=mycrownmykingdom
+
+p=141946198511
+caffe=[(u'clothing', '0.59445'), (u'consumer goods', '0.52127'), (u'commodity', '0.49397'), (u'covering', '0.45813'), (u'swimsuit', '0.44836'), (u'bathing cap', '0.26952'), (u'snorkel', '0.16898'), (u'swimming trunks', '0.09303'), (u'killer whale', '0.08419'), (u'sea lion', '0.04559')]
+b=mycrownmykingdom
+
+p=141945351891
+caffe=[(u'substance', '0.41010'), (u'food', '0.38453'), (u'matter', '0.35834'), (u'toiletry', '0.32890'), (u'menu', '0.32064'), (u'menu', '0.09101'), (u'dough', '0.07981'), (u'lotion', '0.06764'), (u'envelope', '0.06449'), (u'baseball', '0.05809')]
+b=mycrownmykingdom
+
+p=139958666071
+caffe=[(u'fabric', '0.41673'), (u'piece of cloth', '0.39979'), (u'piece', '0.39180'), (u'part', '0.38380'), (u'geological formation', '0.34747'), (u'paper towel', '0.25583'), (u'alp', '0.05661'), (u'ptarmigan', '0.05059'), (u'bath towel', '0.04837'), (u'Arctic fox', '0.04701')]
+b=mycrownmykingdom
+
+p=139958663966
+caffe=[(u'structure', '1.20864'), (u'castle', '0.96372'), (u'fortification', '0.94956'), (u'defensive structure', '0.93540'), (u'building', '0.87243'), (u'castle', '0.29053'), (u'obelisk', '0.08556'), (u'church', '0.08192'), (u'palace', '0.07365'), (u'mosque', '0.06147')]
+b=mycrownmykingdom
+
+p=139958566206
+caffe=[(u'castle', '1.32359'), (u'fortification', '1.30415'), (u'defensive structure', '1.28471'), (u'structure', '0.95672'), (u'geological formation', '0.83465'), (u'castle', '0.42673'), (u'lakeside', '0.09884'), (u'cliff', '0.07577'), (u'promontory', '0.06875'), (u'coral reef', '0.05965')]
+b=mycrownmykingdom
+
+p=139958560271
+caffe=[(u'stage', '1.33422'), (u'platform', '1.31462'), (u'horizontal surface', '1.29502'), (u'surface', '1.27542'), (u'musical instrument', '0.64952'), (u'stage', '0.69038'), (u'feather boa', '0.09057'), (u'spotlight', '0.02567'), (u'sax', '0.01933'), (u'theater curtain', '0.01766')]
+b=mycrownmykingdom
+
+p=139958551346
+caffe=[(u'water tower', '0.88151'), (u'reservoir', '0.77495'), (u'tank', '0.76185'), (u'vessel', '0.50341'), (u'structure', '0.45129'), (u'water tower', '0.19865'), (u'cinema', '0.05648'), (u'bell cote', '0.05571'), (u'container ship', '0.03733'), (u'freight car', '0.02889')]
+b=mycrownmykingdom
+
+p=139958485626
+caffe=[(u'produce', '0.28048'), (u'food', '0.27112'), (u'solid', '0.26181'), (u'vegetable', '0.25873'), (u'matter', '0.25743'), (u'Band Aid', '0.06685'), (u'pot', '0.05568'), (u'artichoke', '0.04845'), (u'coral fungus', '0.04707'), (u'wooden spoon', '0.03945')]
+b=mycrownmykingdom
+
+p=139958481541
+caffe=[(u'breakwater', '1.05625'), (u'barrier', '0.85042'), (u'geological formation', '0.84723'), (u'obstruction', '0.83019'), (u'structure', '0.79573'), (u'breakwater', '0.68691'), (u'seashore', '0.04994'), (u'spider web', '0.04314'), (u'fountain', '0.02824'), (u'shopping cart', '0.02786')]
+b=mycrownmykingdom
+
+p=139958474436
+caffe=[(u'dog', '0.56226'), (u'hunting dog', '0.52730'), (u'domestic animal', '0.51508'), (u'canine', '0.50057'), (u'hound', '0.49693'), (u'Weimaraner', '0.08662'), (u'miniature pinscher', '0.04915'), (u'harmonica', '0.03855'), (u'Italian greyhound', '0.03746'), (u'bloodhound', '0.03648')]
+b=mycrownmykingdom
+
+p=139958431201
+caffe=[(u'geological formation', '0.92000'), (u'natural elevation', '0.65245'), (u'sandbar', '0.49475'), (u'bar', '0.48748'), (u'barrier', '0.48021'), (u'sandbar', '0.21777'), (u'seashore', '0.19938'), (u'snowmobile', '0.12068'), (u'ski', '0.08994'), (u'Arabian camel', '0.01802')]
+b=mycrownmykingdom
+
+p=139958427476
+caffe=[(u'car', '1.55260'), (u'freight car', '1.54000'), (u'wheeled vehicle', '1.06003'), (u'vehicle', '0.96656'), (u'conveyance', '0.91622'), (u'freight car', '0.40396'), (u'passenger car', '0.10295'), (u'pier', '0.06404'), (u'steam locomotive', '0.06367'), (u'suspension bridge', '0.05082')]
+b=mycrownmykingdom
+
+p=139350987786
+caffe=[(u'vessel', '0.84358'), (u'craft', '0.80894'), (u'geological formation', '0.76507'), (u'ship', '0.70737'), (u'vehicle', '0.56286'), (u'breakwater', '0.20822'), (u'submarine', '0.12789'), (u'grey whale', '0.11165'), (u'seashore', '0.09872'), (u'sandbar', '0.09847')]
+b=mycrownmykingdom
+
+p=139350979101
+caffe=[(u'musical instrument', '0.43605'), (u'device', '0.38357'), (u'banjo', '0.31602'), (u'measuring instrument', '0.31036'), (u'instrument', '0.30893'), (u'banjo', '0.14863'), (u'scale', '0.08742'), (u'drum', '0.04375'), (u'barometer', '0.04146'), (u'wall clock', '0.03515')]
+b=mycrownmykingdom
+
+p=139350377901
+caffe=[(u'vessel', '0.50942'), (u'craft', '0.46776'), (u'primate', '0.38244'), (u'vehicle', '0.33345'), (u'sailing vessel', '0.31972'), (u'crane', '0.08236'), (u'orangutan', '0.07788'), (u'schooner', '0.06851'), (u'koala', '0.06603'), (u'wreck', '0.06448')]
+b=mycrownmykingdom
+
+p=139350327441
+caffe=[(u'clothing', '1.07858'), (u'garment', '1.06553'), (u'consumer goods', '0.94955'), (u'commodity', '0.90670'), (u'covering', '0.90595'), (u'suit', '0.29094'), (u'cardigan', '0.10127'), (u'sweatshirt', '0.08966'), (u'cloak', '0.04443'), (u'bow tie', '0.03820')]
+b=mycrownmykingdom
+
+p=139350266356
+caffe=[(u'crossword puzzle', '0.72266'), (u'puzzle', '0.66064'), (u'game', '0.64966'), (u'equipment', '0.54543'), (u'personal computer', '0.51909'), (u'crossword puzzle', '0.22322'), (u'notebook', '0.17596'), (u'laptop', '0.15088'), (u'shopping cart', '0.08253'), (u'computer keyboard', '0.04900')]
+b=mycrownmykingdom
+
+p=139350240191
+caffe=[(u'crossword puzzle', '0.95209'), (u'puzzle', '0.86129'), (u'game', '0.84697'), (u'game equipment', '0.61725'), (u'clothing', '0.59932'), (u'crossword puzzle', '0.29691'), (u'maillot', '0.10040'), (u'tub', '0.08791'), (u'maillot', '0.06936'), (u'miniskirt', '0.05104')]
+b=niightdreamer
+
+p=145838186006
+caffe=[(u'structure', '0.62648'), (u'restaurant', '0.54161'), (u'building', '0.46762'), (u'furniture', '0.32643'), (u'mercantile establishment', '0.32457'), (u'restaurant', '0.51329'), (u'altar', '0.10797'), (u'sewing machine', '0.06191'), (u'candle', '0.03553'), (u'dining table', '0.03371')]
+b=niightdreamer
+
+p=145838186006
+caffe=[(u'musical instrument', '0.37215'), (u'device', '0.33095'), (u'percussion instrument', '0.25452'), (u'equipment', '0.23665'), (u'covering', '0.21358'), (u'television', '0.04926'), (u'steel drum', '0.04353'), (u'notebook', '0.03773'), (u'window shade', '0.03221'), (u'restaurant', '0.03219')]
+b=niightdreamer
+
+p=145837688821
+caffe=[(u'musical instrument', '0.51277'), (u'stringed instrument', '0.38409'), (u'device', '0.37057'), (u'implement', '0.26272'), (u'equipment', '0.23980'), (u'drumstick', '0.20981'), (u'barbell', '0.09408'), (u'stage', '0.09320'), (u'harp', '0.05015'), (u'book jacket', '0.02265')]
+b=niightdreamer
+
+p=145837602966
+caffe=[(u'musical instrument', '0.37616'), (u'device', '0.25899'), (u'consumer goods', '0.22423'), (u'container', '0.21557'), (u'covering', '0.21358'), (u'barbershop', '0.11705'), (u'drum', '0.08054'), (u'violin', '0.05009'), (u'bow tie', '0.03528'), (u'drumstick', '0.02991')]
+b=niightdreamer
+
+p=145826161371
+caffe=[(u'dog', '0.44208'), (u'domestic animal', '0.41174'), (u'clothing', '0.40060'), (u'canine', '0.39287'), (u'covering', '0.38429'), (u'Windsor tie', '0.10916'), (u'nipple', '0.03730'), (u'Band Aid', '0.03685'), (u'Scotch terrier', '0.03237'), (u'schipperke', '0.03101')]
+b=niightdreamer
+
+p=145826158001
+caffe=[(u'dog', '0.44279'), (u'domestic animal', '0.41600'), (u'canine', '0.39828'), (u'hunting dog', '0.39328'), (u'carnivore', '0.34165'), (u'broom', '0.09327'), (u'scale', '0.07538'), (u'vacuum', '0.07478'), (u'swab', '0.04738'), (u'toy poodle', '0.04040')]
+b=niightdreamer
+
+p=145826126501
+caffe=[(u'starfish', '0.81807'), (u'echinoderm', '0.75724'), (u'invertebrate', '0.49406'), (u'diapsid', '0.38522'), (u'reptile', '0.37328'), (u'starfish', '0.23383'), (u'hognose snake', '0.06277'), (u'alligator lizard', '0.03257'), (u'Band Aid', '0.03010'), (u'sandal', '0.02661')]
+b=niightdreamer
+
+p=145826113406
+caffe=[(u'clothing', '1.20295'), (u'consumer goods', '1.05952'), (u'garment', '1.00933'), (u'commodity', '1.00916'), (u'covering', '0.95292'), (u'brassiere', '0.21931'), (u'maillot', '0.18383'), (u'diaper', '0.17417'), (u'maillot', '0.09613'), (u'miniskirt', '0.09281')]
+b=niightdreamer
+
+p=145826099521
+caffe=[(u'envelope', '0.37442'), (u'container', '0.30470'), (u'covering', '0.26201'), (u'implement', '0.26088'), (u'device', '0.23064'), (u'envelope', '0.47195'), (u'corkscrew', '0.03618'), (u'screw', '0.03428'), (u'rule', '0.02593'), (u'rubber eraser', '0.02572')]
+b=niightdreamer
+
+p=143655980491
+caffe=[(u'dog', '1.28268'), (u'domestic animal', '1.16787'), (u'canine', '1.13063'), (u'hunting dog', '1.09549'), (u'carnivore', '0.89307'), (u'Rhodesian ridgeback', '0.29938'), (u'bull mastiff', '0.25482'), (u'boxer', '0.13691'), (u'American Staffordshire terrier', '0.13130'), (u'Staffordshire bullterrier', '0.07974')]
+b=niightdreamer
+
+p=141577792656
+caffe=[(u'clothing', '1.30597'), (u'garment', '1.29978'), (u'consumer goods', '1.14584'), (u'commodity', '1.08829'), (u'covering', '1.03566'), (u'Windsor tie', '0.21675'), (u'suit', '0.21467'), (u'cardigan', '0.20685'), (u'bow tie', '0.04028'), (u'maillot', '0.03787')]
+b=niightdreamer
+
+p=141577792656
+caffe=[(u'clothing', '1.16046'), (u'garment', '1.10163'), (u'consumer goods', '1.02870'), (u'commodity', '0.98118'), (u'covering', '0.92902'), (u'miniskirt', '0.18137'), (u'stole', '0.13281'), (u'jean', '0.10297'), (u'lab coat', '0.09635'), (u'apron', '0.07344')]
+b=niightdreamer
+
+p=141569597176
+caffe=[(u'clothing', '0.65048'), (u'consumer goods', '0.57784'), (u'covering', '0.56792'), (u'garment', '0.56422'), (u'commodity', '0.54859'), (u'military uniform', '0.09426'), (u'suit', '0.08111'), (u'fur coat', '0.07145'), (u'trench coat', '0.06131'), (u'cloak', '0.04973')]
+b=niightdreamer
+
+p=141565557566
+caffe=[(u'musical instrument', '0.30895'), (u'covering', '0.30736'), (u'device', '0.29635'), (u'clothing', '0.28580'), (u'consumer goods', '0.28399'), (u'harmonica', '0.07618'), (u'dumbbell', '0.07319'), (u'microphone', '0.06748'), (u'ocarina', '0.04540'), (u'bow tie', '0.03841')]
+b=niightdreamer
+
+p=141565557566
+caffe=[(u'covering', '0.52088'), (u'clothing', '0.49499'), (u'consumer goods', '0.45191'), (u'commodity', '0.42996'), (u'garment', '0.41101'), (u'cloak', '0.17356'), (u'drumstick', '0.10138'), (u'microphone', '0.05263'), (u'stage', '0.04712'), (u'bow tie', '0.03290')]
+b=niightdreamer
+
+p=141565557566
+caffe=[(u'covering', '0.63964'), (u'clothing', '0.57696'), (u'garment', '0.53269'), (u'consumer goods', '0.51916'), (u'commodity', '0.49387'), (u'cloak', '0.15917'), (u'prison', '0.15173'), (u'theater curtain', '0.07787'), (u'trench coat', '0.06452'), (u'abaya', '0.03530')]
+b=niightdreamer
+
+p=141565044731
+caffe=[(u'primate', '0.51053'), (u'monkey', '0.48208'), (u'New World monkey', '0.39027'), (u'covering', '0.21876'), (u'structure', '0.20780'), (u'capuchin', '0.06259'), (u'squirrel monkey', '0.04973'), (u'scoreboard', '0.04789'), (u'titi', '0.02124'), (u'book jacket', '0.02042')]
+b=niightdreamer
+
+p=141564920371
+caffe=[(u'clothing', '1.04704'), (u'garment', '1.03972'), (u'consumer goods', '0.91968'), (u'commodity', '0.87649'), (u'covering', '0.87460'), (u'sweatshirt', '0.33078'), (u'poncho', '0.12663'), (u'jersey', '0.10736'), (u'bow tie', '0.06838'), (u'lab coat', '0.04877')]
+b=niightdreamer
+
+p=139735630641
+caffe=[(u'rule', '0.64609'), (u'measuring stick', '0.63660'), (u'measuring instrument', '0.42959'), (u'device', '0.39625'), (u'instrument', '0.36663'), (u'rule', '0.50936'), (u'ski', '0.06329'), (u'hook', '0.03998'), (u'screw', '0.03942'), (u'web site', '0.02817')]
+b=niightdreamer
+
+p=139732180281
+caffe=[(u'clothing', '0.78852'), (u'consumer goods', '0.70068'), (u'covering', '0.69769'), (u'commodity', '0.66485'), (u'headdress', '0.48358'), (u'military uniform', '0.24015'), (u'bathing cap', '0.15911'), (u'mortarboard', '0.09104'), (u'sunglasses', '0.07926'), (u'sunglass', '0.06445')]
+b=marissamassacre11
+
+p=138297472537
+caffe=[(u'clothing', '0.92757'), (u'consumer goods', '0.82737'), (u'commodity', '0.78700'), (u'garment', '0.77968'), (u'covering', '0.77288'), (u'bow tie', '0.36202'), (u'Windsor tie', '0.26617'), (u'shower cap', '0.06477'), (u'academic gown', '0.05097'), (u'neck brace', '0.03499')]
+b=marissamassacre11
+
+p=138257275117
+caffe=[(u'brass', '1.63701'), (u'memorial', '1.44344'), (u'structure', '0.91062'), (u'container', '0.17029'), (u'barrier', '0.15243'), (u'brass', '0.35912'), (u'shovel', '0.06149'), (u'mailbox', '0.04814'), (u'park bench', '0.04340'), (u'fountain', '0.03898')]
+b=marissamassacre11
+
+p=138257267997
+caffe=[(u'structure', '0.48348'), (u'establishment', '0.36217'), (u'prison', '0.33339'), (u'correctional institution', '0.32849'), (u'penal institution', '0.32359'), (u'prison', '0.21989'), (u'bookshop', '0.05586'), (u'guillotine', '0.04835'), (u'crate', '0.03507'), (u'library', '0.03496')]
+b=marissamassacre11
+
+p=138257221252
+caffe=[(u'theater', '0.57793'), (u'home theater', '0.57665'), (u'building', '0.42696'), (u'structure', '0.41093'), (u'furniture', '0.32684'), (u'home theater', '0.27678'), (u'monitor', '0.08673'), (u'rotisserie', '0.05349'), (u'television', '0.05323'), (u'container ship', '0.04068')]
+b=marissamassacre11
+
+p=138257157152
+caffe=[(u'structure', '0.28427'), (u'covering', '0.25733'), (u'protective covering', '0.23190'), (u'furnishing', '0.22644'), (u'furniture', '0.22487'), (u'prison', '0.09069'), (u'horizontal bar', '0.05867'), (u'swing', '0.05658'), (u'fire screen', '0.04576'), (u'window screen', '0.04264')]
+b=marissamassacre11
+
+p=138016825552
+caffe=[(u'musical instrument', '0.49491'), (u'clothing', '0.46626'), (u'covering', '0.45333'), (u'consumer goods', '0.44111'), (u'commodity', '0.41902'), (u'abaya', '0.08380'), (u'electric guitar', '0.06627'), (u'oboe', '0.04780'), (u'seat belt', '0.04557'), (u'suit', '0.04063')]
+b=marissamassacre11
+
+p=138016734407
+caffe=[(u'measuring instrument', '1.35318'), (u'odometer', '1.16528'), (u'meter', '1.14817'), (u'instrument', '0.96575'), (u'digital clock', '0.70028'), (u'digital clock', '0.46922'), (u'odometer', '0.25879'), (u'nematode', '0.04737'), (u'spotlight', '0.02882'), (u'bubble', '0.01370')]
+b=marissamassacre11
+
+p=137811687247
+caffe=[(u'cliff dwelling', '3.28569'), (u'dwelling', '2.54041'), (u'housing', '2.37952'), (u'structure', '1.33128'), (u'cliff', '0.34440'), (u'cliff dwelling', '0.81693'), (u'vault', '0.03844'), (u'cliff', '0.03302'), (u'yurt', '0.01941'), (u'tile roof', '0.00994')]
+b=marissamassacre11
+
+p=137789307882
+caffe=[(u'brass', '1.18468'), (u'memorial', '1.00586'), (u'structure', '0.65332'), (u'measuring instrument', '0.20339'), (u'menu', '0.20022'), (u'brass', '0.25793'), (u'digital clock', '0.05094'), (u'menu', '0.04575'), (u'rule', '0.03589'), (u'airship', '0.03464')]
+b=marissamassacre11
+
+p=137789278542
+caffe=[(u'street sign', '0.54554'), (u'sign', '0.53753'), (u'structure', '0.51728'), (u'mercantile establishment', '0.51463'), (u'shop', '0.51437'), (u'street sign', '0.24566'), (u'barbershop', '0.19125'), (u'book jacket', '0.17392'), (u'tobacco shop', '0.08955'), (u'cinema', '0.04194')]
+b=marissamassacre11
+
+p=137789252312
+caffe=[(u'measuring instrument', '0.63319'), (u'timepiece', '0.59137'), (u'digital clock', '0.58722'), (u'clock', '0.54624'), (u'instrument', '0.47123'), (u'digital clock', '0.39494'), (u'book jacket', '0.05499'), (u'scoreboard', '0.05376'), (u'cinema', '0.02490'), (u'web site', '0.02438')]
+b=marissamassacre11
+
+p=137747595517
+caffe=[(u'covering', '0.25351'), (u'device', '0.25152'), (u'implement', '0.18645'), (u'invertebrate', '0.17674'), (u'instrument', '0.17521'), (u'syringe', '0.10732'), (u'nematode', '0.04089'), (u'screw', '0.03826'), (u'window screen', '0.03489'), (u'book jacket', '0.03184')]
+b=marissamassacre11
+
+p=137747474522
+caffe=[(u'slide rule', '1.10909'), (u'analog computer', '1.09280'), (u'computer', '0.81204'), (u'machine', '0.66839'), (u'rule', '0.54029'), (u'slide rule', '0.35556'), (u'rule', '0.32195'), (u'nail', '0.07825'), (u'screw', '0.04319'), (u'matchstick', '0.02857')]
+b=marissamassacre11
+
+p=137747380872
+caffe=[(u'crossword puzzle', '2.57968'), (u'puzzle', '2.33777'), (u'game', '2.29890'), (u'game equipment', '1.54968'), (u'equipment', '1.09577'), (u'crossword puzzle', '0.80495'), (u'menu', '0.02982'), (u'book jacket', '0.02455'), (u'doormat', '0.02027'), (u'brass', '0.02010')]
+b=marissamassacre11
+
+p=137747251397
+caffe=[(u'menu', '0.71337'), (u'fare', '0.70289'), (u'brass', '0.35939'), (u'food', '0.34185'), (u'substance', '0.33063'), (u'menu', '0.20733'), (u'brass', '0.07134'), (u'crossword puzzle', '0.06895'), (u'screw', '0.04110'), (u'book jacket', '0.03981')]
+b=marissamassacre11
+
+p=137747242817
+caffe=[(u'rule', '0.85170'), (u'measuring stick', '0.83919'), (u'measuring instrument', '0.54665'), (u'instrument', '0.44287'), (u'device', '0.40124'), (u'rule', '0.68076'), (u'nail', '0.09301'), (u'screw', '0.04458'), (u'matchstick', '0.02988'), (u'ski', '0.01719')]
+b=marissamassacre11
+
+p=137602586292
+caffe=[(u'bubble', '0.62228'), (u'globule', '0.61314'), (u'ball', '0.60400'), (u'sphere', '0.59486'), (u'round shape', '0.58572'), (u'bubble', '0.32459'), (u'spider web', '0.13943'), (u'nematode', '0.10903'), (u'brass', '0.02873'), (u'fountain', '0.02464')]
+b=marissamassacre11
+
+p=137556840292
+caffe=[(u'puzzle', '1.01029'), (u'game', '0.99350'), (u'crossword puzzle', '0.82730'), (u'game equipment', '0.68721'), (u'menu', '0.66185'), (u'crossword puzzle', '0.23826'), (u'menu', '0.18445'), (u'jigsaw puzzle', '0.14027'), (u'brass', '0.03783'), (u'rule', '0.03390')]
+b=marissamassacre11
+
+p=137526194127
+caffe=[(u'cat', '1.23718'), (u'feline', '1.13533'), (u'domestic cat', '1.10377'), (u'carnivore', '0.76563'), (u'domestic animal', '0.73803'), (u'Siamese cat', '0.27728'), (u'lynx', '0.14994'), (u'Persian cat', '0.11879'), (u'Egyptian cat', '0.07381'), (u'Siberian husky', '0.05535')]
+b=marissamassacre11
+
+p=137428154712
+caffe=[(u'wind instrument', '0.46737'), (u'musical instrument', '0.46552'), (u'device', '0.36996'), (u'covering', '0.30918'), (u'clothing', '0.28925'), (u'harmonica', '0.29216'), (u'ocarina', '0.07032'), (u'hand-held computer', '0.06784'), (u'panpipe', '0.05592'), (u'neck brace', '0.04804')]
+b=photographersdirectory
+
+p=145971060411
+caffe=[(u'fish', '0.31419'), (u'aquatic vertebrate', '0.30505'), (u'elasmobranch', '0.24969'), (u'cartilaginous fish', '0.24459'), (u'invertebrate', '0.20583'), (u'stingray', '0.05407'), (u'shower curtain', '0.05048'), (u'hog', '0.04506'), (u'eel', '0.03806'), (u'hippopotamus', '0.03280')]
+b=photographersdirectory
+
+p=145871160400
+caffe=[(u'vessel', '0.83623'), (u'ship', '0.81119'), (u'pirate', '0.78688'), (u'craft', '0.76182'), (u'vehicle', '0.49372'), (u'pirate', '0.19863'), (u'wreck', '0.13690'), (u'ear', '0.12399'), (u'greenhouse', '0.05661'), (u'schooner', '0.05622')]
+b=photographersdirectory
+
+p=145868222266
+caffe=[(u'harp', '0.44789'), (u'chordophone', '0.44131'), (u'musical instrument', '0.41343'), (u'stringed instrument', '0.40693'), (u'dog', '0.38841'), (u'harp', '0.12102'), (u'horse cart', '0.09077'), (u'Irish setter', '0.05513'), (u'oxcart', '0.03923'), (u'sarong', '0.02923')]
+b=photographersdirectory
+
+p=145852301066
+caffe=[(u'structure', '0.36312'), (u'mountain tent', '0.35181'), (u'tent', '0.34664'), (u'shelter', '0.34147'), (u'pinwheel', '0.32125'), (u'pinwheel', '0.16568'), (u'mountain tent', '0.09119'), (u'maze', '0.08851'), (u'apiary', '0.03825'), (u'water bottle', '0.02904')]
+b=photographersdirectory
+
+p=145850866441
+caffe=[(u'residence', '2.17968'), (u'house', '2.14283'), (u'palace', '2.03161'), (u'dwelling', '1.86236'), (u'housing', '1.74720'), (u'palace', '0.78104'), (u'prison', '0.06463'), (u'monastery', '0.02621'), (u'gondola', '0.01884'), (u'library', '0.01742')]
+b=photographersdirectory
+
+p=145849347287
+caffe=[(u'wig', '0.83239'), (u'hairpiece', '0.82017'), (u'attire', '0.76844'), (u'clothing', '0.61195'), (u'consumer goods', '0.54097'), (u'wig', '0.44651'), (u'frilled lizard', '0.15820'), (u'conch', '0.12079'), (u'pelican', '0.08420'), (u'spoonbill', '0.02768')]
+b=photographersdirectory
+
+p=145847538912
+caffe=[(u'structure', '0.50323'), (u'coil', '0.42972'), (u'barrier', '0.27279'), (u'obstruction', '0.26631'), (u'grille', '0.24702'), (u'coil', '0.26002'), (u'grille', '0.11522'), (u'dome', '0.07525'), (u'grand piano', '0.07506'), (u'bannister', '0.04861')]
+b=photographersdirectory
+
+p=145845318339
+caffe=[(u'geological formation', '2.19493'), (u'mountain', '2.15954'), (u'alp', '2.09316'), (u'natural elevation', '1.85542'), (u'valley', '0.66169'), (u'alp', '0.87930'), (u'valley', '0.06633'), (u'mountain tent', '0.03346'), (u'promontory', '0.00645'), (u'cliff', '0.00338')]
+b=photographersdirectory
+
+p=145671371249
+caffe=[(u'maze', '0.67455'), (u'system', '0.50099'), (u'dog', '0.36181'), (u'domestic animal', '0.33380'), (u'canine', '0.32538'), (u'maze', '0.22595'), (u'knot', '0.06145'), (u'chainlink fence', '0.02606'), (u'fountain', '0.02530'), (u'French bulldog', '0.01905')]
+b=photographersdirectory
+
+p=145647105435
+caffe=[(u'musical instrument', '0.52192'), (u'wind instrument', '0.46194'), (u'clothing', '0.39156'), (u'covering', '0.37475'), (u'consumer goods', '0.36504'), (u'bow tie', '0.13050'), (u'sax', '0.10658'), (u'harmonica', '0.09152'), (u'microphone', '0.07425'), (u'feather boa', '0.02853')]
+b=photographersdirectory
+
+p=145644577432
+caffe=[(u'pay-phone', '0.76413'), (u'telephone', '0.63727'), (u'electronic equipment', '0.50910'), (u'equipment', '0.41707'), (u'structure', '0.38384'), (u'pay-phone', '0.34926'), (u'turnstile', '0.08550'), (u'cash machine', '0.07224'), (u'traffic light', '0.06759'), (u'parking meter', '0.05214')]
+b=photographersdirectory
+
+p=145641788275
+caffe=[(u'rapeseed', '4.88931'), (u'oilseed', '4.81749'), (u'seed', '3.97909'), (u'fruit', '2.77611'), (u'reproductive structure', '2.69974'), (u'rapeseed', '0.87754'), (u'corn', '0.05227'), (u'ear', '0.02020'), (u'daisy', '0.01002'), (u'plastic bag', '0.00354')]
+b=photographersdirectory
+
+p=145588751182
+caffe=[(u'beacon', '0.95584'), (u'tower', '0.94180'), (u'drilling platform', '0.77175'), (u'drill rig', '0.76041'), (u'rig', '0.74907'), (u'beacon', '0.27337'), (u'drilling platform', '0.18853'), (u'missile', '0.10714'), (u'obelisk', '0.04888'), (u'submarine', '0.04695')]
+b=photographersdirectory
+
+p=145587991570
+caffe=[(u'spider web', '0.50858'), (u'web', '0.50111'), (u'trap', '0.44474'), (u'radio telescope', '0.34524'), (u'astronomical telescope', '0.34017'), (u'spider web', '0.18585'), (u'bubble', '0.11545'), (u'radio telescope', '0.09330'), (u'window screen', '0.04086'), (u'American alligator', '0.03831')]
+b=photographersdirectory
+
+p=145355232179
+caffe=[(u'covering', '0.28165'), (u'musical instrument', '0.27314'), (u'device', '0.24342'), (u'punching bag', '0.23383'), (u'consumer goods', '0.23342'), (u'punching bag', '0.24884'), (u'chain', '0.07622'), (u'crutch', '0.05444'), (u'groom', '0.04321'), (u'chime', '0.03706')]
+b=photographersdirectory
+
+p=145353215576
+caffe=[(u'structure', '0.39758'), (u'column', '0.33622'), (u'obelisk', '0.33473'), (u'bird', '0.23449'), (u'wading bird', '0.18467'), (u'obelisk', '0.08662'), (u'spider web', '0.06569'), (u'fountain', '0.06281'), (u'birdhouse', '0.05032'), (u'park bench', '0.04119')]
+b=photographersdirectory
+
+p=145351453679
+caffe=[(u'geological formation', '1.16390'), (u'breakwater', '0.74560'), (u'natural elevation', '0.72945'), (u'barrier', '0.59440'), (u'obstruction', '0.58026'), (u'breakwater', '0.44409'), (u'promontory', '0.15505'), (u'alp', '0.05580'), (u'wreck', '0.05064'), (u'seashore', '0.03943')]
+b=photographersdirectory
+
+p=145349942354
+caffe=[(u'covering', '0.50680'), (u'clothing', '0.40500'), (u'mask', '0.38119'), (u'consumer goods', '0.37385'), (u'ski mask', '0.36759'), (u'ski mask', '0.18425'), (u'mask', '0.06656'), (u'microphone', '0.04342'), (u'sunglasses', '0.04260'), (u'abaya', '0.03983')]
+b=photographersdirectory
+
+p=145318658572
+caffe=[(u'lipstick', '0.91410'), (u'makeup', '0.89803'), (u'cosmetic', '0.88310'), (u'toiletry', '0.81463'), (u'covering', '0.36345'), (u'lipstick', '0.47316'), (u'feather boa', '0.08930'), (u'mask', '0.06864'), (u'ice lolly', '0.03443'), (u'wig', '0.02558')]
+b=photographersdirectory
+
+p=145285864170
+caffe=[(u'musical instrument', '0.34626'), (u'wind instrument', '0.28260'), (u'device', '0.25679'), (u'covering', '0.23278'), (u'consumer goods', '0.18059'), (u'accordion', '0.06727'), (u'gasmask', '0.05036'), (u'sax', '0.03009'), (u'scuba diver', '0.02963'), (u'paintbrush', '0.02572')]
+b=dontleavemehere-alone
+
+p=122808729857
+caffe=[(u'structure', '0.86815'), (u'fence', '0.56231'), (u'megalith', '0.51523'), (u'barrier', '0.50338'), (u'obstruction', '0.49140'), (u'stone wall', '0.18692'), (u'megalith', '0.11993'), (u'obelisk', '0.09978'), (u'maze', '0.07897'), (u'lakeside', '0.06438')]
+b=dontleavemehere-alone
+
+p=122808141952
+caffe=[(u'pillow', '0.46355'), (u'cushion', '0.45674'), (u'padding', '0.44993'), (u'covering', '0.43689'), (u'clothing', '0.42565'), (u'pillow', '0.22575'), (u'pinwheel', '0.08064'), (u'bib', '0.07509'), (u'diaper', '0.05842'), (u'jigsaw puzzle', '0.05238')]
+b=thetickr
+
+p=91870903213
+caffe=[(u'web site', '1.41129'), (u'computer', '1.05644'), (u'machine', '0.88624'), (u'envelope', '0.39296'), (u'device', '0.34787'), (u'envelope', '0.46756'), (u'web site', '0.34698'), (u'menu', '0.04663'), (u'binder', '0.02999'), (u'refrigerator', '0.01601')]
+b=thetickr
+
+p=91870903213
+caffe=[(u'menu', '1.79479'), (u'fare', '1.76843'), (u'food', '0.78837'), (u'substance', '0.75542'), (u'web site', '0.70157'), (u'menu', '0.54161'), (u'web site', '0.14977'), (u'envelope', '0.04820'), (u'rule', '0.02337'), (u'slide rule', '0.02220')]
+b=thetickr
+
+p=82233674711
+caffe=[(u'ball', '1.35658'), (u'game equipment', '1.22142'), (u'croquet ball', '1.16817'), (u'croquet equipment', '1.15101'), (u'sports equipment', '0.98288'), (u'croquet ball', '0.45482'), (u'soccer ball', '0.13284'), (u'racket', '0.10430'), (u'golf ball', '0.03710'), (u'maze', '0.03404')]
+b=thetickr
+
+p=81397406378
+caffe=[(u'web site', '0.97231'), (u'computer', '0.74192'), (u'machine', '0.62450'), (u'envelope', '0.47308'), (u'container', '0.33031'), (u'envelope', '0.59182'), (u'web site', '0.23391'), (u'binder', '0.02006'), (u'rule', '0.01628'), (u'analog clock', '0.00740')]
+b=thetickr
+
+p=80182667998
+caffe=[(u'ball', '0.67404'), (u'game equipment', '0.61388'), (u'sports equipment', '0.55857'), (u'equipment', '0.55732'), (u'basketball', '0.50801'), (u'basketball', '0.15087'), (u'volleyball', '0.06046'), (u'balance beam', '0.02868'), (u'maillot', '0.02535'), (u'maraca', '0.02529')]
+b=thetickr
+
+p=80119242604
+caffe=[(u'bag', '0.57441'), (u'covering', '0.46881'), (u'clothing', '0.44832'), (u'consumer goods', '0.44296'), (u'backpack', '0.43034'), (u'backpack', '0.37967'), (u'purse', '0.09682'), (u'mailbag', '0.06171'), (u'crash helmet', '0.06041'), (u'bib', '0.03803')]
+b=thetickr
+
+p=79818392217
+caffe=[(u'menu', '0.75319'), (u'fare', '0.74212'), (u'scoreboard', '0.63875'), (u'signboard', '0.62936'), (u'board', '0.62936'), (u'menu', '0.22160'), (u'scoreboard', '0.20116'), (u'digital clock', '0.16488'), (u'web site', '0.11795'), (u'cellular telephone', '0.03037')]
+b=thetickr
+
+p=77405602059
+caffe=[(u'puck', '2.40257'), (u'disk', '2.36728'), (u'plate', '2.33198'), (u'circle', '2.33198'), (u'rotating mechanism', '2.29669'), (u'puck', '0.76038'), (u'flagpole', '0.04656'), (u'pinwheel', '0.04591'), (u'parachute', '0.03543'), (u'ski', '0.02882')]
+b=thetickr
+
+p=77405602059
+caffe=[(u'puck', '0.61763'), (u'disk', '0.60856'), (u'plate', '0.59949'), (u'circle', '0.59949'), (u'rotating mechanism', '0.59042'), (u'puck', '0.19388'), (u"carpenter's kit", '0.05286'), (u'wall clock', '0.03991'), (u'abacus', '0.03673'), (u'envelope', '0.02579')]
+b=thetickr
+
+p=77404921765
+caffe=[(u'toiletry', '0.38211'), (u'makeup', '0.32825'), (u'cosmetic', '0.32279'), (u'lipstick', '0.30112'), (u'device', '0.28269'), (u'lipstick', '0.14438'), (u'screw', '0.07209'), (u'rubber eraser', '0.04586'), (u'nipple', '0.04355'), (u"carpenter's kit", '0.04094')]
+b=thetickr
+
+p=76342825023
+caffe=[(u'vessel', '0.38364'), (u'bottle', '0.36827'), (u'container', '0.34843'), (u'toiletry', '0.29223'), (u'covering', '0.25208'), (u'pop bottle', '0.07892'), (u'sunscreen', '0.06680'), (u'saltshaker', '0.05396'), (u'lotion', '0.03850'), (u'pill bottle', '0.03377')]
+b=thetickr
+
+p=76342825023
+caffe=[(u'clothing', '0.37035'), (u'covering', '0.35449'), (u'consumer goods', '0.35238'), (u'commodity', '0.33602'), (u'garment', '0.28916'), (u'bow tie', '0.10669'), (u'stethoscope', '0.04555'), (u'drumstick', '0.03690'), (u'flute', '0.02990'), (u'jersey', '0.02859')]
+b=thetickr
+
+p=73865596345
+caffe=[(u'streetcar', '0.42388'), (u'container', '0.35185'), (u'conveyance', '0.35104'), (u'wheeled vehicle', '0.34553'), (u'vehicle', '0.33149'), (u'streetcar', '0.13987'), (u'banjo', '0.08010'), (u'coil', '0.05141'), (u'bannister', '0.04335'), (u'restaurant', '0.02831')]
+b=thetickr
+
+p=73521881899
+caffe=[(u'menu', '1.54169'), (u'fare', '1.51904'), (u'food', '0.69527'), (u'substance', '0.66802'), (u'matter', '0.50965'), (u'menu', '0.47690'), (u'rule', '0.10231'), (u'ballpoint', '0.07331'), (u'measuring cup', '0.07314'), (u'lotion', '0.03241')]
+b=thetickr
+
+p=72785558749
+caffe=[(u'garment', '1.21530'), (u'clothing', '1.16888'), (u'consumer goods', '1.02449'), (u'jersey', '0.97884'), (u'commodity', '0.97253'), (u'jersey', '0.57696'), (u'sweatshirt', '0.41363'), (u'abaya', '0.00470'), (u'velvet', '0.00117'), (u'mask', '0.00046')]
+b=thetickr
+
+p=72785558749
+caffe=[(u'garment', '1.20680'), (u'clothing', '1.17511'), (u'consumer goods', '1.02853'), (u'sweatshirt', '1.01400'), (u'pullover', '0.99910'), (u'sweatshirt', '0.60039'), (u'jersey', '0.33066'), (u'abaya', '0.01326'), (u'velvet', '0.01106'), (u'bathing cap', '0.00989')]
+b=thetickr
+
+p=72785558749
+caffe=[(u'device', '0.34040'), (u'revolver', '0.33760'), (u'pistol', '0.33265'), (u'covering', '0.31542'), (u'firearm', '0.29857'), (u'buckle', '0.26829'), (u'revolver', '0.14855'), (u'typewriter keyboard', '0.06240'), (u'shield', '0.05137'), (u'padlock', '0.04419')]
+b=thetickr
+
+p=72770117114
+caffe=[(u'clothing', '0.51922'), (u'covering', '0.48506'), (u'consumer goods', '0.46996'), (u'commodity', '0.44704'), (u'garment', '0.37842'), (u'neck brace', '0.08923'), (u'gondola', '0.04773'), (u'military uniform', '0.04435'), (u'book jacket', '0.04337'), (u'fur coat', '0.03187')]
+b=thetickr
+
+p=72512289991
+caffe=[(u'lycaenid', '2.79909'), (u'butterfly', '2.28358'), (u'lepidopterous insect', '2.23616'), (u'insect', '1.65076'), (u'arthropod', '1.33002'), (u'lycaenid', '0.65917'), (u'golf ball', '0.17461'), (u'mushroom', '0.03627'), (u'radio telescope', '0.01118'), (u'ringlet', '0.00898')]
+b=thetickr
+
+p=72246882542
+caffe=[(u'book jacket', '0.42057'), (u'jacket', '0.41440'), (u'wrapping', '0.40822'), (u'measuring instrument', '0.34951'), (u'timepiece', '0.30294'), (u'book jacket', '0.31313'), (u'analog clock', '0.04253'), (u'typewriter keyboard', '0.03763'), (u'digital watch', '0.03475'), (u'scoreboard', '0.03321')]
+b=Runwaysass
+
+p=145982092842
+caffe=[(u'pillow', '0.80339'), (u'cushion', '0.79159'), (u'padding', '0.77979'), (u'covering', '0.39803'), (u'fabric', '0.34501'), (u'pillow', '0.40339'), (u'wallet', '0.10372'), (u'purse', '0.07600'), (u'chest', '0.05848'), (u'dishrag', '0.03936')]
+b=Runwaysass
+
+p=145966238891
+caffe=[(u'garment', '0.92269'), (u'clothing', '0.91888'), (u'consumer goods', '0.83031'), (u'commodity', '0.78929'), (u'covering', '0.74989'), (u'lab coat', '0.26199'), (u'bow tie', '0.20013'), (u'stethoscope', '0.09388'), (u'neck brace', '0.08530'), (u'suit', '0.04829')]
+b=Runwaysass
+
+p=145965584832
+caffe=[(u'clothing', '0.62032'), (u'covering', '0.57368'), (u'consumer goods', '0.56512'), (u'garment', '0.54278'), (u'commodity', '0.53755'), (u'oboe', '0.10099'), (u'harmonica', '0.06320'), (u'fur coat', '0.05371'), (u'microphone', '0.05086'), (u'trench coat', '0.03788')]
+b=Runwaysass
+
+p=145915174771
+caffe=[(u'clothing', '0.92840'), (u'consumer goods', '0.82152'), (u'garment', '0.81349'), (u'covering', '0.79476'), (u'commodity', '0.78041'), (u'cloak', '0.12189'), (u'trench coat', '0.12024'), (u'fur coat', '0.11205'), (u'flute', '0.05232'), (u'gown', '0.04602')]
+b=Runwaysass
+
+p=145911124482
+caffe=[(u'Sennenhunde', '1.34171'), (u'working dog', '1.14872'), (u'dog', '1.11502'), (u'domestic animal', '1.01754'), (u'canine', '0.98327'), (u'Appenzeller', '0.15595'), (u'Greater Swiss Mountain dog', '0.11670'), (u'Bernese mountain dog', '0.09601'), (u'Boston bull', '0.05339'), (u'English springer', '0.03775')]
+b=Runwaysass
+
+p=145863201636
+caffe=[(u'clothing', '0.59926'), (u'consumer goods', '0.54804'), (u'commodity', '0.52353'), (u'covering', '0.51656'), (u'garment', '0.44014'), (u'groom', '0.12526'), (u'bow tie', '0.11080'), (u'hair spray', '0.10844'), (u'seat belt', '0.07298'), (u'sunglass', '0.06742')]
+b=Runwaysass
+
+p=145853033622
+caffe=[(u'clothing', '0.93638'), (u'garment', '0.87203'), (u'consumer goods', '0.83590'), (u'commodity', '0.79579'), (u'covering', '0.77031'), (u'cardigan', '0.11551'), (u'bow tie', '0.11251'), (u'trench coat', '0.09378'), (u'pajama', '0.09174'), (u'marimba', '0.07147')]
+b=Runwaysass
+
+p=145853031332
+caffe=[(u'chain mail', '2.39661'), (u'body armor', '2.00970'), (u'armor', '1.87649'), (u'protective covering', '1.14638'), (u'covering', '1.02648'), (u'chain mail', '0.78233'), (u'cardigan', '0.11232'), (u'suit', '0.03168'), (u'poncho', '0.01982'), (u'stole', '0.01864')]
+b=Runwaysass
+
+p=145825779597
+caffe=[(u'garment', '1.22712'), (u'clothing', '1.19273'), (u'consumer goods', '1.04385'), (u'commodity', '0.99217'), (u'covering', '0.97365'), (u'trench coat', '0.24262'), (u'cardigan', '0.19415'), (u'bow tie', '0.07532'), (u'stole', '0.06825'), (u'fur coat', '0.05880')]
+b=Runwaysass
+
+p=145825775882
+caffe=[(u'clothing', '0.52098'), (u'covering', '0.50430'), (u'consumer goods', '0.48503'), (u'commodity', '0.46141'), (u'garment', '0.40176'), (u'maillot', '0.03932'), (u'cowboy boot', '0.03297'), (u'vestment', '0.02475'), (u'backpack', '0.02381'), (u'gown', '0.02352')]
+b=Runwaysass
+
+p=145811638872
+caffe=[(u'clothing', '0.71396'), (u'covering', '0.63821'), (u'consumer goods', '0.63506'), (u'commodity', '0.60962'), (u'attire', '0.46268'), (u'mask', '0.36814'), (u'bonnet', '0.13737'), (u'wig', '0.13699'), (u'bow tie', '0.04309'), (u'cowboy hat', '0.04067')]
+b=Runwaysass
+
+p=145811086872
+caffe=[(u'clothing', '0.81293'), (u'garment', '0.79384'), (u'covering', '0.73843'), (u'consumer goods', '0.71632'), (u'commodity', '0.68360'), (u'cardigan', '0.17687'), (u'flute', '0.10985'), (u'stole', '0.09774'), (u'poncho', '0.08890'), (u'chain mail', '0.07337')]
+b=Runwaysass
+
+p=145810807407
+caffe=[(u'chain mail', '1.76472'), (u'body armor', '1.50472'), (u'armor', '1.40734'), (u'covering', '0.92359'), (u'protective covering', '0.89668'), (u'chain mail', '0.57883'), (u'suit', '0.15884'), (u'bow tie', '0.06414'), (u'microphone', '0.03525'), (u'neck brace', '0.01227')]
+b=Runwaysass
+
+p=145810042572
+caffe=[(u'clothing', '1.25460'), (u'garment', '1.23189'), (u'consumer goods', '1.10185'), (u'commodity', '1.04421'), (u'covering', '0.99926'), (u'suit', '0.42849'), (u'Windsor tie', '0.11633'), (u'bow tie', '0.07481'), (u'lab coat', '0.05976'), (u'vestment', '0.05974')]
+b=Runwaysass
+
+p=145809454126
+caffe=[(u'clothing', '1.16725'), (u'garment', '1.13481'), (u'consumer goods', '1.02645'), (u'commodity', '0.97499'), (u'covering', '0.94870'), (u'trench coat', '0.37715'), (u'gown', '0.08631'), (u'bow tie', '0.05503'), (u'stole', '0.04417'), (u'sunglasses', '0.03217')]
+b=Runwaysass
+
+p=145780115447
+caffe=[(u'musical instrument', '0.54444'), (u'wind instrument', '0.52391'), (u'woodwind', '0.36685'), (u'covering', '0.35249'), (u'device', '0.35231'), (u'microphone', '0.12963'), (u'sax', '0.07721'), (u'mask', '0.07255'), (u'bassoon', '0.05168'), (u'chain mail', '0.04430')]
+b=Runwaysass
+
+p=145779927402
+caffe=[(u'garment', '1.10229'), (u'clothing', '1.08046'), (u'consumer goods', '0.95742'), (u'commodity', '0.90934'), (u'covering', '0.87367'), (u'lab coat', '0.19147'), (u'trench coat', '0.18384'), (u'bow tie', '0.12601'), (u'suit', '0.06475'), (u'Windsor tie', '0.04163')]
+b=Runwaysass
+
+p=145779703937
+caffe=[(u'coat', '1.30469'), (u'overgarment', '1.26788'), (u'garment', '1.23666'), (u'fur coat', '1.16560'), (u'clothing', '1.13386'), (u'fur coat', '0.53099'), (u'trench coat', '0.17664'), (u'cloak', '0.09772'), (u'suit', '0.05085'), (u'sarong', '0.01650')]
+b=Runwaysass
+
+p=145779703937
+caffe=[(u'coat', '1.54345'), (u'garment', '1.53339'), (u'overgarment', '1.49798'), (u'trench coat', '1.47534'), (u'raincoat', '1.45367'), (u'trench coat', '0.71997'), (u'fur coat', '0.07368'), (u'kimono', '0.02830'), (u'cloak', '0.02692'), (u'lab coat', '0.02229')]
+b=Runwaysass
+
+p=145779439027
+caffe=[(u'clothing', '1.23529'), (u'garment', '1.16214'), (u'consumer goods', '1.08471'), (u'commodity', '1.03123'), (u'covering', '0.96648'), (u'kimono', '0.32531'), (u'lab coat', '0.18733'), (u'pajama', '0.16041'), (u'trench coat', '0.04936'), (u'fur coat', '0.04287')]
+b=disneysnigel
+
+p=31912510599
+caffe=[(u'mercantile establishment', '0.41807'), (u'place of business', '0.40859'), (u'establishment', '0.39171'), (u'shop', '0.39170'), (u'structure', '0.31386'), (u'maraca', '0.10591'), (u'toyshop', '0.09660'), (u'comic book', '0.08461'), (u'confectionery', '0.08029'), (u'balloon', '0.06224')]
+b=disneysnigel
+
+p=31143519818
+caffe=[(u'covering', '0.48819'), (u'clothing', '0.42963'), (u'consumer goods', '0.39391'), (u'commodity', '0.39223'), (u'garment', '0.28813'), (u'quilt', '0.15655'), (u'sleeping bag', '0.08925'), (u'shower cap', '0.07201'), (u'stingray', '0.04644'), (u'pajama', '0.04190')]
+b=disneysnigel
+
+p=30237064256
+caffe=[(u'clothing', '0.62437'), (u'covering', '0.57994'), (u'consumer goods', '0.56063'), (u'commodity', '0.54016'), (u'headdress', '0.35455'), (u'bonnet', '0.23819'), (u'mask', '0.05050'), (u'ski mask', '0.04077'), (u'bow tie', '0.02989'), (u'neck brace', '0.02684')]
+b=disneysnigel
+
+p=26253696850
+caffe=[(u'sports equipment', '0.33641'), (u'equipment', '0.33189'), (u'ball', '0.33098'), (u'ballplayer', '0.30723'), (u'game equipment', '0.30585'), (u'ballplayer', '0.10047'), (u'balance beam', '0.05726'), (u'racket', '0.03567'), (u'house finch', '0.03553'), (u'baseball', '0.03528')]
+b=disneysnigel
+
+p=21213999789
+caffe=[(u'clothing', '0.43652'), (u'covering', '0.43629'), (u'consumer goods', '0.40210'), (u'commodity', '0.38310'), (u'garment', '0.32094'), (u'coho', '0.08419'), (u'unicycle', '0.06705'), (u'plunger', '0.05277'), (u'ice lolly', '0.03842'), (u'cowboy boot', '0.03705')]
+b=disneysnigel
+
+p=20288691599
+caffe=[(u'clothing', '0.89595'), (u'consumer goods', '0.78897'), (u'covering', '0.77164'), (u'commodity', '0.76031'), (u'garment', '0.67533'), (u'wig', '0.25602'), (u'cardigan', '0.08593'), (u'lipstick', '0.08305'), (u'poncho', '0.07355'), (u'fur coat', '0.06176')]
+b=disneysnigel
+
+p=19487660412
+caffe=[(u'decapod crustacean', '0.41839'), (u'crustacean', '0.40450'), (u'arthropod', '0.39018'), (u'invertebrate', '0.36667'), (u'lobster', '0.22682'), (u'American lobster', '0.06536'), (u'parachute', '0.05980'), (u'Arabian camel', '0.05786'), (u'king crab', '0.04047'), (u'hip', '0.02888')]
+b=disneysnigel
+
+p=16810686353
+caffe=[(u'mountain tent', '0.56991'), (u'tent', '0.56154'), (u'shelter', '0.55317'), (u'covering', '0.29610'), (u'clothing', '0.27563'), (u'mountain tent', '0.15203'), (u'soccer ball', '0.03775'), (u'ballplayer', '0.03450'), (u'umbrella', '0.03194'), (u'racket', '0.03011')]
+b=disneysnigel
+
+p=16810541554
+caffe=[(u'clothing', '0.64314'), (u'consumer goods', '0.58089'), (u'covering', '0.57615'), (u'commodity', '0.55091'), (u'garment', '0.50059'), (u'maillot', '0.09024'), (u'comic book', '0.07051'), (u'stage', '0.06769'), (u'microphone', '0.04751'), (u'maraca', '0.04597')]
+b=disneysnigel
+
+p=16810531217
+caffe=[(u'pinwheel', '0.66758'), (u'wheel', '0.53215'), (u'machine', '0.52215'), (u'mechanical device', '0.46758'), (u'clothing', '0.45789'), (u'pinwheel', '0.34481'), (u'bathing cap', '0.17163'), (u'volleyball', '0.12411'), (u'whistle', '0.09352'), (u'balloon', '0.02247')]
+b=disneysnigel
+
+p=16810469202
+caffe=[(u'clothing', '0.53035'), (u'covering', '0.52309'), (u'consumer goods', '0.48093'), (u'commodity', '0.45960'), (u'garment', '0.31404'), (u'bathing cap', '0.10841'), (u'maraca', '0.10634'), (u'ski mask', '0.09593'), (u'stage', '0.09189'), (u'wig', '0.05403')]
+b=disneysnigel
+
+p=16810127279
+caffe=[(u'basketball', '1.53834'), (u'basketball equipment', '1.51574'), (u'ball', '1.27647'), (u'game equipment', '1.14993'), (u'sports equipment', '1.13531'), (u'basketball', '0.49899'), (u'maillot', '0.05211'), (u'ballplayer', '0.03994'), (u'brassiere', '0.02400'), (u'bikini', '0.02162')]
+b=disneysnigel
+
+p=16810078148
+caffe=[(u'covering', '0.56730'), (u'clothing', '0.49169'), (u'consumer goods', '0.45983'), (u'commodity', '0.44224'), (u'garment', '0.37621'), (u'neck brace', '0.13384'), (u'theater curtain', '0.10951'), (u'ski mask', '0.04817'), (u'abaya', '0.04614'), (u'hoopskirt', '0.02369')]
+b=disneysnigel
+
+p=16810061281
+caffe=[(u'clothing', '0.42396'), (u'consumer goods', '0.39282'), (u'covering', '0.38836'), (u'commodity', '0.37668'), (u'garment', '0.32331'), (u'sunscreen', '0.07089'), (u'military uniform', '0.04192'), (u'seat belt', '0.03054'), (u'bikini', '0.02672'), (u'sandbar', '0.02535')]
+b=kicktv
+
+p=145859568983
+caffe=[(u'measuring instrument', '0.36192'), (u'covering', '0.34393'), (u'timepiece', '0.33670'), (u'instrument', '0.29418'), (u'clothing', '0.26827'), (u'jersey', '0.13503'), (u'envelope', '0.11919'), (u'digital clock', '0.09759'), (u'book jacket', '0.09000'), (u'stopwatch', '0.05286')]
+b=kicktv
+
+p=145802035608
+caffe=[(u'place of worship', '1.00169'), (u'mosque', '0.99229'), (u'building', '0.83832'), (u'structure', '0.68051'), (u'drilling platform', '0.43363'), (u'mosque', '0.26226'), (u'drilling platform', '0.10792'), (u'oxygen mask', '0.07819'), (u'dome', '0.06046'), (u'gasmask', '0.04416')]
+b=kicktv
+
+p=145766422173
+caffe=[(u'measuring instrument', '0.54135'), (u'timepiece', '0.50721'), (u'clock', '0.47773'), (u'instrument', '0.43099'), (u'device', '0.33392'), (u'envelope', '0.14930'), (u'jersey', '0.12595'), (u'analog clock', '0.11933'), (u'pick', '0.08558'), (u'wall clock', '0.08509')]
+b=kicktv
+
+p=145722785683
+caffe=[(u'odometer', '1.08982'), (u'meter', '1.07381'), (u'measuring instrument', '0.95699'), (u'street sign', '0.81480'), (u'sign', '0.80283'), (u'street sign', '0.40832'), (u'odometer', '0.24860'), (u'gas pump', '0.05973'), (u'stopwatch', '0.04746'), (u'analog clock', '0.03915')]
+b=kicktv
+
+p=145720781798
+caffe=[(u'self-propelled vehicle', '0.82016'), (u'motor vehicle', '0.80766'), (u'wheeled vehicle', '0.75143'), (u'car', '0.69599'), (u'conveyance', '0.63667'), (u'limousine', '0.13548'), (u'Polaroid camera', '0.11467'), (u'gas pump', '0.06509'), (u'minibus', '0.05829'), (u'Model T', '0.03767')]
+b=kicktv
+
+p=145069915683
+caffe=[(u'musical instrument', '0.30385'), (u'covering', '0.28895'), (u'device', '0.27751'), (u'clothing', '0.26475'), (u'consumer goods', '0.26296'), (u'chime', '0.03963'), (u'carousel', '0.03549'), (u'basketball', '0.02594'), (u'pop bottle', '0.01888'), (u'cornet', '0.01823')]
+b=kicktv
+
+p=145066124873
+caffe=[(u'carousel', '0.32249'), (u'ride', '0.31775'), (u'covering', '0.31016'), (u'clothing', '0.29271'), (u'consumer goods', '0.28600'), (u'carousel', '0.11607'), (u'ice lolly', '0.05241'), (u'football helmet', '0.05175'), (u'comic book', '0.02697'), (u'nipple', '0.01978')]
+b=kicktv
+
+p=143857370303
+caffe=[(u'device', '0.27039'), (u'covering', '0.25955'), (u'equipment', '0.22704'), (u'consumer goods', '0.22477'), (u'clothing', '0.22199'), (u'combination lock', '0.05055'), (u'jersey', '0.04504'), (u'barbell', '0.04118'), (u'scoreboard', '0.03287'), (u'stopwatch', '0.02923')]
+b=kicktv
+
+p=143379385698
+caffe=[(u'device', '0.33853'), (u'implement', '0.31833'), (u'musical instrument', '0.31542'), (u'radiator', '0.30366'), (u'matchstick', '0.28047'), (u'radiator', '0.17308'), (u'matchstick', '0.16736'), (u'rule', '0.06168'), (u'organ', '0.05920'), (u'drumstick', '0.04931')]
+b=kicktv
+
+p=143016367983
+caffe=[(u'slot', '1.73771'), (u'slot machine', '1.70092'), (u'machine', '1.06989'), (u'mercantile establishment', '0.47930'), (u'place of business', '0.46843'), (u'slot', '0.46193'), (u'comic book', '0.19794'), (u'toyshop', '0.05361'), (u'tobacco shop', '0.03671'), (u'confectionery', '0.01992')]
+b=kicktv
+
+p=142755406778
+caffe=[(u'covering', '0.32280'), (u'container', '0.25440'), (u'clothing', '0.23501'), (u'consumer goods', '0.23364'), (u'device', '0.23215'), (u'envelope', '0.07048'), (u'jersey', '0.04803'), (u'scoreboard', '0.03823'), (u'wall clock', '0.03376'), (u'jigsaw puzzle', '0.02832')]
+b=kicktv
+
+p=142414808658
+caffe=[(u'scoreboard', '1.46010'), (u'board', '1.43865'), (u'signboard', '1.43865'), (u'sheet', '1.25320'), (u'structure', '0.72153'), (u'scoreboard', '0.47163'), (u'book jacket', '0.11536'), (u'unicycle', '0.03229'), (u'electric guitar', '0.02515'), (u'digital clock', '0.02446')]
+b=kicktv
+
+p=142130226133
+caffe=[(u'football helmet', '1.00200'), (u'helmet', '0.91291'), (u'headdress', '0.71444'), (u'scoreboard', '0.49840'), (u'board', '0.49107'), (u'football helmet', '0.38414'), (u'scoreboard', '0.15641'), (u'ballplayer', '0.11735'), (u'malamute', '0.02735'), (u'torch', '0.01708')]
+b=kicktv
+
+p=141109123218
+caffe=[(u'covering', '0.26906'), (u'container', '0.25593'), (u'implement', '0.21608'), (u'street sign', '0.18933'), (u'sign', '0.18655'), (u'rubber eraser', '0.10613'), (u'street sign', '0.08828'), (u'packet', '0.08451'), (u'envelope', '0.07692'), (u'book jacket', '0.04301')]
+b=kicktv
+
+p=139919172198
+caffe=[(u'bib', '0.44228'), (u'jigsaw puzzle', '0.40439'), (u'piece of cloth', '0.40070'), (u'piece', '0.39268'), (u'fabric', '0.38875'), (u'bib', '0.26804'), (u'jigsaw puzzle', '0.18284'), (u'radio telescope', '0.09686'), (u'jellyfish', '0.08737'), (u'bubble', '0.05346')]
+b=kicktv
+
+p=139120412213
+caffe=[(u'covering', '0.43625'), (u'clothing', '0.35325'), (u'consumer goods', '0.33068'), (u'commodity', '0.31569'), (u'container', '0.26700'), (u'shield', '0.15311'), (u'ocarina', '0.04066'), (u'puck', '0.03882'), (u'bib', '0.03706'), (u'mailbag', '0.03543')]
+b=kicktv
+
+p=138349637473
+caffe=[(u'theater curtain', '2.24844'), (u'curtain', '2.00108'), (u'blind', '1.84825'), (u'furnishing', '1.18944'), (u'protective covering', '1.11319'), (u'theater curtain', '0.70528'), (u'organ', '0.03602'), (u'apron', '0.02942'), (u'vestment', '0.01181'), (u'throne', '0.00916')]
+b=kicktv
+
+p=138156454618
+caffe=[(u'clothing', '0.39651'), (u'covering', '0.39108'), (u'consumer goods', '0.36550'), (u'commodity', '0.34893'), (u'headdress', '0.28266'), (u'bathing cap', '0.14957'), (u'water bottle', '0.05396'), (u'gorilla', '0.04569'), (u'pop bottle', '0.04032'), (u'shower cap', '0.03667')]
+b=kicktv
+
+p=138110775523
+caffe=[(u'book jacket', '0.51634'), (u'jacket', '0.50876'), (u'wrapping', '0.50117'), (u'covering', '0.37087'), (u'container', '0.21488'), (u'book jacket', '0.38144'), (u'thimble', '0.03812'), (u'analog clock', '0.02879'), (u'safety pin', '0.02810'), (u'jellyfish', '0.02204')]
+b=kicktv
+
+p=137101861398
+caffe=[(u'measuring instrument', '0.39736'), (u'timepiece', '0.37181'), (u'instrument', '0.32050'), (u'covering', '0.29782'), (u'clock', '0.29646'), (u'book jacket', '0.19907'), (u'digital clock', '0.18964'), (u'jersey', '0.04665'), (u'street sign', '0.03181'), (u'scoreboard', '0.02255')]
+b=matte-and-sequins
+
+p=145985531563
+caffe=[(u'pot', '0.78956'), (u'container', '0.38254'), (u'structure', '0.32808'), (u'clothing', '0.28611'), (u'covering', '0.27823'), (u'pot', '0.41258'), (u'feather boa', '0.11363'), (u'groom', '0.09679'), (u'picket fence', '0.03707'), (u'milk can', '0.03676')]
+b=matte-and-sequins
+
+p=145985376753
+caffe=[(u'clothing', '1.10465'), (u'garment', '1.07252'), (u'consumer goods', '0.96770'), (u'covering', '0.93957'), (u'commodity', '0.92411'), (u'jean', '0.15404'), (u'stole', '0.14747'), (u'cloak', '0.11423'), (u'velvet', '0.07804'), (u'overskirt', '0.07576')]
+b=matte-and-sequins
+
+p=145937785978
+caffe=[(u'garment', '1.08713'), (u'clothing', '1.04224'), (u'jean', '1.01896'), (u'workwear', '1.00400'), (u'trouser', '1.00400'), (u'jean', '0.46229'), (u'suit', '0.10140'), (u'dumbbell', '0.06441'), (u'bow tie', '0.03485'), (u'gown', '0.02573')]
+b=matte-and-sequins
+
+p=145937728983
+caffe=[(u'consumer goods', '0.26549'), (u'container', '0.26519'), (u'covering', '0.26471'), (u'furnishing', '0.26453'), (u'commodity', '0.25627'), (u'toilet tissue', '0.10771'), (u'shower curtain', '0.04362'), (u'bassinet', '0.03503'), (u'toilet seat', '0.03092'), (u'tub', '0.03012')]
+b=matte-and-sequins
+
+p=145937702183
+caffe=[(u'clothing', '0.38873'), (u'consumer goods', '0.35834'), (u'covering', '0.35644'), (u'commodity', '0.34098'), (u'garment', '0.32004'), (u'torch', '0.03037'), (u'beer glass', '0.02265'), (u'lab coat', '0.02088'), (u'poncho', '0.02027'), (u'miniskirt', '0.01788')]
+b=matte-and-sequins
+
+p=145937684228
+caffe=[(u'garment', '1.02347'), (u'clothing', '0.96329'), (u'consumer goods', '0.86033'), (u'commodity', '0.82026'), (u'covering', '0.80616'), (u'lab coat', '0.20704'), (u'sweatshirt', '0.14311'), (u'trench coat', '0.10304'), (u'jean', '0.08221'), (u'fur coat', '0.03777')]
+b=matte-and-sequins
+
+p=145937651658
+caffe=[(u'menu', '2.28008'), (u'fare', '2.24658'), (u'food', '0.99629'), (u'substance', '0.95170'), (u'matter', '0.72265'), (u'menu', '0.70154'), (u'envelope', '0.10474'), (u'book jacket', '0.08329'), (u'packet', '0.03663'), (u'web site', '0.01349')]
+b=matte-and-sequins
+
+p=145937549068
+caffe=[(u'structure', '0.48133'), (u'grille', '0.42687'), (u'grate', '0.42060'), (u'motor vehicle', '0.38268'), (u'barrier', '0.37444'), (u'grille', '0.20538'), (u'coil', '0.14851'), (u'car wheel', '0.06711'), (u'steel arch bridge', '0.05011'), (u'knot', '0.03684')]
+b=matte-and-sequins
+
+p=145937504798
+caffe=[(u'clothing', '0.49759'), (u'covering', '0.46013'), (u'consumer goods', '0.45737'), (u'commodity', '0.44342'), (u'container', '0.27898'), (u'shower cap', '0.11219'), (u'piggy bank', '0.10431'), (u'pajama', '0.09908'), (u'purse', '0.09497'), (u'diaper', '0.06565')]
+b=matte-and-sequins
+
+p=145937480618
+caffe=[(u'clothing', '0.64690'), (u'covering', '0.58933'), (u'consumer goods', '0.58558'), (u'commodity', '0.55740'), (u'garment', '0.43594'), (u'coil', '0.23291'), (u'sock', '0.10287'), (u'maillot', '0.09008'), (u'Windsor tie', '0.06941'), (u'pajama', '0.05803')]
+b=matte-and-sequins
+
+p=145937450853
+caffe=[(u'clothing', '0.47502'), (u'covering', '0.47170'), (u'consumer goods', '0.43411'), (u'commodity', '0.41364'), (u'garment', '0.36824'), (u'racket', '0.14191'), (u'vase', '0.10630'), (u'punching bag', '0.06179'), (u'miniskirt', '0.05706'), (u'maraca', '0.05679')]
+b=matte-and-sequins
+
+p=145937414583
+caffe=[(u'structure', '0.39929'), (u'furniture', '0.39277'), (u'furnishing', '0.38864'), (u'shoji', '0.24703'), (u'screen', '0.24340'), (u'shoji', '0.07156'), (u'sliding door', '0.05056'), (u'restaurant', '0.04619'), (u'grand piano', '0.03068'), (u'home theater', '0.02815')]
+b=matte-and-sequins
+
+p=145937409978
+caffe=[(u'clothing', '0.51612'), (u'covering', '0.47629'), (u'consumer goods', '0.45711'), (u'garment', '0.43865'), (u'commodity', '0.43567'), (u'suit', '0.08292'), (u'hammerhead', '0.07006'), (u'albatross', '0.05559'), (u'schipperke', '0.04171'), (u'goose', '0.04167')]
+b=matte-and-sequins
+
+p=145937397068
+caffe=[(u'dog', '0.75365'), (u'domestic animal', '0.72055'), (u'canine', '0.67225'), (u'hunting dog', '0.56987'), (u'carnivore', '0.56709'), (u'Lhasa', '0.13959'), (u'Great Pyrenees', '0.05036'), (u'Shih-Tzu', '0.05026'), (u'Persian cat', '0.04303'), (u'Old English sheepdog', '0.03942')]
+b=matte-and-sequins
+
+p=145937361628
