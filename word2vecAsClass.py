@@ -6,9 +6,14 @@ import math
 
 class W2V(object):
 
-    ### numWords: how many words?
-    def __init__(self, ta=None, numWords=200000, topK=10):
+    ### numWords   : vocab size of word2vec
+    ### topK       : how many recommendations
+    ### enablePhoto: use photo to text information or not
+    
+    def __init__(self, ta=None, va=None, enablePhoto=True, numWords=200000, topK=10):
         self.ta = ta
+        self.va = va
+        self.enablePhoto = enablePhoto
         self.model = self.loadWordVecs(numWords)
         self.vecs = self.initialW2VModel()
         self.topK = topK
@@ -43,19 +48,24 @@ class W2V(object):
         postIds = blog.getAllPosts()
         count = 0
         v = np.zeros(300)
+        imageTerms = []
         
         for postId in postIds:
             post = self.ta.getPostById(blog.getName(), postId)
-            tags = post.getTags()
             ### tags ###
-            for tag in tags:
-                if tag in self.model:
-                    v += self.model[tag]
+            tags = post.getTags()
+            ### Image terms ###
+            if self.enablePhoto:
+                imageTerms = self.va.extractTermsFromPhoto(post)
             ### other terms ###
             otherTerms = VA.extractTermsFromPost(post)
-            for term in otherTerms:
+
+            allTerms = tags + imageTerms + otherTerms
+            
+            for term in allTerms:
                 if term in self.model:
                     v += self.model[term]
+
         return v
 
     def initialW2VModel(self):
@@ -89,38 +99,6 @@ class W2V(object):
         dists.sort(key=lambda tup: tup[1], reverse=True)
         
         return dists[1 : self.topK + 1]
-        # for i in range(topK):
-        #     print dists[i][0], dists[i][1]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
