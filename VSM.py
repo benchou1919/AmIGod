@@ -14,8 +14,9 @@ class BlogVSM(object):
 
 class VSM(object):
 	# constructor
-	def __init__(self, ta=None, pb=0.75, pk=2.5, topK=10):
+	def __init__(self, ta=None, va=None, pb=0.75, pk=2.5, topK=10):
 		self.ta = ta
+                self.va = va
 		self.pb = pb
 		self.pk = pk
 		self.topK = topK
@@ -36,6 +37,7 @@ class VSM(object):
 			for pid in pid_list:
 				p = self.ta.getPostById(bn[index], pid)
 				terms = VA.extractTermsFromPost(p)
+                                terms += self.va.extractTermsFromPhoto(p)
 				termlist += terms
 				for term in terms:
 					self.Blogs[index].TF[term] += 1
@@ -49,7 +51,7 @@ class VSM(object):
 		self.avglength = self.totallength/len(self.Blogs)
 		# trans RawTF into NormTF*IDF
 		for bs in self.Blogs:
-			tempd = float(0)
+			tempd = float(0
 			for key,value in bs.TF.iteritems():
 				bs.vector[key] = (self.pk+1)*value / (value+self.pk*(1-self.pb+self.pb*bs.blog_length/self.avglength)) * log(len(self.Blogs)/self.BlogFre[key])
 				tempd += bs.vector[key] * bs.vector[key]
@@ -71,6 +73,7 @@ class VSM(object):
 			for pid in pid_list:
 				p = self.ta.getPostById(queryBlog, pid)
 				terms = VA.extractTermsFromPost(p)
+                                terms += self.va.extractTermsFromPhoto(p)
 				termlist += terms
 				for term in terms:
 					Query.TF[term] += 1
