@@ -7,8 +7,8 @@ import math
 def loadModel(number):
     model = {}
     f = open('small-GN-300-neg.txt','r')
-    tmp = f.readline()
-    tmp = f.readline()
+    # tmp = f.readline()
+    # tmp = f.readline()
     ### Take only the first @number of words ###
     for i in range(number):
         line = f.readline()
