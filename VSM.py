@@ -51,7 +51,7 @@ class VSM(object):
 		self.avglength = self.totallength/len(self.Blogs)
 		# trans RawTF into NormTF*IDF
 		for bs in self.Blogs:
-			tempd = float(0
+			tempd = float(0)
 			for key,value in bs.TF.iteritems():
 				bs.vector[key] = (self.pk+1)*value / (value+self.pk*(1-self.pb+self.pb*bs.blog_length/self.avglength)) * log(len(self.Blogs)/self.BlogFre[key])
 				tempd += bs.vector[key] * bs.vector[key]
