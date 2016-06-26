@@ -87,14 +87,14 @@ def get_page(url):
     while True:
         try:
             cookie_jar.add_cookie_header(request)
+            response = urlopen(request)
+            cookie_jar.extract_cookies(response, request)
             break
         except:
-            time.sleep(1)
+            time.sleep(2)
             print url + "Error"
             continue
 
-    response = urlopen(request)
-    cookie_jar.extract_cookies(response, request)
     html = response.read()
     response.close()
     cookie_jar.save()
