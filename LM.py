@@ -15,8 +15,10 @@ def legalImageType(url):
 
 if __name__ == "__main__":
 
-	output_file = open('LMresult', 'a')
+	output_file = open('../LMresult', 'w')
 	input_file = open('../blogList', 'r').read().split('\n')
+	if input_file[len(input_file)-1] == '':
+		input_file = input_file[:len(input_file)-1]
 
 	SMOOTHING = 0.2
 	Terms = []
@@ -94,8 +96,9 @@ if __name__ == "__main__":
 
 	# LM
 	for testBn in input_file:
+		print "Evaluate", testBn
 		b = ta.getBlogByName(testBn)
-		continue
+		# continue
 		pid_list = b.getAllPosts()
 		terms = []
 		for pid in pid_list:
@@ -104,9 +107,17 @@ if __name__ == "__main__":
 		blogProbability = {}
 		for bn in blogNames:
 			blogProbability[bn] = countBlogProbability(bn, terms)
-		maxTopic = findMax(blogProbability)
+		# maxTopic = findMax(blogProbability)
+		rankingDict = []
+		print "Sorting", testBn
 		for key, value in sorted(blogProbability.iteritems(), key=lambda (k,v): (v,k)):
-    		print "%s: %s" % (key, value)
+			rankingDict.append((key, value))
+		output_file.write(str(testBn) + '\n')
+		for i in range(len(rankingDict)-1, len(rankingDict)-7, -1):
+			if rankingDict[i][0] == testBn:
+				continue
+			else:
+				output_file.write(str(rankingDict[i][0]) + ' ' + str(rankingDict[i][1]) + '\n')
 		
 	output_file.close()
 	sys.exit(0)
