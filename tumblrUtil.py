@@ -88,7 +88,7 @@ class TumblrAgent(object):
 
 	def __write_cache(self, data):
 		# disable
-		return
+		# return
 		"""
 		to write the given data to cache
 		"""
@@ -110,7 +110,7 @@ class TumblrAgent(object):
 		self.__data['blogs'][blog_name] = TumblrBlog(raw['blog'])
 		for raw_p in raw['posts']:
 			p = TumblrPost(raw_p)
-			self.__data['posts'][p.getId()] = p
+			self.__data['posts'][str(p.getId())] = p
 			self.__data['blogs'][blog_name].addPost(p.getId())
 		print >> sys.stderr, "processed %d posts for this blog: %s" % (len(raw['posts']), blog_name)
 		# check whether there are still posts to retrieve
