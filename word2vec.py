@@ -6,7 +6,7 @@ import math
 
 def loadModel(number):
     model = {}
-    f = open('GN-300-neg.txt','r')
+    f = open('small-GN-300-neg.txt','r')
     tmp = f.readline()
     tmp = f.readline()
     ### Take only the first @number of words ###
@@ -43,7 +43,7 @@ def loadVecs(names):
 if __name__ == '__main__':
     ta = TA()
     print >> sys.stderr, 'Done loading TumblrAgent' 
-    model = loadModel(30000)
+    model = loadModel(200000)
     print >> sys.stderr, 'Done loading word2vec model'
     blognames = ta.getAllBlogs()
     # blogs = []
@@ -82,7 +82,11 @@ if __name__ == '__main__':
         queryName = raw_input()
         if queryName == "EXIT":
             break
-        blog = ta.getBlogByName(queryName)
+        try:
+            blog = ta.getBlogByName(queryName)
+        except:
+            print 'No such blog name'
+            continue
         postIds = blog.getAllPosts()
         v = np.zeros(300)
         for Id in postIds:
@@ -90,6 +94,12 @@ if __name__ == '__main__':
             for tag in post.getTags():
                 if tag in model:
                     v += model[tag]
+            otherTerms = VA.extractTermsFromPost(post)
+            for term in otherTerms:
+                if term in model:
+                    count += 1
+                    v += model[term]
+
         # Now I have the vector
         dists = []
         for bv in vecs:
