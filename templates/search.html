@@ -5,23 +5,42 @@
 	</head>
 	<body>
 		<a href="/"><h5>back</h5></a>
-		<h3>Search result for {{ blog_name }} </h3>
-		{% if info %}
-		<h1>{{ info.title }}</h1>
-		<a href="{{ info.url }}" target="_blank">link</a>
-		<h3>Total # of posts: {{ info.posts }}</h3>
-		<h3>Not safe for work? {{ info.is_nsfw }} </h3>
-		<h3>Description</h3>
-		<p> {{ info.description }} </p>
-		{% else %}
-		<h1>No Results.</h1>
-		{% endif %}
-		<!-- posts section -->
-		<h3>There are {{ posts.total_posts }} posts</h3>
-		<ul>
-		{% for post in posts.posts %}
-		<li><a href="{{ post.post_url }}" target="_blank">id = {{ post.id }}</a></li>
-		{% endfor %}
-		</ul>
+		<h3>Search result for {{ blogName }} </h3>
+		<fieldset>
+			<legend>VSM Results</legend>
+			{% if vsmResult %}
+			<ul>
+				{% for blog in vsmResult %}
+				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				{% endfor %}
+			</ul>
+			{% else %}
+			<h5>No Results</h5>
+			{% endif %}
+		</fieldset>
+		<fieldset>
+			<legend>LM Results</legend>
+			{% if lmResult %}
+			<ul>
+				{% for blog in lmResult %}
+				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				{% endfor %}
+			</ul>
+			{% else %}
+			<h5>No Results</h5>
+			{% endif %}
+		</fieldset>
+		<fieldset>
+			<legend>Word2Vec Results</legend>
+			{% if w2vResult %}
+			<ul>
+				{% for blog in w2vResult %}
+				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				{% endfor %}
+			</ul>
+			{% else %}
+			<h5>No Results</h5>
+			{% endif %}
+		</fieldset>
 	</body>
 </html>

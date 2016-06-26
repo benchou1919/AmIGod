@@ -1,8 +1,19 @@
 from flask import Flask, render_template, redirect, request
-import tumblrUtil
+from tumblrUtil import TumblrAgent as TA
+import logging
+# from word2vecAsClass import W2V
 
+# global variables
+ta = None
+w2v = None
 app = Flask(__name__)
-tClient = tumblrUtil.TumblrClient()
+
+def initializeGlobalVariables():
+	global ta, w2v
+	logging.debug('initializing TumblrAgent ...')
+	ta = TA()
+	logging.debug('initializing W2V ...')
+	# w2v = W2V(ta=ta)
 
 @app.route("/")
 def index():
@@ -10,14 +21,19 @@ def index():
 
 @app.route("/search", methods=['POST'])
 def search():
-	global tClient
-	blog_url = request.form['blog_url']
-	info = tClient.getBlogInfo(blog_url)['blog']
-	# posts = tClient.getBlogPostById(blog_name=blog_url, post_id=145759083652, include_reblog=True, include_notes=True)
-	posts = tClient.getBlogPostsByTag(blog_name=blog_url, tag="", limit=100, offset=0, include_reblog=False, include_notes=False)
-	return render_template('search.html', blog_name=blog_url, info=info, posts=posts), 200
+	blogName = request.form['blogName']
+	w2vResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
+	vsmResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
+	lmResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
+	return render_template('search.html', blogName=blogName, w2vResult=w2vResult, vsmResult=vsmResult, lmResult=lmResult), 200
 
 if __name__ == "__main__":
 	app.debug = True
+	logging.basicConfig(level=logging.DEBUG)
+	
+	logging.debug('initializing global variables...')
+	initializeGlobalVariables()
+
+	logging.debug('running on port 8080 ...')
 	app.run(port=8080)
 

@@ -62,7 +62,57 @@ class VocabAgent(object):
 		return terms
 
 	def __init__(self):
-		pass
+		self.__data_path = []
+		self.__photo_text = {}
 
 	def load(self, path):
-		pass
+		# check path
+		if not os.path.isfile(path):
+			return False
+		# check if loaded
+		if path in self.__data_path:
+			return False
+		with open(path, "r") as f:
+			for line in f:
+				tokens = line.strip().split()
+				bn = tokens[0] # blog name
+				pid = tokens[1] # post id
+				terms = tokens[2:]
+				if not bn in self.__photo_text.keys():
+					self.__photo_text[bn] = {}
+				if not pid in self.__photo_text[bn].keys():
+					self.__photo_text[bn][pid] = []
+				self.__photo_text[bn][pid] += terms
+		self.__data_path.append(path)
+		return True
+
+	def dump(self, path):
+		if os.path.exists(path):
+			return False
+		with open(path, "w") as f:
+			for bn in self.__photo_text.keys():
+				for pid in self.__photo_text[bn].keys():
+					s = "%s %s " % (bn, pid)
+					for term in self.__photo_text[bn][pid]:
+						s += "%s " % (term)
+					f.write(s + "\n")
+		return True
+
+	def getAllLoadedPaths(self):
+		return self.__data_path
+	
+	def extractTermsFromPhoto(self, tumblrPost):
+		ret = []
+		# get blog name and post id
+		try:
+			bn = tumblrPost.getBlogName()
+			pid = str(tumblrPost.getId())
+		except:
+			return []
+		# return the photo text terms
+		if bn in self.__photo_text.keys() and pid in self.__photo_text[bn].keys():
+			ret = self.__photo_text[bn][pid]
+		return ret
+
+
+
