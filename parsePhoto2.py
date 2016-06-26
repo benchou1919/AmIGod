@@ -34,7 +34,7 @@ if __name__ == "__main__":
 			pid = post[0]
 			photoUrl = post[1]
 			print blogName.strip(), pid, photoUrl
-			output_file.write('b=' + str(blogName) + '\n')
+			output_file.write('b=' + str(blogName))
 			output_file.write('p=' + str(pid) + '\n')
 			# ocrData = []
 			parserData = []
