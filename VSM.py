@@ -93,12 +93,8 @@ class VSM(object):
 
 		self.Blogs.sort(key=lambda x: x.relativity,reverse=True)
 
-		return
-
-
-
-
-
+		ret = [(b.blog_name, b.relativity) for b in self.Blogs[0:self.topK]]
+		return ret
 
 
 
