@@ -39,6 +39,26 @@ def loadVecs(names):
         vecs.append((names[i], v))
     return vecs
     
+def loadVecFromBlog(ta, blog):
+    # blog = ta.getBlogByName(name)
+    print blog.getName()
+    postIds = blog.getAllPosts()
+    count = 0
+    v = np.zeros(300)
+    
+    for postId in postIds:
+        post = ta.getPostById(blog.getName(), postId)
+        tags = post.getTags()
+        ### tags ###
+        for tag in tags:
+            if tag in model:
+                v += model[tag]
+        ### other terms ###
+        otherTerms = VA.extractTermsFromPost(post)
+        for term in otherTerms:
+            if term in model:
+                v += model[term]
+    return v
 
 if __name__ == '__main__':
     ta = TA()
@@ -52,53 +72,31 @@ if __name__ == '__main__':
     vecs = []
     for name in blognames:
         blog = ta.getBlogByName(name)
-        postIds = blog.getAllPosts()
-        count = 0
-        v = np.zeros(300)
-        
-        for postId in postIds:
-            post = ta.getPostById(blog.getName(), postId)
-            tags = post.getTags()
-            ### tags ###
-            for tag in tags:
-                if tag in model:
-                    count += 1
-                    v += model[tag]
-            ### other terms ###
-            otherTerms = VA.extractTermsFromPost(post)
-            for term in otherTerms:
-                if term in model:
-                    count += 1
-                    v += model[term]
-
+        v = loadVecFromBlog(ta, blog)
         vecs.append((name, v))
         for element in v:
             w.write(str(element) + " ")
         w.write("\n")
-        print count
 
     topK = 10
+
     while True:
         queryName = raw_input()
         if queryName == "EXIT":
             break
         try:
-            blog = ta.getBlogByName(queryName)
+            if queryName not in ta.getAllBlogs():
+                blog = ta.getBlogByName(queryName)
+                ### calculate the vector for query blog ###
+                newV = loadVecFromBlog(ta, blog)
+                vecs.append((queryName, newV))
+            else:
+                blog = ta.getBlogByName(queryName)
         except:
             print 'No such blog name'
             continue
-        postIds = blog.getAllPosts()
-        v = np.zeros(300)
-        for Id in postIds:
-            post = ta.getPostById(blog.getName(), Id)
-            for tag in post.getTags():
-                if tag in model:
-                    v += model[tag]
-            otherTerms = VA.extractTermsFromPost(post)
-            for term in otherTerms:
-                if term in model:
-                    count += 1
-                    v += model[term]
+
+        v = loadVecFromBlog(ta, ta.getBlogByName(queryName))
 
         # Now I have the vector
         dists = []
