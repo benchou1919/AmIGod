@@ -16,16 +16,17 @@ def legalImageType(url):
 if __name__ == "__main__":
 
 	output_file = open('../LMresult', 'w')
-	input_file = open('../blogList', 'r').read().split('\n')
+	input_file = open('../blogList_test', 'r').read().split('\n')
 	if input_file[len(input_file)-1] == '':
 		input_file = input_file[:len(input_file)-1]
 
-	SMOOTHING = 0.2
+	SMOOTHING = 0.05
 	Terms = []
 	wordCount = {}
 
 	# use TumblrAgent
 	ta = TA()
+	va = VA()
 	blogNames = ta.getAllBlogs()
 	for bn in blogNames:
 		wordCount[bn] = {}
