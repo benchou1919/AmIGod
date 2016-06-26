@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, request
 from tumblrUtil import TumblrAgent as TA
 import logging
-# from word2vecAsClass import W2V
+from word2vecAsClass import W2V
 
 # global variables
 ta = None
@@ -13,7 +13,7 @@ def initializeGlobalVariables():
 	logging.debug('initializing TumblrAgent ...')
 	ta = TA()
 	logging.debug('initializing W2V ...')
-	# w2v = W2V(ta=ta)
+	w2v = W2V(ta=ta)
 
 @app.route("/")
 def index():
@@ -21,10 +21,11 @@ def index():
 
 @app.route("/search", methods=['POST'])
 def search():
+	global w2v
 	blogName = request.form['blogName']
-	w2vResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
 	vsmResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
 	lmResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
+	w2vResult = w2v.queryByBlogName(blogName)
 	return render_template('search.html', blogName=blogName, w2vResult=w2vResult, vsmResult=vsmResult, lmResult=lmResult), 200
 
 if __name__ == "__main__":
