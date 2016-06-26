@@ -12,6 +12,7 @@ Terms = []
 wordCount = {}
 
 output_file = open('../LMresult', 'w')
+wordcount_file = open('../wordcount_file', 'w')
 input_file = open('data/DB_blogs', 'r').read().split('\n')
 
 # use TumblrAgent
@@ -25,8 +26,8 @@ def legalImageType(url):
 	path = url.split('.')
 	iType = path[len(path)-1]
 	if iType == 'jpg' or iType == 'png':
-		return True;
-	return False;
+		return True
+	return False
 
 def addBlog(blog, _wordCount):
 	_wordCount[blog] = {}
@@ -48,10 +49,15 @@ def addBlog(blog, _wordCount):
 				_wordCount[blog]['words'][term] += 1
 		_wordCount[blog]['terms'] += terms
 	_wordCount[blog]['unique_length'] = len(_wordCount[blog]['words'].keys())
+	wordcount_file.write(str(blog) + '\n')
 	for key in _wordCount[blog]['words']:
+		wordcount_file.write(str(key) + ' ' + _wordCount[blog]['words'][key] + '\n')
 		# if key not in Terms:
 		# 	Terms.append(key)
 		_wordCount[blog]['length'] += _wordCount[blog]['words'][key]
+	wordcount_file.write('\n')
+	wordcount_file.write(_wordCount[blog]['length'] + '\n')
+	wordcount_file.write('\n')
 	print blog, _wordCount[blog]['length'], _wordCount[blog]['unique_length']
 
 def wordProbability(word, blog):
@@ -78,10 +84,10 @@ def makeProbabilityDict(testBn):
 	return blogProbability
 
 def sortDict(blogProbability):
-	rankingDict = []
+	rankingList = []
 	for key, value in sorted(blogProbability.iteritems(), key=lambda (k,v): (v,k)):
-		rankingDict.append((key, value))
-	return rankingDict
+		rankingList.append((key, value))
+	return rankingList
 
 def findMax(dictionary):
 	maxKey = ''
@@ -101,6 +107,8 @@ if __name__ == "__main__":
 	for bn in ta.getAllBlogs():
 		addBlog(bn, wordCount)
 
+	wordcount_file.close()
+
 	# LM
 	for testBn in input_file:
 		print "Evaluate", testBn
@@ -111,19 +119,19 @@ if __name__ == "__main__":
 		blogProbability = makeProbabilityDict(testBn)
 
 		print "Sorting", testBn
-		rankingDict = sortDict(blogProbability)
+		rankingList = sortDict(blogProbability)
 
 		output_file.write(str(testBn) + '\n')
 
-		lower_bound = len(rankingDict)-12
+		lower_bound = len(rankingList)-12
 		if lower_bound < -1:
 			lower_bound = -1
 
-		for i in range(len(rankingDict)-1, lower_bound, -1):
-			if rankingDict[i][0] == testBn:
+		for i in range(len(rankingList)-1, lower_bound, -1):
+			if rankingList[i][0] == testBn:
 				continue
 			else:
-				output_file.write(str(rankingDict[i][0]) + ' ' + str(rankingDict[i][1]) + '\n')	
+				output_file.write(str(rankingList[i][0]) + ' ' + str(rankingList[i][1]) + '\n')	
 	output_file.close()
 
 	while True:
@@ -136,16 +144,16 @@ if __name__ == "__main__":
 		blogProbability = makeProbabilityDict(blogname_input)
 
 		print "Sorting", blogname_input
-		rankingDict = sortDict(blogProbability)
+		rankingList = sortDict(blogProbability)
 
-		lower_bound = len(rankingDict)-12
+		lower_bound = len(rankingList)-12
 		if lower_bound < -1:
 			lower_bound = -1
 
-		for i in range(len(rankingDict)-1, lower_bound, -1):
-			if rankingDict[i][0] == blogname_input:
+		for i in range(len(rankingList)-1, lower_bound, -1):
+			if rankingList[i][0] == blogname_input:
 				continue
 			else:
-				print str(rankingDict[i][0]) + ' ' + str(rankingDict[i][1]) + '\n'
+				print str(rankingList[i][0]) + ' ' + str(rankingList[i][1]) + '\n'
 
 	sys.exit(0)
