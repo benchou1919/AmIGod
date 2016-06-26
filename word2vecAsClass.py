@@ -15,7 +15,7 @@ class W2V(object):
 
     def loadWordVecs(self, numWords):
         model = {}
-        f = open('small-GN-300-neg.txt','r')
+        f = open('data/small-GN-300-neg.txt','r')
         # tmp = f.readline()
         # tmp = f.readline()
         ### Take only the first @number of words ###
