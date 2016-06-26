@@ -26,7 +26,10 @@ if __name__ == "__main__":
 	limit = int(sys.argv[2])
 
 	for blogName in queryF:
-		convertList = DB_urls[blogName.strip()][:limit]
+		if blogName.strip() not in DB_urls:
+			continue
+		photoList = DB_urls[blogName.strip()]
+		convertList = photoList[:min(limit, len(photoList))]
 		for post in convertList:
 			pid = post[0]
 			photoUrl = post[1]
