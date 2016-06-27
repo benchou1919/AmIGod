@@ -39,8 +39,9 @@ class LanguageModel(object):
 			index += 2
 			print bn, self.wordCount[bn]['length']
 
-		for bn in self.wordCount.keys():
-			self.rankingResult[bn] = self.__make_probability_dict(bn)
+		# too slow, skip
+		# for bn in self.wordCount.keys():
+		# 	self.rankingResult[bn] = self.__make_probability_dict(bn)
 
 		pass
 
