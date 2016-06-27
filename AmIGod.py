@@ -38,7 +38,7 @@ def search():
 	return render_template('search.html', blogName=blogName, w2vResult=w2vResult, vsmResult=vsmResult, lmResult=lmResult), 200
 
 if __name__ == "__main__":
-	app.debug = True
+	app.debug = False
 	logging.basicConfig(level=logging.DEBUG)
 	
 	logging.debug('initializing global variables...')

@@ -11,7 +11,7 @@
 			{% if vsmResult %}
 			<ul>
 				{% for blog in vsmResult %}
-				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				<li><a href="http://{{ blog[0] }}.tumblr.com/" target="_blank">{{ blog[0] }}</a> ({{ blog[1] }})</li>
 				{% endfor %}
 			</ul>
 			{% else %}
@@ -23,7 +23,7 @@
 			{% if lmResult %}
 			<ul>
 				{% for blog in lmResult %}
-				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				<li><a href="http://{{ blog[0] }}.tumblr.com/" target="_blank">{{ blog[0] }}</a> ({{ blog[1] }})</li>
 				{% endfor %}
 			</ul>
 			{% else %}
@@ -35,7 +35,7 @@
 			{% if w2vResult %}
 			<ul>
 				{% for blog in w2vResult %}
-				<li>{{ blog[0] }} ({{ blog[1] }})</li>
+				<li><a href="http://{{ blog[0] }}.tumblr.com/" target="_blank">{{ blog[0] }}</a> ({{ blog[1] }})</li>
 				{% endfor %}
 			</ul>
 			{% else %}
