@@ -92,7 +92,11 @@ class VSM(object):
 			for key,value in bs.vector.iteritems():
 				temprel += value * Query.vector[key]
 
-			bs.relativity = temprel/(bs.vector_d*Query.vector_d)
+			denominator = bs.vector_d * Query.vector_d
+			if denominator == 0:
+				bs.relativity = float("-INF")
+			else:
+				bs.relativity = temprel / denominator
 
 		self.Blogs.sort(key=lambda x: x.relativity,reverse=True)
 
