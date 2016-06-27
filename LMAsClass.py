@@ -2,7 +2,7 @@ import os, sys
 from math import log
 
 class LanguageModel(object):
-	def __init__(self, ta=None, va=None, sm=0.05, termlen=400000):
+	def __init__(self, ta=None, va=None, sm=0.03, termlen=600000):
 		self.SMOOTHING = sm
 		self.TREM_LENGTH = termlen
 		self.ta = ta
@@ -92,20 +92,20 @@ class LanguageModel(object):
 		blogLength = self.wordCount[blogName]['length']
 		return float(self.SMOOTHING+wordInTopic) / float(self.SMOOTHING*self.TREM_LENGTH+blogLength)
 
-	def __sort_probability_dict(blogProbability):
+	def __sort_probability_dict(self, blogProbability):
 		ranking_list = []
-		for key, value in sorted(blogProbability.iteritems(), key=lambda (k,v): (v,k)):
+		for key, value in sorted(blogProbability.iteritems(), key=lambda (k,v): (v,k), reverse=True):
 			ranking_list.append((key, value))
 		return ranking_list
 
 	def query(self, blogName, topK=10):
 		if blogName in self.rankingResult.keys():
-			return self.rankingResult[blogName][0:topK]
+			return self.rankingResult[blogName][1:topK+1]
 		# update self.wordCount
 		self.__update_wordCount(blogName)
 		d = self.__make_probability_dict(blogName)
 		ranking_list = self.__sort_probability_dict(d)
 		# update self.rankingResult
 		self.rankingResult[blogName] = ranking_list
-		return ranking_list[0:topK]
+		return ranking_list[1:topK+1]
 
