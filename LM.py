@@ -51,12 +51,12 @@ def addBlog(blog, _wordCount):
 	_wordCount[blog]['unique_length'] = len(_wordCount[blog]['words'].keys())
 	wordcount_file.write(str(blog) + '\n')
 	for key in _wordCount[blog]['words']:
-		wordcount_file.write(str(key) + ' ' + _wordCount[blog]['words'][key] + '\n')
+		wordcount_file.write(str(key) + ' ' + str(_wordCount[blog]['words'][key]) + '\n')
 		# if key not in Terms:
 		# 	Terms.append(key)
 		_wordCount[blog]['length'] += _wordCount[blog]['words'][key]
 	wordcount_file.write('\n')
-	wordcount_file.write(_wordCount[blog]['length'] + '\n')
+	wordcount_file.write(str(_wordCount[blog]['length']) + '\n')
 	wordcount_file.write('\n')
 	print blog, _wordCount[blog]['length'], _wordCount[blog]['unique_length']
 
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 	if input_file[len(input_file)-1] == '':
 		input_file = input_file[:len(input_file)-1]
 
-	for bn in ta.getAllBlogs():
+	for bn in ['shittywigsinproductionsofjoseph']:
 		addBlog(bn, wordCount)
 
 	wordcount_file.close()
@@ -156,4 +156,5 @@ if __name__ == "__main__":
 			else:
 				print str(rankingList[i][0]) + ' ' + str(rankingList[i][1]) + '\n'
 
+	wordcount_file.close()
 	sys.exit(0)
