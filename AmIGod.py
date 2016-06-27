@@ -4,16 +4,18 @@ from vocabUtil import VocabAgent as VA
 import logging
 from word2vecAsClass import W2V
 from VSM import VSM
+from LMAsClass import LanguageModel
 
 # global variables
 ta = None
 va = None
 w2v = None
 vsm = None
+lm = None
 app = Flask(__name__)
 
 def initializeGlobalVariables():
-	global ta, va, w2v, vsm
+	global ta, va, w2v, vsm, lm
 	logging.debug('initializing TumblrAgent ...')
 	ta = TA()
 	logging.debug('initializing VocabAgent ...')
@@ -23,6 +25,8 @@ def initializeGlobalVariables():
 	w2v = W2V(ta=ta, va=va)
 	logging.debug('initializing VSM ...')
 	vsm = VSM(ta=ta, va=va)
+	logging.debug('initializing LM ...')
+	lm = LanguageModel(ta=ta, va=va)
 
 @app.route("/")
 def index():
@@ -30,10 +34,10 @@ def index():
 
 @app.route("/search", methods=['POST'])
 def search():
-	global w2v, vsm
+	global w2v, vsm, lm
 	blogName = request.form['blogName']
 	vsmResult = vsm.queryByBlogName(blogName)
-	lmResult = [('abcde', 0.99), ('cdefg', 0.83), ('asdf', 0.78), ('superbc28blog', 0.777), ('brianhuang', 0.54321)]
+	lmResult = lm.query(blogName)
 	w2vResult = w2v.queryByBlogName(blogName)
 	return render_template('search.html', blogName=blogName, w2vResult=w2vResult, vsmResult=vsmResult, lmResult=lmResult), 200
 
