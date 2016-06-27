@@ -1,5 +1,5 @@
 import os, sys
-
+from math import log
 
 class LanguageModel(object):
 	def __init__(self, ta=None, va=None, sm=0.05, termlen=400000):
@@ -13,11 +13,35 @@ class LanguageModel(object):
 		pass
 
 	def __construct_data_from_file(self):
-		"""
-		fill in:
-			self.wordCount
-			self.rankingResult
-		"""
+		with open('data/wordcount_file') as f:
+			content = f.readlines()
+		index = 0
+		while index < len(content):
+			if content[index] != '\n':
+				bn = content[index][:-1]
+				self.wordCount[bn] = {}
+				self.wordCount[bn]['length'] = 0
+				# self.wordCount[bn]['unique_length'] = 0
+				self.wordCount[bn]['words'] = {}
+				self.wordCount[bn]['terms'] = []
+				index += 1
+			else:
+				index += 1
+				continue
+			while content[index] != '\n':
+				parse = content[index][:-1].split()
+				term = parse[0]
+				count = int(parse[1])
+				self.wordCount[bn]['words'][term] = count
+				self.wordCount[bn]['length'] += count
+				self.wordCount[bn]['terms'] += [term]*count
+				index += 1
+			index += 2
+			print bn, self.wordCount[bn]['length']
+
+		for bn in self.wordCount.keys():
+			self.rankingResult[bn] = self.__make_probability_dict(bn)
+
 		pass
 
 	def __update_wordCount(self, blogName):
@@ -25,7 +49,7 @@ class LanguageModel(object):
 			return
 		self.wordCount[blogName] = {}
 		self.wordCount[blogName]['length'] = 0
-		self.wordCount[blogName]['unique_length'] = 0
+		# self.wordCount[blogName]['unique_length'] = 0
 		self.wordCount[blogName]['words'] = {}
 		self.wordCount[blogName]['terms'] = []
 		print >> sys.stderr, "Parsing", blogName
@@ -41,15 +65,16 @@ class LanguageModel(object):
 				else:
 					self.wordCount[blogName]['words'][term] += 1
 			self.wordCount[blogName]['terms'] += terms
-		self.wordCount[blogName]['unique_length'] = len(self.wordCount[blogName]['words'].keys())
+		# self.wordCount[blogName]['unique_length'] = len(self.wordCount[blogName]['words'].keys())
 		for key in self.wordCount[blogName]['words']:
 			self.wordCount[blogName]['length'] += self.wordCount[blogName]['words'][key]
-		print >> sys.stderr, blogName, self.wordCount[blogName]['length'], self.wordCount[blogName]['unique_length']
+		print >> sys.stderr, blogName, self.wordCount[blogName]['length']
 
 	def __make_probability_dict(self, blogName):
 		blogProbability = {}
-		for bn in self.ta.getAllBlogs():
+		for bn in self.wordCount.keys():
 			blogProbability[bn] = self.__countBlogProbability(bn, self.wordCount[blogName]['terms'])
+		print '__make_probability_dict', blogName, 'OK'
 		return blogProbability
 
 	def __countBlogProbability(self, blogName, content):
